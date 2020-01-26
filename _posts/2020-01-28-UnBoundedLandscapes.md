@@ -1,4 +1,3 @@
-#2020-01-28-UnBoundedLandscapes 
 # Part II Perception and Cognition of aFICS Landscapes
 # 3. Gon on the Unbounded Landscape
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
@@ -22,7 +21,7 @@ our empty natural 105mx68m pitch for first time and his trainer invites him to e
 landscape.
 
     - The set of _agents_ is a singleton: {Gon}    
-![](/images/landscapeU.pnh "Figure. 3.1. Gon in the Unbounded Landscape")
+![](/images/landscapeU.png "Figure. 3.1. Gon in the Unbounded Landscape")
 ### 3.1.3. Explore and Exploit the Environment Constrained by His Vision Field
 Gon has nil information about the environment. So, he can not _exploit_ its knowledge about the environment. (neither the 
 landscape nor the game with the ball) He has first to _explore_ around the unbounded landscape.
