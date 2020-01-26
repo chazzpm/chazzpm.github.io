@@ -134,5 +134,5 @@ This new '**language game**' to be used about the new football universe in which
 and a disruption to be assimilated as **culture** or dominant mindset for academies, clubs, associations, players, head 
 coaches, trainers, agents, journalists, fans, enterprises and, any alien in the **aFootball Universe**. 
 
-[^1]: In geometric calculus disciplines any 2D motion is a rotation and any trajectory is a sequence of rotations. An 
-aFootball of rotors and  multivectors. But, this comment is material for another special blog publication.
+[^1]: In geometric calculus disciplines any 2D motion is a rotation and any trajectory is a sequence of rotations.
+An aFootball of rotors and  multivectors. But, this comment is material for another special blog publication.
