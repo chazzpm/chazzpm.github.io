@@ -130,9 +130,9 @@ variable is what we call **time** and has no meaning in the structure of the wor
 which football happens to be, when described in terms of the macroscopic parameters we  have chosen. So, the language game and 
 football flow dynamics are event driven.
 
-This new 'language game' to be used about the new football universe in which all are immersed today. It is an innovation and
-a disruption to be assimilated as culture or dominant mindset for academies, clubs, associations, players, head coaches, 
-trainers, agents, journalists, fans, enterpreses and, any alien in the aFootball Universe. 
+This new '**language game**' to be used about the new football universe in which all are immersed today. It is an innovation
+and a disruption to be assimilated as **culture** or dominant mindset for academies, clubs, associations, players, head 
+coaches, trainers, agents, journalists, fans, enterprises and, any alien in the **aFootball Universe**. 
 
-[^1]: In geometric calculus disciplines, like Clifford algebras, any 2D motion is a rotation and any trajectory a multivector 
-or sequence of rotations. This comment is material for another special blog publication.
+[^1]: In geometric calculus disciplines, like Clifford algebras, any 2D motion is a rotation and any trajectory is a sequence
+of rotations or a multivector. But, this comment is material for another special blog publication.
