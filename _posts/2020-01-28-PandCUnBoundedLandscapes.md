@@ -44,7 +44,7 @@ surroundings.
 
 These skills reduce Gon's blind zone constrains significantively. Gon understand the meaning of _affordances offered_ for the 
 environment as "opportunities to move".
-![](/images/FieldVision.png "Figure. 3.2. The Field of Vision and the Blind Zone")
+![](/images/XVisualFieldHoriz.jpeg "Figure. 3.2. The Field of Vision and the Blind Zone")
 ## 3.2. Gon's Local and Global Symmetry Exploration of the Unbounded Landscape
 Gon will find out, in the proto space-time, **in which direction he must take to move his body**. He will perceive _the 
 infinite set of_ **affordances** or _opportunities of actions in the omnidirectional open space_ that emerges and that are 
@@ -58,6 +58,7 @@ offered by the unbounded landscape.
     symmetry**: _"The infinite affordance"_.
 
 ![](/images/rotsymmetry.jpg "Figure. 3.3. The Infinite Affordances Set in the Unbounded Landscape")
+
 Therefore, in principle, 
 - _there is no need of global exploration of the unbounded field_ because any _local information_ about is the same in any 
 other place and therefore, the _local information_ is in _coherence_, in entanglement with the **global_information**; because 
