@@ -1,6 +1,5 @@
 #2020-01-28-UnBoundedLandscapes 
-# Part II 
-# Perception and Cognition of aFICS Football Landscapes
+# Part II Perception and Cognition of aFICS Landscapes
 # 3. Gon on the Unbounded Landscape
 
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
