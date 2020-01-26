@@ -56,7 +56,7 @@ offered by the unbounded landscape.
     experience the **cosmic string** [Witten] in the unbounded, uniform landscape that exhibts an invariant **2π rotational 
     symmetry**: _"The infinite affordance"_.
 
-![](/images/Xrotsymmetry.jpg "Figure. 3.3. The Infinite Affordances Set in the Unbounded Landscape")
+![](/images/CosmicString.png "Figure. 3.3. The Infinite Affordances Set in the Unbounded Landscape")
 
 Therefore, in principle, 
 - _there is no need of global exploration of the unbounded field_ because any _local information_ about is the same in any 
@@ -102,6 +102,7 @@ This experience its materialized in the sense of **sidewayness** or **laterality
 laterality** zones. Football game is about to create xG opportunities at the end-up part where an _effective contralateral 
 action_ put the ball on the net of the others goal on and to block it in our goal.
 ![](/images/landscapeU.png "Figure. 3.4. a. Gon and b. Ball References in the Constrained Unbounded Landscape")
+
 The canvas for the animation is Academia Emeritense's pitch has a 105mx68m pitch. We will use for an unbounded landscape 
 105mx105m dimensions.
 ![](/images/landscapeU2.png "Figure. 3.5. Sidewayness and Countersidewayness in the Constrained Unbounded Landscape")
