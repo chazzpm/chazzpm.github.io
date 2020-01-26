@@ -4,7 +4,7 @@
 
                                                - Mein Fuβball Weltanschauung
 
-1. TOC
+2. TOC
 {:toc}
 
 ## 2.1. A Relational Dynamics Model for Football Universe
