@@ -1,14 +1,14 @@
-# 1. aNatureTechnologies Intelligent-Cognitive-Synergestic Football aFICS
+# 0. aNatureTechnologies Intelligent-Cognitive-Synergestic Football aFICS
 
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
 
                    - "I will not write it for you, I am writing it for me. 
                        No idea if for an us, in any near future"
 
-1. TOC
+0. TOC
 {:toc}
                                               
-### aFICS: A Culture of Innovation and Disruption
+### 0.1. aFICS: A Culture of Innovation and Disruption
 This blog is an effort to build a **culture of innovations and disruptions** [vmware-2018] based on a reflection about the
 **mindset of science in football** with **machine learning ML data science** efforts and discipline to achieve:
 
@@ -20,7 +20,7 @@ capable to react to an onslaught challenges and coming out even stronger and **r
 - *Foster diversity*, in a culture of innovations that has to be pervasive across everything we do, to create the *ability to
 disrupt ourselves*.
 
-### Football as an evolutionary game where emerge a style or identity
+### 0.2. Football as an evolutionary game where emerge a style or identity
 Football is a spatial evolutionary game in which from our enterprise culture, a synergestic environment with ethical standard, 
 are relevant traits that must characterize the *style or identity* of our synergons and aFICS teams.
 
@@ -40,7 +40,7 @@ of the aFICS team immerse in the synergestic stress of our cultural environment 
 These ideas summarizes the **dimensions of synergestic, cognitive and intelligent football** used to develop and evolve at
 Academia Emeritense FC as aFICS synergons and aFICS teams.
 
-### aFICS Blog: A tool at hand to expose my based on science mindset perspective
+### 0.3. aFICS Blog: A tool at hand to expose my based on science mindset perspective
 In the blog, I explore how is that we can all live in the same Football's universe yet see reality so differently. I will 
 adopt science's mindset to walk through in this phenomenon with an aFICS vision.
 
