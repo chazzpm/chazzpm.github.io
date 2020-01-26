@@ -1,4 +1,4 @@
-#2020-01-28-PandCUnBoundedLandscapes 
+#2020-01-28-UnBoundedLandscapes 
 # Part II 
 # Perception and Cognition of aFICS Football Landscapes
 # 3. Gon on the Unbounded Landscape
@@ -57,7 +57,7 @@ offered by the unbounded landscape.
     experience the **cosmic string** [Witten] in the unbounded, uniform landscape that exhibts an invariant **2π rotational 
     symmetry**: _"The infinite affordance"_.
 
-![](/images/rotsymmetry.jpg "Figure. 3.3. The Infinite Affordances Set in the Unbounded Landscape")
+![](/images/Xrotsymmetry.jpg "Figure. 3.3. The Infinite Affordances Set in the Unbounded Landscape")
 
 Therefore, in principle, 
 - _there is no need of global exploration of the unbounded field_ because any _local information_ about is the same in any 
