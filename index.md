@@ -1,7 +1,12 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Welcome to aNTaFICS blog, where I summarize ideas related to the dimensions of **intelligent, cognitive and synergestic football aFICS vision** used to develop and evolve at **Academia Emeritense FC** our **aFICS synergons** and **aFICS teams**.
 
-![Image of fast.ai logo](images/logo.png)
+In the blog, I explore my perspective and reflexion about how is that we can all live in the same Football's Universe yet see reality so differently. I will adopt *science's mindset* to walk through in this phenomenon of **aFICS football**.
 
-## This is a title
+![](images/aFICS_2logo.png "aNT-aFICS logo")
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## alterNatureTechnology Project on Data Science Analytics and Machine Learning about aFICS in AcEmFC
+Twitter: @aNatureTech 
+
+Future links: Thanks to [https://www.fast.ai], [link to fast.ai]()
+
+
