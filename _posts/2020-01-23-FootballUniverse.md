@@ -2,7 +2,7 @@
 
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
 
-                                                  - Mein Fuβball Weltanschauung
+                                               - Mein Fuβball Weltanschauung
 
 1. TOC
 {:toc}
