@@ -1,11 +1,11 @@
 #2020-01-28-UnBoundedLandscapes 
 # Part II Perception and Cognition of aFICS Landscapes
 # 3. Gon on the Unbounded Landscape
-
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
 
                  - Gon,"must perceive in order to move, but he must also move in order to perceive" [Gibson]
-1. TOC
+
+3. TOC
 {:toc}
 ## 3.1. Gon's Cognition of the Unbounded Landscape
 ### 3.1.1. The Universe of Football's Big-Bang
