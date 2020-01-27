@@ -143,5 +143,5 @@ practice in geolocalization, as in aFICS for football, to be analysed would be i
 - the static framed bounded landscape or the **aBLandscape** and,
 - the teams' dynamics as **Football Flow**
 
-Let us analyse the framed bounded landscape - aBLandscape - as the common reference for spatial practice of football.
 ![](/images/landscapeaB.jpg "Figure. 3.7. The Patched Bounded Landscape")
+Let us analyse the framed bounded landscape - aBLandscape - as the common reference for spatial practice of football.
