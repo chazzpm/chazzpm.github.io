@@ -3,7 +3,6 @@
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
 
       - Gon,"must perceive in order to move, but he must also move in order to perceive" [Gibson]
-
 3. TOC
 {:toc}
 ## 3.1. Gon's Cognition of the Unbounded Landscape
