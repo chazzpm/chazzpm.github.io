@@ -2,7 +2,7 @@
 # 3. Gon on the Unbounded Landscape
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
 
-                 - Gon,"must perceive in order to move, but he must also move in order to perceive" [Gibson]
+      - Gon,"must perceive in order to move, but he must also move in order to perceive" [Gibson]
 
 3. TOC
 {:toc}
@@ -104,8 +104,8 @@ action_ put the ball on the net of the others goal on and to block it in our goa
 
 The canvas for the animation is Academia Emeritense's pitch has a 105mx68m pitch. We will use for an unbounded landscape 
 105mx105m dimensions.
-![](/images/landscapeU2.png "Figure. 3.5. Sidewayness and Countersidewayness in the Constrained Unbounded Landscape")
-### 3.4. Gon must gain ball location space and take control of the Ball
+![](/images/landscapeU.png "Figure. 3.5. Sidewayness and Countersidewayness in the Constrained Unbounded Landscape")
+## 3.4. Gon must gain ball location space and take control of the Ball
 In this third-state emerges **space-time** because of the _possibility of a second event happening on the first thing in stasis_.
 For first time, on the positional thing can **potentially act** on his own body (possibility of execute an active inference 
 decided by Gon) a transformation or action decided by the consioussness Gon, the **firstman**, the monad, the player.
@@ -129,11 +129,11 @@ The last cognitive lessons that Gon acquiered were that
 - the _main dynamic references of aFICS_ is the **ball location** and the **direction of movement**
 
 In his perception of the events in the landscape he must have both lessons into account.
-### 3.5. The Bounded Landscape
+## 3.5. The Bounded Landscape
 Every body understand the need of a **perimeter** for playing in the landscape. A closed landscape to play called **bounded 
 landscape**
 ![](/images/landscapeB.jpg "Figure. 3.6. The Bounded Landscape")
-### 3.6. The Patched Bounded Landscape
+## 3.6. The Patched Bounded Landscape
 In aFootball our perspective of the game is in spatial-temporal terms. This view yields us to state that _there is an 
 **architecture of the football game** in the bounded landscape. This architecture of aFICS in the bounded landscape is all 
 about **creating space guided by affordances** and **coming into space at the right time**. 
@@ -143,5 +143,5 @@ practice in geolocalization, as in aFICS for football, to be analysed would be i
 - the static framed bounded landscape or the **aBLandscape** and,
 - the teams' dynamics as **Football Flow**
 
-Let us analyse the framed bounded landscape aBLandscape as the common reference for spatial practice of football.
-![](/images/landscapeaB.jpg "Figure. 3.6. The Patched Bounded Landscape")
+Let us analyse the framed bounded landscape - aBLandscape - as the common reference for spatial practice of football.
+![](/images/landscapeaB.jpg "Figure. 3.7. The Patched Bounded Landscape")
