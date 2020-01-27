@@ -25,7 +25,7 @@ manner to describe football has adopted the physical-mathematical model of obser
 an event-driven variable, that adopts the manner footballers experience their football universe on the pitch. I am 
 mathematical modeling such an experience, that is all.
 
-![](/images/LevyFlightEffdf.png "Figure 2.1. ")
+![](/images/LevyFlightEffdf.png "Figure 2.1. Dataframe of a Levy Flight in a Match")
 
 ### 2.1.1. Relevant Observations
 
@@ -99,7 +99,7 @@ events that happened during the match. A relational view of a Levy Flight or an 
 goal scored has been described and illustrated in relational drawings produced with '_matplotsoccer_' library [Decroos] like
 show in Figure 2.2.
 
-![](/images/LevyFlights_BELENG_WC2018.png "Figure 2.2.")
+![](/images/LevyFlights_BELENG_WC2018.png "Figure 2.2.Levy Flights in a Match")
 
 Now Gon has been learning and starting to talk a new '**language game**' for aFICS football and the local community - HC 
 technical team and synergons - that now on will begin to speak it fluently. But,any how the mathematical mindset push me to
