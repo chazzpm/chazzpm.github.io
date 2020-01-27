@@ -104,7 +104,7 @@ In this third-state,
 This experience its materialized in the sense of **sidewayness** or **laterality** and **counter-sidewayness** or **counter-
 laterality** zones. Football game is about to create xG opportunities at the end-up part where an _effective contralateral 
 action_ put the ball on the net of the others goal on and to block it in our goal.
-![](/images/landscapeUg.png "Figure. 3.4. a. Gon and b. Ball References in the Constrained Unbounded Landscape")
+![](/images/landscapeUg.png "Figure. 3.4. Gon References in the Constrained Unbounded Landscape")
 
 The canvas for the animation is Academia Emeritense's pitch has a 105mx68m pitch. We will use for an unbounded landscape 
 105mx105m dimensions.
@@ -138,7 +138,7 @@ In his perception of the events in the landscape he must have both lessons into 
 ## 3.5. The Bounded Landscape
 Every body understand the need of a **perimeter** for playing in the landscape. A closed landscape to play called **bounded 
 landscape**
-![](/images/landscapeB.jpg "Figure. 3.6. The Bounded Landscape")
+![](/images/landscapeB.png "Figure. 3.6. The Bounded Landscape")
 ## 3.6. The Patched Bounded Landscape
 In aFootball our perspective of the game is in spatial-temporal terms. This view yields us to state that _there is an 
 **architecture of the football game** in the bounded landscape. This architecture of aFICS in the bounded landscape is all 
@@ -149,5 +149,6 @@ practice in geolocalization, as in aFICS for football, to be analysed would be i
 - the static framed bounded landscape or the **aBLandscape** and,
 - the teams' dynamics as **Football Flow**
 
-![](/images/landscapeaB.jpg "Figure. 3.7. The Patched Bounded Landscape")
+![](/images/landscapeaB.png "Figure. 3.7. The Patched Bounded Landscape")
+
 Let us analyse the framed bounded landscape - aBLandscape - as the common reference for spatial practice of football.
