@@ -96,7 +96,7 @@ quantity that’s measurable. The _event_ has relations with the rest of the foo
 constitutes our _view_ of the football universe. To have complete paralellism, **football needs to be played in a framed 
 landscape**.
 
-![](/images/aFICS_1logo.png "Figure 1.1. Universe with only interior")
+![](/images/aFICS_1logo.jpg "Figure 1.1. Universe with only interior")
 
 Its classical view is the language game of journalists, espectators, fans and now in 21st century those with the language of 
 sport analytics where their observations and states about a football match - inside- are ruled by an absolute time with a
