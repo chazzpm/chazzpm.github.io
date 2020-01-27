@@ -22,6 +22,7 @@ landscape.
 
     - The set of _agents_ is a singleton: {Gon}    
 ![](/images/landscapeU.png "Figure. 3.1. Gon in the Unbounded Landscape")
+
 ### 3.1.3. Explore and Exploit the Environment Constrained by His Vision Field
 Gon has nil information about the environment. So, he can not _exploit_ its knowledge about the environment. (neither the 
 landscape nor the game with the ball) He has first to _explore_ around the unbounded landscape.
@@ -32,8 +33,9 @@ to move** is the first agency problem he must solve.
 
 Gon has a limited field of vision, like any human, from about 180-200 degrees horizontally determined by the combination of 
 foveal (looking standing) and peripheral (looking moving head on his shoulders) visions. Therefore in any standing position in 
-any time, there is a **blind zone** between 160-180 degrees that Gon is unable to see. The visual perception of movement is a 
-very important factor in the mantainance of equilibrium, where peripheral vision plays the important role. 
+any time, there is a **blind zone** between 160-180 degrees that Gon is unable to see. By moving his head can see up 300
+degrees horizontally. The visual perception of movement is a very important factor in the mantainance of equilibrium, where
+peripheral vision plays the important role. 
 
 Collecting visual information in the unbounded landscape means:
 - scanning the landscape by **moving his head and checking on his shoulders** Gon is able to collect information from 
@@ -42,7 +44,9 @@ surroundings.
 
 These skills reduce Gon's blind zone constrains significantively. Gon understand the meaning of _affordances offered_ for the 
 environment as "opportunities to move".
-![](/images/XVisualFieldHoriz.jpeg "Figure. 3.2. The Field of Vision and the Blind Zone")
+
+![](/images/HVvisualfield.png "Figure. 3.2. The Field of Vision and the Blind Zone")
+
 ## 3.2. Gon's Local and Global Symmetry Exploration of the Unbounded Landscape
 Gon will find out, in the proto space-time, **in which direction he must take to move his body**. He will perceive _the 
 infinite set of_ **affordances** or _opportunities of actions in the omnidirectional open space_ that emerges and that are 
@@ -100,11 +104,13 @@ In this third-state,
 This experience its materialized in the sense of **sidewayness** or **laterality** and **counter-sidewayness** or **counter-
 laterality** zones. Football game is about to create xG opportunities at the end-up part where an _effective contralateral 
 action_ put the ball on the net of the others goal on and to block it in our goal.
-![](/images/landscapeU.png "Figure. 3.4. a. Gon and b. Ball References in the Constrained Unbounded Landscape")
+![](/images/landscapeUg.png "Figure. 3.4. a. Gon and b. Ball References in the Constrained Unbounded Landscape")
 
 The canvas for the animation is Academia Emeritense's pitch has a 105mx68m pitch. We will use for an unbounded landscape 
 105mx105m dimensions.
-![](/images/landscapeU.png "Figure. 3.5. Sidewayness and Countersidewayness in the Constrained Unbounded Landscape")
+
+![](/images/landscapeUb.png "Figure. 3.5. Sidewayness and Countersidewayness in the Constrained Unbounded Landscape")
+
 ## 3.4. Gon must gain ball location space and take control of the Ball
 In this third-state emerges **space-time** because of the _possibility of a second event happening on the first thing in stasis_.
 For first time, on the positional thing can **potentially act** on his own body (possibility of execute an active inference 
