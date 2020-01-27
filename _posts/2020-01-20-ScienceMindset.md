@@ -4,7 +4,7 @@
 1. TOC
 {:toc}
 
-### 1.1. Gon, The First aFICS Synergon
+## 1.1. Gon, The First aFICS Synergon
 The main role of **Academia Emeritense FC** is the _development of synergons_ or aFICS players, where being member of an 
 AcEmFC's team in a pitch is just part of the extended environment where and how to play football with our identity. 
 
@@ -12,7 +12,7 @@ Let us assume our U5 talent name, a proactive inference agent (-on, a monad), is
 ideal synergon **G-on**, or **Gon** as apelative and, he will be the subject of our architecture of football education. If his
 name is Mauricio or Marcelo or Matias or Manuel, it would be called M-on or Mon, and the like.
 
-### 1.2. aFootball is a Form: System of Interactions over Time in an Unbounded Landscape
+## 1.2. aFootball is a Form: System of Interactions over Time in an Unbounded Landscape
 **Information** is _form_. The nature of _form_ is _relations between objects_. This is the reason to conceives **science** as 
 a _system_ of _relations over time_ in _space_. This multiple-Universe perspectives is the _core of the mindset of science_ 
 today.
@@ -35,7 +35,7 @@ If he concentrates persistently in this play-world he will enter into "Gon's flo
 do the _dynamical system of event-interactions_ analysis that happens on the aPitch as **football flow** at _every-patch and
 in every-event on the pitch_.
 
-### 1.3. Apply Classical Science Mindset to aFootball
+## 1.3. Apply Classical Science Mindset to aFootball
 Let us apply science mindset to the **Universe of the game of Football** conceived as a 3D infinite disk projected on a **2D 
 unbounded landscape with no things, no events and _no agents**; just a *universe of eternal nothingness and stasis*. No things 
 and no events means _no relations_ therefore, _no space-time_. To anneal, edify the unbounded landscape [Rovelli]. 
@@ -71,7 +71,7 @@ In the physical content solved _there is no preferred independent time variable_
 entities** - things, distances, events -. General relativity describes **the relative evolution of observables quantities**. 
 Therefore, Einstein broken the Newton's universal clock [Rovelli].
 
-### 1.4. The Latest Science Mindset: "There is only Interior and no Exterior in the Universe"
+## 1.4. The Latest Science Mindset: "There is only Interior and no Exterior in the Universe"
 On other hand, the statement that "**there is nothing outside the Universe**" implies a formulation of **physics without 
 background structure**. 
 
@@ -90,7 +90,7 @@ relations among things that happen.
 - We need a **pace** the imaginary way of describing relationships [Leibniz],[Smolin].
 - A **relational framework [The Monadology - Leibniz]**.
 
-### 1.5. In aFootball Universe there is only interior, not exterior in a Framed Landscape
+## 1.5. In aFootball Universe there is only interior, not exterior in a Framed Landscape
 In Football universe, the **event** are the things that happen at a single place and time; at each event there’s some physical 
 quantity that’s measurable. The _event_ has relations with the rest of the football universe, and that set of relations 
 constitutes our _view_ of the football universe. To have complete paralellism, **football needs to be played in a framed 
