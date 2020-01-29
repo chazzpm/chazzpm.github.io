@@ -1,7 +1,7 @@
-# 4. Architecture of Space of The Bounded Landscape
+# 4. On Construction 
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
-        - Gon,"must perceive in order to move, but he must also move in order to perceive" [Gibson]
+        - "  " [ .  ]
         
 4. TOC
 {:toc}
