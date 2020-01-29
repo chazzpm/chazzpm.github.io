@@ -2,7 +2,7 @@
 # 3. Gon on the Unbounded Landscape
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
 
-  - Gon,"must perceive in order to move,but he must also move in order to perceive"[Gibson]
+    - Gon,"must perceive in order to move,but he must also move in order to perceive"[Gibson]
 3. TOC
 {:toc}
 ## 3.1. Gon's Cognition of the Unbounded Landscape
@@ -11,7 +11,9 @@ For Gon the Universe of Football's Big-Bang happens when he sees a ball in the o
 our empty natural 105mx68m pitch for first time and his trainer invites him to experience it as an unbounded landscape. 
  
 ### 3.1.2. The Unbounded Landscape
-- Gon experiences the *proto-state* of a non-phenomenical unbounded landscape with no space-time, where there is neither things (no ball, no goals, no stadium, etc) nor human beings (no players, no head coaches, no arbiters, no spectators, etc), and therefore nor events.
+- Gon experiences the *proto-state* of a non-phenomenical unbounded landscape with no space-time, where there is neither
+things (no ball, no goals, no stadium, etc) nor human beings (no players, no head coaches, no arbiters, no spectators, etc),
+and therefore nor events.
     - The set of _things_ is empty: {}
     - The set of _agents_ is empty: {}
     - The set of _events_ is empty: {}
