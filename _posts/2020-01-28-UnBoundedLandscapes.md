@@ -19,8 +19,9 @@ our empty natural 105mx68m pitch for first time and his trainer invites him to e
 **Gon** is standing now in an arbitrary point in open space and this is the _first state_ in an spatial-no-time unbounded 
 landscape.
 
-    - The set of _agents_ is a singleton: {Gon}    
-![](/images/landscapeU.png "Figure. 3.1. Gon in the Unbounded Landscape")
+    - The set of _agents_ is a singleton: {Gon}
+    
+![](/images/landscapeUg.png "Figure. 3.1. Gon in the Unbounded Landscape")
 
 ### 3.1.3. Explore and Exploit the Environment Constrained by His Vision Field
 Gon has nil information about the environment. So, he can not _exploit_ its knowledge about the environment. (neither the 
@@ -103,6 +104,7 @@ In this third-state,
 This experience its materialized in the sense of **sidewayness** or **laterality** and **counter-sidewayness** or **counter-
 laterality** zones. Football game is about to create xG opportunities at the end-up part where an _effective contralateral 
 action_ put the ball on the net of the others goal on and to block it in our goal.
+
 ![](/images/landscapeUg.png "Figure. 3.4. Gon References in the Constrained Unbounded Landscape")
 
 The canvas for the animation is Academia Emeritense's pitch has a 105mx68m pitch. We will use for an unbounded landscape 
@@ -137,6 +139,7 @@ In his perception of the events in the landscape he must have both lessons into 
 ## 3.5. The Bounded Landscape
 Every body understand the need of a **perimeter** for playing in the landscape. A closed landscape to play called **bounded 
 landscape**
+
 ![](/images/landscapeB.png "Figure. 3.6. The Bounded Landscape")
 ## 3.6. The Patched Bounded Landscape
 In aFootball our perspective of the game is in spatial-temporal terms. This view yields us to state that _there is an 
