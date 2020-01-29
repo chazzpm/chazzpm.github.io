@@ -2,7 +2,7 @@
 # 3. Gon on the Unbounded Landscape
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
 
-- Gon,"must perceive in order to move, but he must also move in order to perceive"[Gibson]
+ - Gon,"must perceive in order to move, but he must also move in order to perceive"[Gibson]
 3. TOC
 {:toc}
 ## 3.1. Gon's Cognition of the Unbounded Landscape
@@ -66,8 +66,8 @@ Therefore, in principle,
 other place and therefore, the _local information_ is in _coherence_, in entanglement with the **global_information**; because 
 the environment is a _space-no-time_ fabric.
 
-- Gon has **local and global freedom** to choose the proto-action of **move anywhere to any location near or far in an spatial-
-time unbounded landscape fabric**.
+- Gon has **local and global freedom** to choose the proto-action of **move anywhere to any location near or far in an
+spatial-time unbounded landscape fabric**.
 
 Gon has founded as an organism in an environment an **organic Universe** [Bergson, Teillard, Mae-Wan Ho] and he is able to 
 understand that he is the creator of an evolving process with his agency dynamics and, that a **space-time** inseparable, 
@@ -75,23 +75,25 @@ mutable **process** can be experienced and observed from inside in the open in G
 whole. There is an embodiness creative and participatory entanglement between Gon and an uncertain landscape.
 
 ## 3.3. Gon's Exploitation of the Constrained Unbounded Landscape
-The AcEmFC's trainer throws a ball to an arbitrary location in the field and Gon understand is for him, for playing the **ball**
-with his feet ,now on with the global constrain that must be explained that **football is just for play with the ball and a 
-game to score goals in one out of two goals**.
+The AcEmFC's trainer throws a ball to an arbitrary location in the field and Gon understand is for him, for playing the 
+**ball** with his feet ,now on with the global constrain that must be explained that **football is just for play with the ball
+and a game to score goals in one out of two goals**.
 ### 3.3.1. A ball in stasis in a constrained unbounded landscape
 - The AcEmFC's trainer created a perturbation of the first-state and evolved the system to a constrained *second-state* that 
 emerges globally when **goals** and a **ball** are contained in the unbounded landscape in positional stasis. In this state, a 
-**proto space-no-time** is created where there is a _conservation of momentum of the ball in stasis_ or no movement of the ball
-in such any place.
+**proto space-no-time** is created where there is a _conservation of momentum of the ball in stasis_ or no movement of the 
+ball in such any place.
 
     - The set of _things_ is: {goals, ball}
     - The set of _agents_ is empty: {Gon}
     - The set of _events_ is a singleton: {stasis,} = {positional_stasis,}
 
-Here-now Gon understands that he must disturb the relativistic state of **football in stasis in an arbitrary point** all around
-the **constrained unbounded landscape over an horizon of ordered events**.
+Here-now Gon understands that he must disturb the relativistic state of **football in stasis in an arbitrary point** all 
+around the **constrained unbounded landscape over an horizon of ordered events**.
 ### 3.3.2. Gon has to explore and identify the location of the ball with his vision field through the unbounded landscape while he is in off-possession state
-- Gon is standing in an arbitrary point _p_, let us assume that the ball is located in Gon's blind zone of vision. Gon is in stasis in a universe characterized by a first state of space-no-time. The system evolves to a **third relational state** where an _agent_ with a proto-knowledge in order to _exploit_ the constrained unbounded landscape.  
+- Gon is standing in an arbitrary point _p_, let us assume that the ball is located in Gon's blind zone of vision. Gon is in 
+stasis in a universe characterized by a first state of space-no-time. The system evolves to a **third relational state** where
+an _agent_ with a proto-knowledge in order to _exploit_ the constrained unbounded landscape.  
     - The set of _things_ is a triple: {goals,ball}
     - The set of _agents_ is a singleton: {firstman} = {Gon}
     - The set of _events_ is a tuple: {positional_stasis,standing+exploring}
@@ -113,9 +115,10 @@ The canvas for the animation is Academia Emeritense's pitch has a 105mx68m pitch
 ![](/images/landscapeUb.png "Figure. 3.5. Sidewayness and Countersidewayness in the Constrained Unbounded Landscape")
 
 ## 3.4. Gon must gain ball location space and take control of the Ball
-In this third-state emerges **space-time** because of the _possibility of a second event happening on the first thing in stasis_.
-For first time, on the positional thing can **potentially act** on his own body (possibility of execute an active inference 
-decided by Gon) a transformation or action decided by the consioussness Gon, the **firstman**, the monad, the player.
+In this third-state emerges **space-time** because of the _possibility of a second event happening on the first thing in 
+stasis_. For first time, on the positional thing can **potentially act** on his own body (possibility of execute an active 
+inference decided by Gon) a transformation or action decided by the consioussness Gon, the **firstman**, the monad, the
+player.
 
     - The set of _things_ is a tuple: {goals,ball}
     - The set of _agents_ is a singleton: {Gon}
@@ -128,8 +131,8 @@ possession and control of the ball**. Gon has discovered through this underlying
 ball is or will be. Therefore, he has to develop a **set of actions** or intentional skills to execute on himself and on the 
 ball in the landscape.
 
-Gon's _positional change_ is a movement that can be classified as {standing, walking, jogging, running} to qualify the velocity
-and acceleration of Gon's position from point _p_ to gain point _o_ in open space and take control of the ball.
+Gon's _positional change_ is a movement that can be classified as {standing, walking, jogging, running} to qualify the 
+velocity and acceleration of Gon's position from point _p_ to gain point _o_ in open space and take control of the ball.
 
 The last cognitive lessons that Gon acquiered were that
 - the _main static reference of aFICS_ are **the goals** and, 
