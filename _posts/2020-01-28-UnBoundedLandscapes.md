@@ -2,7 +2,7 @@
 # 3. Gon on the Unbounded Landscape
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
 
-      - Gon,"must perceive in order to move, but he must also move in order to perceive" [Gibson]
+- Gon,"must perceive in order to move, but he must also move in order to perceive"[Gibson]
 3. TOC
 {:toc}
 ## 3.1. Gon's Cognition of the Unbounded Landscape
@@ -141,16 +141,3 @@ Every body understand the need of a **perimeter** for playing in the landscape. 
 landscape**
 
 ![](/images/landscapeB.png "Figure. 3.6. The Bounded Landscape")
-## 3.6. The Patched Bounded Landscape
-In aFootball our perspective of the game is in spatial-temporal terms. This view yields us to state that _there is an 
-**architecture of the football game** in the bounded landscape. This architecture of aFICS in the bounded landscape is all 
-about **creating space guided by affordances** and **coming into space at the right time**. 
-
-Therefore, a main idea of strategy to play football in the bounded playground is about **organizing space**. A spatial 
-practice in geolocalization, as in aFICS for football, to be analysed would be in terms of:
-- the static framed bounded landscape or the **aBLandscape** and,
-- the teams' dynamics as **Football Flow**
-
-![](/images/landscapeaB.png "Figure. 3.7. The Patched Bounded Landscape")
-
-Let us analyse the framed bounded landscape - aBLandscape - as the common reference for spatial practice of football.
