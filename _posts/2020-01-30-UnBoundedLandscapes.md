@@ -2,7 +2,7 @@
 # 3. Gon on the Unbounded Landscape
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
 
- - Gon,"must perceive in order to move, but he must also move in order to perceive"[Gibson]
+  - Gon,"must perceive in order to move,but he must also move in order to perceive"[Gibson]
 3. TOC
 {:toc}
 ## 3.1. Gon's Cognition of the Unbounded Landscape
@@ -21,7 +21,7 @@ landscape.
 
     - The set of _agents_ is a singleton: {Gon}
     
-![](/images/landscapeUg.png "Figure. 3.1. Gon in the Unbounded Landscape")
+![](/images/landscapeU.png "Figure. 3.1. Gon in the Unbounded Landscape")
 
 ### 3.1.3. Explore and Exploit the Environment Constrained by His Vision Field
 Gon has nil information about the environment. So, he can not _exploit_ its knowledge about the environment. (neither the 
