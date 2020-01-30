@@ -34,7 +34,10 @@ contralateral action to score**.
 
 Gon needs a **model of the bounded landscape** that guides his decision making in any point in the environment when he is off-
 ball or on-ball control. But, Gon now knows that he has to do an huge effort because all that space-time is created and happen
-on only himself. He **needs team mates to do it one and again and again**.
+on only himself. He **needs team mates to do it one and again and again** in order to have simultaneity and sequentiality of
+events and that the action be distributed between all agent in the boundade landscape. Now on, Gon knows that he is
+constrained to be in the on-ball state and that most of the time he will be in the off-ball state. That he must concentrate on
+how to move and when he must be focus to get control of the ball and decide which is the best action to decide.
 
 ![](/images/Gon1inUL-v1.mp4 "Figure 4.1. Animation: Gon on-ball Control on the Bounded Landscape")
 
@@ -49,6 +52,15 @@ practice in geolocalization, as in aFICS for football, to be analysed would be i
 - the static framed bounded landscape or the **aBLandscape** and,
 - the teams' dynamics as **Football Flow**
 
+Gon needs _a model of the bounded landscape_ that guides his decision making in any point in the environment when he is off-
+ball or on-ball control. But, Gon now knows that he has to do an huge effort because _all that space-time is created 
+sequentially but all happen on only himself_.
+
+This model must take into account all spatial reference that Gon has acquiered from exploring the bounded landscape. 
+- Gon knows the difference in scale about the **near by and the far away**
+- Gon knows the difference between the **inner area and the outter area**
+- Gon knows which directions of movement of the ball and of his body are in **sidewayness or counter-sydewayness**.
+
 Let us analyze the framed bounded landscape aBLandscape as the common reference for spatial practice of football.
 
-![](/images/landscapeaB.png "Figure 4.2. Organization of Space in Patched Bounded Landscape")
+![](/images/landscapeaB.png "Figure 4.2. Organization of aFootball Space in a Patched Bounded Landscape")
