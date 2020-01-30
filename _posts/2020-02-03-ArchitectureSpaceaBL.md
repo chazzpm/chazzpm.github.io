@@ -1,7 +1,8 @@
 # 4. On Construction 
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
-        - "  " [   ]
+                        - " _Time exists in order that everything does not happen all at once, and 
+                            Space exists so that it does not happen to you_" - Susan Sontag
         
 4. TOC
 {:toc}
