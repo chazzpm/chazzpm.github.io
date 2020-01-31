@@ -1,8 +1,8 @@
 # 4. On Construction 
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
-                  - " _Time exists in order that everything does not happen all at once, and 
-                       Space exists so that it does not happen to you_" - Susan Sontag
+             - " Time exists in order that everything does not happen all at once, and 
+                 Space exists so that it does not happen to you" - Susan Sontag
         
 4. TOC
 {:toc}
@@ -65,6 +65,11 @@ Let us analyze the framed bounded landscape aBLandscape as the common reference 
 
 ![](/images/landscapeaB.png "Figure 4.2. Organization of aFootball Space in a Patched Bounded Landscape")
 
+### 4.2.2. Spatial Relations of Patches
+
+**Patches** are _circles, semicircular sectors and circunferences subspaces_. They exhibit spatial relationships between
+subspaces and their concatenation as set of subspaces constitute the **spatial organization of the bounded landscape** in the
+aFootball Universe.
 The bounded landscape is organizaed in two halves, **own half** and **opponent half**, each one asociated to a goal object
 Each half is sub-organized into nine **patches**. In total, The bounded landscape is a perimeter of the proto-aFootball field.
 There are an **inside** ajust and inside. When the ball goes trhough the perimeter we use two code words to identify in which
