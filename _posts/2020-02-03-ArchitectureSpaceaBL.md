@@ -79,6 +79,10 @@ contains the patches subset {06,07,08,09,16,17,18,19}. The **outter subspace** c
 {01,02,03,04,05,11,12,13,14,15}. Table 4.1. summarizes the set of spatial relations between patches in the organization of the
 bounded landscape.
 
+![](/images/aBlandscape_whole_aFootball.png "Figure 4.3. Components of aFootball Space in PB_Landscape")
+
+![](/images/aBlandscape_Neighbors.png "Figure 4.4. Neighborhood Spatial Relations in aFootball PB_Landscape")
+
 ## Table 4.1.Spatial Relations in Organized Bounded Landscape
 
 |pid|wholeU| HF|subspace| 0-neighbor |     1-neighbors   |        2-neighbors      |   3-neighbors  |4-neighbor|5-ne|
@@ -102,4 +106,7 @@ bounded landscape.
 | 16|inside|opp| inner  |     {}     |{11,12,13,17,18,19}|    {14,15,07,08,09}     |{02,03,04,05,06}|    {01}  | {} | 
 | 17|inside|opp| inner  |     {}     |  {12,14,16,19,08} |  {11,13,18,03,05,06,09} | {15,01,02,07}  |    {04}  | {} | 
 | 18|inside|opp| inner  |     {}     |  {13,15,16,19,07} |  {11,12,17,02,04,06,09} | {14,01,03,08}  |    {05}  | {} | 
-| 19|inside|opp| inner  |     {}     |    {16,17,18,09}  |  {11,12,13,14,15,06,07} |{01,02,03,04,05}|     {}   | {} | 
+| 19|inside|opp| inner  |     {}     |    {16,17,18,09}  |  {11,12,13,14,15,06,07} |{01,02,03,04,05}|     {}   | {} |
+
+
+
