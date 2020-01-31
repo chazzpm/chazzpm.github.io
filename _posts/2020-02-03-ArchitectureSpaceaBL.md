@@ -69,7 +69,9 @@ Let us analyze the framed bounded landscape aBLandscape as the common reference 
 
 **Patches** are _circles, semicircular sectors and circunferences subspaces_. They exhibit spatial relationships between
 subspaces and their concatenation as set of subspaces constitute the **spatial organization of the bounded landscape** in the
-aFootball Universe.
+aFootball Universe whose **inside** is bounded by a **permeter** and the perimeter is conformed by a **lateral** and
+**counter-lateral** arcs and the *inside* by an **outter** and an **inner** subspaces as shown in Figures 4.3. and 4.4.
+
 The bounded landscape is organizaed in two halves, **own half** and **opponent half**, each one asociated to a goal object
 Each half is sub-organized into nine **patches**. In total, The bounded landscape is a perimeter of the proto-aFootball field.
 There are an **inside** ajust and inside. When the ball goes trhough the perimeter we use two code words to identify in which
