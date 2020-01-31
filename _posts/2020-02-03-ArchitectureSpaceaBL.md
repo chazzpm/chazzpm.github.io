@@ -110,5 +110,10 @@ bounded landscape.
 | 18|inside|opp| inner  |     {}     |  {13,15,16,19,07} |  {11,12,17,02,04,06,09} | {14,01,03,08}  |    {05}  | {} | 
 | 19|inside|opp| inner  |     {}     |    {16,17,18,09}  |  {11,12,13,14,15,06,07} |{01,02,03,04,05}|     {}   | {} |
 
+Alternative views of the organization of the patched bounded landscape are shown in Figure 4.5. for 1-neighborhoods and in 
+Figure 4.6. for team halves.
 
+![](/images/aFootball_1Neighbors.png "Figure 4.5. 1-Neighbors Spatial Relations in aFootball PB_Landscape")
+
+![](/images/aFootball_team_half.png "Figure 4.6. Team Halves Spatial Relations in aFootball PB_Landscape")
 
