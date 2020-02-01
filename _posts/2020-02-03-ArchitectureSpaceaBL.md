@@ -1,4 +1,4 @@
-# 4. On Construction 
+# 4. Architecture of Space of Patched Bounded Landscape - On Construction 
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
            - " Time exists in order that everything does not happen all at once, 
@@ -118,4 +118,16 @@ Figure 4.6. for team halves.
 ![](/images/aFootball_1Neighborhood.png "Figure 4.5. 1-Neighbors Spatial Relations in aFootball PB_Landscape")
 
 ![](/images/aFootball_team_half.png "Figure 4.6. Team Halves Spatial Relations in aFootball PB_Landscape")
+
+## 4.3. Architecture of Space of Patched, Bounded Landscape for aFooptball
+
+The organization of space reveals the existence of a hierarchy in the patched bounded landscape that invites to responds
+with an **organic aFootball strategy** in which a **core-modulus** is positional set up in order to plays in the inner
+subspace and a larger **membrane-modulus** must be positional set up in a kind of **convex hull** in order to play and move 
+the ball in this convex hull that currently separates inner and outter zones.
+
+All these relational organizations of space and the Figure 4.7. that shows the shortest path patch relationships constitute
+the **architecture of space** of the patched, bounded landscape.
+
+![](/images/aFootball_KSpace_Architecture.png "Figure 4.7. Architecture of Space of PB_Landscape for aFootball")
 
