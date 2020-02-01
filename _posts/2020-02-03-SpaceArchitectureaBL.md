@@ -1,4 +1,4 @@
-# 4. Architecture of Space of Patched Bounded Landscape - On Construction 
+# 4. Space Architecture of Patched Bounded Landscape - On Construction 
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
            - " Time exists in order that everything does not happen all at once, 
