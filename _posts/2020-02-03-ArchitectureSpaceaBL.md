@@ -83,7 +83,7 @@ bounded landscape.
 
 ![](/images/aBlandscape_whole_aFootball.png "Figure 4.3. Components of aFootball Space in PB_Landscape")
 
-![](/images/Circus_aBlandscape_neighborhood.png "Figure 4.4. Neighborhood Spatial Relations in aFootball PB_Landscape")
+![](/images/Circos_aBlandscape_neighborhood.png "Figure 4.4. Neighborhood Spatial Relations in aFootball PB_Landscape")
 
 ## Table 4.1.Spatial Relations in Organized Bounded Landscape
 
