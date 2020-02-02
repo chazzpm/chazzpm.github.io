@@ -39,7 +39,7 @@ events and that the action be distributed between all agent in the boundade land
 constrained to be in the on-ball state and that most of the time he will be in the off-ball state. That he must concentrate on
 how to move and when he must be focus to get control of the ball and decide which is the best action to decide.
 
-![](/images/Gon1inUL-v1.mp4 "Figure 4.1. Animation: Gon on-ball Control on the Bounded Landscape")
+![](/images/Gon1inUL-v1.mp4 "Figure 4.1. Animation: Gon on-ball Control on the Bounded Landscape[^1]")
 
 ## 4.2. Architecture of Space of the Bounded Landscape
 ### 4.2.1. The Patched Bounded Landscape
@@ -133,3 +133,4 @@ the **architecture of space** of the patched, bounded landscape.
 
 ![](/images/aFootball_KSpace_Architecture.png "Figure 4.7. Architecture of Space of PB_Landscape for aFootball")
 
+[^1]: The fastai.template does not support dynamic content yet. So, the animation is nos shown.
