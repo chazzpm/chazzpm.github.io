@@ -33,11 +33,12 @@ trainer that he must **finally conduct the ball in contralateral direction** and
 contralateral action to score**.
 
 Gon needs a **model of the bounded landscape** that guides his decision making in any point in the environment when he is off-
-ball or on-ball control. But, Gon now knows that he has to do an huge effort because all that space-time is created and happen
-on only himself. He **needs team mates to do it one and again and again** in order to have simultaneity and sequentiality of
-events and that the action be distributed between all agent in the boundade landscape. Now on, Gon knows that he is
-constrained to be in the on-ball state and that most of the time he will be in the off-ball state. That he must concentrate on
-how to move and when he must be focus to get control of the ball and decide which is the best action to decide [^1].
+ball or on-ball control. But, Gon now knows that he has to do an huge effort because _all that space-time is created and
+happen on only himself_. He **needs team mates to do it one and again and again** in order to have simultaneity and 
+sequentiality of events and that the action be distributed between all agent in the boundade landscape. Now on, Gon knows that
+he is constrained to be in the on-ball state and that most of the time he will be in the off-ball state. That he must
+concentrate on how to move and when he must be focus to get control of the ball and decide which is the best action to decide
+[^1].
 
 ![](/images/Gon1inUL-v1.mp4 "Figure 4.1. Animation: Gon on-ball Control on the Bounded Landscape")
 
