@@ -124,7 +124,7 @@ Figure 4.6. for team halves.
 
 The organization of space reveals the existence of a terrain **hierarchy** in the patched bounded landscape that invites to
 responds with tasks propers of an **organic aFootball strategy**. One in which a **core-modulus** is positional set up in
-order to plays in the inner subspace and with a larger **membrane-modulus** positional set up. One in a kind of convex closure
+order to play in the inner subspace and with a larger **membrane-modulus** positional set up. One in a kind of convex closure
 of a shape that contains all outter patches. It is the **convex hull**, a geometric concept that emerges from the space
 architecture as *complexity of the landscape*. An invitation to move and play the ball in this convex hull that currently 
 separates inner and outter subspaces.
