@@ -53,7 +53,7 @@ video_encoded = b64encode(video).decode('ascii')
 video_tag = '<video controls alt="test" src="data:video/x-m4v;base64,{0}">'.format(video_encoded)
 HTML(data=video_tag)
        
-'''python
+'''
 
 ![](/images/Gon1inUL-v1.mp4 "Figure 4.1. Animation: Gon on-ball Control on the Bounded Landscape")
 
