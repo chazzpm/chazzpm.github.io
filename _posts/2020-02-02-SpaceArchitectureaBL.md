@@ -1,8 +1,8 @@
 # 4. Space Architecture of Patched Bounded Landscape
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
-           - " Time exists in order that everything does not happen all at once, 
-               and Space exists so that it does not happen to you" - Susan Sontag
+        - " Time exists in order that everything does not happen all at once, 
+            and Space exists so that it does not happen to you" - Susan Sontag
         
 4. TOC
 {:toc}
