@@ -1,8 +1,8 @@
 # 4. Space Architecture of Patched Bounded Landscape
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
-        - " Time exists in order that everything does not happen all at once, 
-            and Space exists so that it does not happen to you" - Susan Sontag
+       - " Time exists in order that everything does not happen all at once, 
+           and Space exists so that it does not happen to you" - Susan Sontag
         
 4. TOC
 {:toc}
@@ -39,6 +39,15 @@ sequentiality of events and that the action be distributed between all agent in 
 he is constrained to be in the on-ball state and that most of the time he will be in the off-ball state. That he must
 concentrate on how to move and when he must be focus to get control of the ball and decide which is the best action to decide
 [^1].
+
+'''python
+from IPython.display import HTML
+from base64 import b64encode
+video = open(/images/Gon1inUL-v1.mp4", "rb").read()
+video_encoded = b64encode(video).decode('ascii')
+video_tag = '<video controls alt="test" src="data:video/x-m4v;base64,{0}">'.format(video_encoded)
+HTML(data=video_tag)
+'''python
 
 ![](/images/Gon1inUL-v1.mp4 "Figure 4.1. Animation: Gon on-ball Control on the Bounded Landscape")
 
