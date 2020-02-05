@@ -41,11 +41,22 @@ concentrate on how to move and when he must be focus to get control of the ball 
 [^1].
 
 '''python
+import moviepy as mpy
+
+from IPython.display import display_html
+
+from IPython.display import Image
+
 from IPython.display import HTML
+
 from base64 import b64encode
+
 video = open(/images/Gon1inUL-v1.mp4", "rb").read()
+
 video_encoded = b64encode(video).decode('ascii')
+
 video_tag = '<video controls alt="test" src="data:video/x-m4v;base64,{0}">'.format(video_encoded)
+       
 HTML(data=video_tag)
 '''python
 
