@@ -6,6 +6,3 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-_notebooks/.ipynb_checkpoints
-# Local Netlify folder
-.netlify
