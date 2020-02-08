@@ -40,7 +40,7 @@ he is constrained to be in the on-ball state and that most of the time he will b
 concentrate on how to move and when he must be focus to get control of the ball and decide which is the best action to decide
 [^1].
 
-''' python
+'''python
 
 from IPython.display import YouTubeVideo
 
