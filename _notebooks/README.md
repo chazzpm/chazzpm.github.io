@@ -42,7 +42,8 @@ Follow [these instructions](https://www.fast.ai/2020/01/16/fast_template/), whic
 
     - If you fail to name your file correctly, `fast_template` will automatically attempt to fix the problem by prepending the last modified date of your notebook to your generated blog post in `/_posts`, however, it is recommended that you name your files properly yourself for more transparency.
 
-4. [Commit and push](https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line) your notebook to GitHub.  **Important: At least one of your commit messages prior to pushing your notebook(s) must contain the word `/sync` in order to trigger automatic notebook conversion.**  Furthermore, the automatic conversion only occurs when a **push is made to the master branch**.  
+4. [Commit and push](https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line) your notebook to GitHub.  **Important: At least one of your commit messages prior to pushing your notebook(s) must contain the word `/sync` in order to trigger automatic notebook conversion.**  Furthermore, the automatic conversion only occurs when a **push is made to the master branch**.
+Commit and push your notebook to GitHub. Furthermore, the automatic conversion only occurs when a push is made to the master branch. (in fastpages)
     - The requirement of the `/sync` keyword is designed to alleviate instances of unwanted local conflicts that would otherwise require you to pull a fresh copy of your repo after each commit. When a notebook is converted to a blog post, a new file is committed to your repo automatically. See [How Does it Work?](#How-Does-it-Work) for more details and with instructions on customizing this behavior.
 
 ## How Does it Work?
@@ -70,6 +71,7 @@ This defines what will trigger the workflow, in this case, anytime files in the 
 ```
 
 This is a conditional statement added to the workflow that checks for the keyword `/sync` in your commit messages.  You can remove or edit this statement to customize syncing behavior. You can read more about this syntax in [these help docs](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/contexts-and-expression-syntax-for-github-actions).
+TODO: Instructions on option BOOL_SAVE_MARKDOWN (fastpages)
 
 ## Additional Resources
 
