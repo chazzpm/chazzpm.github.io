@@ -40,7 +40,7 @@ he is constrained to be in the on-ball state and that most of the time he will b
 concentrate on how to move and when he must be focus to get control of the ball and decide which is the best action to decide
 [^1].
 
-'''python
+''' python
 
 from IPython.display import YouTubeVideo
 
@@ -142,4 +142,4 @@ the **architecture of space** of the patched, bounded landscape.
 
 ![](/images/aFootball_KSpace_Architecture.png "Figure 4.7. Architecture of Space of PB_Landscape for aFootball")
 
-[^1]: The fastai.template does not support dynamic content yet. So, the animation is not shown, sorry.
+[^1]: The fastai.template does not support dynamic content yet. Visit on youtube our **aNT-aFICS** channel.
