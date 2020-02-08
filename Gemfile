@@ -16,7 +16,13 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-octicons'
+  gem "jekyll-twitter-plugin"
+  gem 'jekyll-relative-links'
+  gem 'jekyll-seo-tag'
 end
+
+gem "jekyll-github-metadata"
+
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
@@ -29,4 +35,3 @@ end
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 gem "faraday", "< 1.0"
-
