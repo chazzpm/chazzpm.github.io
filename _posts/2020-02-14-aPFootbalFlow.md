@@ -1,5 +1,5 @@
 2020-02-14-aPFootballFlow: aFICS_nb05 
-# 5. Space of Spaces or All Possible aFootball Flow in aPLandscape
+# 5. Space of Spaces' Affordances or All Possible aFootball Flow in aPLandscape
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
   - " There is no exterior, just interior in the closed aFICS Football Universe" - aNT-aFICS Vision
@@ -32,7 +32,7 @@ Importance Patched Zones")
 ![](/images/DegreeHistogramPatchesinaPLandscape.png "Figure 5.7. Degree Histogram of Patches in aPLandscape")
 
 
-![](/images/inAllpossibleaPFootballFlowin5lanesaPLandscape.png "Figure 5.8. Map of all possible Football Flow in a 5 lane 
+![](/images/inAllpossibleaFootballFlowin5lanesaPLandscape.png "Figure 5.8. Map of all possible Football Flow in a 5 lane 
 aPLandscape")
 
 
