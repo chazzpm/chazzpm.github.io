@@ -1,4 +1,3 @@
-2020-02-14-aPFootballFlow: aFICS_nb05 
 # 5. Space of Spaces' Affordances or All Possible aFootball Flow in aPLandscape - IN CONSTRUCTION
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
