@@ -52,7 +52,7 @@ eighteen patch-zones {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17} and fifty fiv
 relationships between patches, included 18 spatial-adjecency self-relations of the patches themselves. FThe aPLlandscape is
 modeled as a network graph PL en Figure 5.1. 
 
-![](/images/inaPLandscape_neighborhood.png "Figure 5.1. Organization of aFootball Inside Space in a Patched Landscape")
+![](/images/interior_aPLandscape_neighborhood.png "Figure 5.1. Organization of aFootball Inside Space in a Patched Landscape")
 
 
 ## 5.2. Network Properties of Space Architecture of aPLandscape
