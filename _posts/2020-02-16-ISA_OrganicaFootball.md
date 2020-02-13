@@ -67,6 +67,88 @@ and play the ball in this convex hull that currently separates inner and outter 
 
 ## 5.4. Network Properties of Space Architecture of aPLandscape
 
+The network properties of PL graph, the relational model of the aPLandscape's interior, shows 18 nodes representing patches
+and  324 interactions of i-adjacency length, where i in {0,1,2,3,4,5} range. The total length of those interactions is 714 and
+the average shortest path length 2.0454545454545454
+
+There are 1132 possible Gon's moves|passes of the ball from the centroid of each patch to the centroid of other patch, stasis
+included in the interior of the aPLandscape.
+
+### Table 5.1. Number of Paths of i-adjacency length in the interior of aPLandscape
+|length |#paths|
+|-------|------|
+|   0   |  18  |
+|   1   |  74  |
+|   2   | 104  |
+|   3   |  86  |
+|   4   |  36  |
+|   5   |   6  |
+
+### Table 5.2. i-adjacency length of all possible single source patch-to-patch interactions in the interior of aPLandscape
+|pz|                                                 (target_pz:length, )                                                 |
+|--|----------------------------------------------------------------------------------------------------------------------|
+| 0| ({0: 0, 1: 1, 2: 1, 5: 1, 3: 2, 6: 2, 4: 2, 7: 2, 8: 2, 13: 3, 16: 3, 12: 3, 15: 3, 17: 3, 11: 4, 14: 4, 10: 4, 9: 5}| 
+| 1|({1: 0, 0: 1, 3: 1, 5: 1, 6: 1, 2: 2, 13: 2, 7: 2, 8: 2, 16: 2, 4: 3, 11: 3, 15: 3, 17: 3, 14: 3, 12: 4, 9: 4, 10: 4} | 
+| 2|({2: 0, 0: 1, 4: 1, 5: 1, 7: 1, 1: 2, 12: 2, 6: 2, 8: 2, 15: 2, 3: 3, 10: 3, 16: 3, 17: 3, 14: 3, 13: 4, 9: 4, 11: 4} | 
+| 3|({3: 0, 1: 1, 6: 1, 13: 1, 0: 2, 5: 2, 8: 2, 16: 2, 11: 2, 2: 3, 7: 3, 17: 3, 14: 3, 9: 3, 4: 4, 15: 4, 10: 4, 12: 5} | 
+| 4|({4: 0, 2: 1, 7: 1, 12: 1, 0: 2, 5: 2, 8: 2, 15: 2, 10: 2, 1: 3, 6: 3, 17: 3, 14: 3, 9: 3, 3: 4, 16: 4, 11: 4, 13: 5} | 
+| 5|({5: 0, 0: 1, 1: 1, 2: 1, 6: 1, 7: 1, 8: 1, 3: 2, 4: 2, 16: 2, 15: 2, 17: 2, 13: 3, 12: 3, 11: 3, 14: 3, 10: 3, 9: 4} | 
+| 6|({6: 0, 1: 1, 3: 1, 5: 1, 8: 1, 16: 1, 0: 2, 13: 2, 2: 2, 7: 2, 17: 2, 11: 2, 14: 2, 4: 3, 15: 3, 9: 3, 10: 3, 12: 4} | 
+| 7|({7: 0, 2: 1, 4: 1, 5: 1, 8: 1, 15: 1, 0: 2, 12: 2, 1: 2, 6: 2, 17: 2, 10: 2, 14: 2, 3: 3, 16: 3, 9: 3, 11: 3, 13: 4} | 
+| 8|({8: 0, 5: 1, 6: 1, 7: 1, 17: 1, 0: 2, 1: 2, 2: 2, 3: 2, 16: 2, 4: 2, 15: 2, 14: 2, 13: 3, 11: 3, 12: 3, 10: 3, 9: 3} | 
+| 9|({9: 0, 10: 1, 11: 1, 14: 1, 12: 2, 15: 2, 13: 2, 16: 2, 17: 2, 4: 3, 7: 3, 3: 3, 6: 3, 8: 3, 2: 4, 5: 4, 1: 4, 0: 5} | 
+|10|({10: 0, 9: 1, 12: 1, 14: 1, 15: 1, 11: 2, 4: 2, 16: 2, 17: 2, 7: 2, 13: 3, 2: 3, 6: 3, 8: 3, 5: 3, 3: 4, 0: 4, 1: 4} | 
+|11|({11: 0, 9: 1, 13: 1, 14: 1, 16: 1, 10: 2, 3: 2, 15: 2, 17: 2, 6: 2, 12: 3, 1: 3, 7: 3, 8: 3, 5: 3, 4: 4, 0: 4, 2: 4} | 
+|12|({12: 0, 4: 1, 10: 1, 15: 1, 2: 2, 7: 2, 9: 2, 14: 2, 17: 2, 0: 3, 5: 3, 8: 3, 11: 3, 16: 3, 1: 4, 6: 4, 13: 4, 3: 5} | 
+|13|({13: 0, 3: 1, 11: 1, 16: 1, 1: 2, 6: 2, 9: 2, 14: 2, 17: 2, 0: 3, 5: 3, 8: 3, 10: 3, 15: 3, 2: 4, 7: 4, 12: 4, 4: 5} | 
+|14|({14: 0, 9: 1, 10: 1, 11: 1, 15: 1, 16: 1, 17: 1, 12: 2, 13: 2, 7: 2, 6: 2, 8: 2, 4: 3, 3: 3, 2: 3, 5: 3, 1: 3, 0: 4} | 
+|15|({15: 0, 7: 1, 10: 1, 12: 1, 14: 1, 17: 1, 2: 2, 4: 2, 5: 2, 8: 2, 9: 2, 11: 2, 16: 2, 0: 3, 1: 3, 6: 3, 13: 3, 3: 4} | 
+|16|({16: 0, 6: 1, 11: 1, 13: 1, 14: 1, 17: 1, 1: 2, 3: 2, 5: 2, 8: 2, 9: 2, 10: 2, 15: 2, 0: 3, 2: 3, 7: 3, 12: 3, 4: 4} | 
+|17|({17: 0, 8: 1, 14: 1, 15: 1, 16: 1, 5: 2, 6: 2, 7: 2, 9: 2, 10: 2, 11: 2, 12: 2, 13: 2, 0: 3, 1: 3, 2: 3, 3: 3, 4: 3} | 
+
+### Table 5.3. Set of Network Properties of PL Graph Model of the Interior of aPLandscape
+
+| property      |                                                               |
+|---------------|---------------------------------------------------------------|
+| radius        |  3                                                            | 
+| diameter      |  5                                                            | 
+| eccentricity  | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]|
+| center        | [8, 17]                                                       |
+| periphery     | [0, 3, 4, 9, 12, 13]                                          |
+| density       | 0.35947712418300654                                           |
+
+
+{% include info.html text="Network Metric for Space Architecture of aPBlandscape" 
+d(u,v)-ShortestPath: If there are multiple paths connecting two nodes u,v, then the _shortest path_ is considered as the
+distance between the two nodes d(u,v)
+apl(u,v) average shortest path length: The mean shortest path length - geodesic distance of the graph -
+e(PL) Eccentricity: The maximum distance between a node to all other nodes is considered as the eccentricity of node.
+r(PL) Radius: The minimum eccentricity from all the nodes is considered as the **radius** of the graph
+d(PL) Diameter: The maximum eccentricity from all the nodes or its longest shortest path length
+Central Point: If the eccentricity is equal to the radius of PL, then it is the central point of the graph
+PL-center: The set of all central points of PL is called the centre of the graph.
+then ‘V’ is the central point of the Graph
+PL-circunsference: The number of edges in the longest cycle of PL is called as the circumference of PL.
+Notation − e(V)
+BL-Density: the number of possible or potential edges, over the number of actual edges or connections.
+
+%)
+
+{% include
+BL-triangular regular map BL-Number of triangles in which each patched zone participates in length-1 interactions") 
+t = nx.triangles(BL)
+
+BL-Clustering coefficient of each patched zone") c=nx.clustering(BL) BL-CC Cluster coefficient of a patch indicates how many of possible triangles beteen patches it realizes. CC reflects the adjacency between patches. The higher CC, the higher is its capability for synergestic play between team mates occupying those patches.
+
+BL-Average cluster coefficient of the aPitch ac=nx.average_clustering(BL)
+
+BL-Generalized degree of each patched zone nx.generalized_degree(BL)
+
+
+
+
+%}
+
 
 ### 5.4.1 Organization of Space in Meso Subspaces Sets
 Other organization of the interior subscape in aPLandscape identifies an adjacency mesh between patches in which emerge {own-
