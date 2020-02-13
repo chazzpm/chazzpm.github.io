@@ -30,11 +30,11 @@ always present, due to
 - His individual biophysical, emotional, mental and psycological constrains and,
 - Environmental physical, patch-inherents constrains and most important its set of affordances offered to him in any event
 
-All of them must be used and exploited by Gon as opportunities for his agency in the aPLandscape and his actions will be
-observed by the head coach HC as a metric of his basic **aFICS literacy**.
+All of them must be used and exploited by Gon as opportunities for his agency in the PB_Landscape and his actions will be
+observed by the head coach HC as a _metric_ of his basic **aFICS literacy**.
 
-In this perspective, Gon involves understanding of his whole body (embodied) with affordances offered by the aPLandscape
-(embedded) will determine his agency or task performance in the ground play. aFICS literacy is the _metric_ used during his
+In this perspective, Gon involves understanding of his whole body - embodied - with affordances offered by the PB_landscape
+- embedded - will determine his agency or task performance in the ground play. aFICS literacy is the _metric_ used during his
 aFICS **synergon development process** until he left Academia Emeritense FC. Literacy must be understood by our talents as
 '*being educated*' in our aFICS vision in the language game in the community.
 
@@ -42,17 +42,18 @@ Moreover, the perception of affordances evolves and changes as capability for sk
 responsability to offer, in the physical plant of our institution, through deliberate design facilities for enhance motor
 skills improvement.
 
-Let me help any player an aid that expand his vision of the invisible that Clement Lengled does not consider.
+Let me help any player an aid that expand his vision of the invisible that Clement Lengled does not consider... after all, 
+on the PB_landscape we see affordances and plays, not data.
 
 ## 5.2. Graph Model of the Interior of the Patched Landscape
 
 Let us move from the bounded landscape model of the aFootball Universe with a perimeter and an interior space to a more strict
-idea of the empty patched landscape without perimeter and just constitued for interior space. This landscape aPLandscape has 
-eighteen patch-zones {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17} and fifty five bidirectional spatial-adjacency 
-relationships between patches, included 18 spatial-adjecency self-relations of the patches themselves. FThe aPLlandscape is
-modeled as a network graph PL en Figure 5.1. 
+idea of an empty patched landscape without perimeter and **just constitued for interior space**. This landscape called
+**aPLandscape** has eighteen patch-zones {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17} and fifty five bidirectional spatial-
+adjacency relationships between patches, included 18 spatial-adjecency self-relations of the patches themselves. 
+The aPLandscape is modeled as the network graph PL en Figure 5.1. 
 
-![](/images/interior_aPLandscape_neighborhood.png "Figure 5.1. Organization of aFootball Inside Space in a Patched Landscape")
+![](/images/interior_aPLandscape_neighborhood.png "Figure 5.1. Organization of aFootball Interior Space in aPLandscape")
 
 
 ## 5.3. Network Properties of Space Architecture of aPLandscape
