@@ -2,7 +2,8 @@
 # 3. Gon on the Unbounded Landscape
 **Charles R Paez Monzon** - 2019 - aNatureTechnologies
 
-    - Gon,"must perceive in order to move,but he must also move in order to perceive"[Gibson]
+  - Gon,"must perceive in order to move,but he must also move in order to perceive"[Gibson]
+
 3. TOC
 {:toc}
 ## 3.1. Gon's Cognition of the Unbounded Landscape
@@ -13,7 +14,7 @@ our empty natural 105mx68m pitch for first time and his trainer invites him to e
 ### 3.1.2. The Unbounded Landscape
 - Gon experiences the *proto-state* of a non-phenomenical unbounded landscape with no space-time, where there is neither
 things (no ball, no goals, no stadium, etc) nor human beings (no players, no head coaches, no arbiters, no spectators, etc),
-and therefore nor events.
+and therefore no events.
     - The set of _things_ is empty: {}
     - The set of _agents_ is empty: {}
     - The set of _events_ is empty: {}
@@ -68,8 +69,8 @@ Therefore, in principle,
 other place and therefore, the _local information_ is in _coherence_, in entanglement with the **global_information**; because 
 the environment is a _space-no-time_ fabric.
 
-- Gon has **local and global freedom** to choose the proto-action of **move anywhere to any location near or far in an
-spatial-time unbounded landscape fabric**.
+- Gon has **local and global freedom** to choose the proto-action of **move anywhere to any location** near by or far away in
+a spatial-time unbounded landscape fabric.
 
 Gon has founded as an organism in an environment an **organic Universe** [Bergson, Teillard, Mae-Wan Ho] and he is able to 
 understand that he is the creator of an evolving process with his agency dynamics and, that a **space-time** inseparable, 
@@ -78,9 +79,9 @@ whole. There is an embodiness creative and participatory entanglement between Go
 
 ## 3.3. Gon's Exploitation of the Constrained Unbounded Landscape
 The AcEmFC's trainer throws a ball to an arbitrary location in the field and Gon understand is for him, for playing the 
-**ball** with his feet ,now on with the global constrain that must be explained that **football is just for play with the ball
-and a game to score goals in one out of two goals**.
-### 3.3.1. A ball in stasis in a constrained unbounded landscape
+**ball** with his feet ,now on with the global constrain that must be explained that **football is just for move around, play
+with the ball and a game to score goals in one out of two goals**.
+### 3.3.1. Goals and ball in stasis in a constrained unbounded landscape
 - The AcEmFC's trainer created a perturbation of the first-state and evolved the system to a constrained *second-state* that 
 emerges globally when **goals** and a **ball** are contained in the unbounded landscape in positional stasis. In this state, a 
 **proto space-no-time** is created where there is a _conservation of momentum of the ball in stasis_ or no movement of the 
@@ -90,8 +91,8 @@ ball in such any place.
     - The set of _agents_ is empty: {Gon}
     - The set of _events_ is a singleton: {stasis,} = {positional_stasis,}
 
-Here-now Gon understands that he must disturb the relativistic state of **football in stasis in an arbitrary point** all 
-around the **constrained unbounded landscape over an horizon of ordered events**.
+Here-now, where the illusion of time emerges, Gon understands that he must disturb the relativistic state of **football in
+stasis in an arbitrary point** all around the **constrained unbounded landscape over an horizon of ordered events**.
 ### 3.3.2. Gon has to explore and identify the location of the ball with his vision field through the unbounded landscape while he is in off-possession state
 - Gon is standing in an arbitrary point _p_, let us assume that the ball is located in Gon's blind zone of vision. Gon is in 
 stasis in a universe characterized by a first state of space-no-time. The system evolves to a **third relational state** where
@@ -106,8 +107,8 @@ In this third-state,
 - Now on he experience the **difference of the complete local freedom and the constrained global information**.
 
 This experience its materialized in the sense of **sidewayness** or **laterality** and **counter-sidewayness** or **counter-
-laterality** zones. Football game is about to create xG opportunities at the end-up part where an _effective contralateral 
-action_ put the ball on the net of the others goal on and to block it in our goal.
+laterality** subspaces. Football game is about to create xG opportunities at the end-up part where an _effective contralateral 
+action_ will put the ball on the net of the others goal on and to block it to happen in our goal.
 
 ![](/images/landscapeUg.png "Figure. 3.4. Gon References in the Constrained Unbounded Landscape")
 
@@ -122,7 +123,7 @@ stasis_. For first time, on the positional thing can **potentially act** on his 
 inference decided by Gon) a transformation or action decided by the consioussness Gon, the **firstman**, the monad, the
 player.
 
-    - The set of _things_ is a tuple: {goals,ball}
+    - The set of _things_ is a triple: {goals,ball}
     - The set of _agents_ is a singleton: {Gon}
     - The set of _events_ is: {stasis, transformation} = {Ball's positional-stasis, Gon's positional-change}
     
@@ -142,7 +143,7 @@ The last cognitive lessons that Gon acquiered were that
 
 In his perception of the events in the landscape he must have both lessons into account.
 ## 3.5. The Bounded Landscape
-Every body understand the need of a **perimeter** for playing in the landscape. A closed landscape to play called **bounded 
-landscape**
+Every body understand the need of a **perimeter** for playing in the landscape. A closed landscape to play is called **bounded 
+landscape** BLandscape.
 
 ![](/images/landscapeB.png "Figure. 3.6. The Bounded Landscape")
