@@ -1,6 +1,7 @@
 # 1. Science's Mindset in Football
 
                - "Gon, the child playing football, is the first synergon, the monad ..."
+
 1. TOC
 {:toc}
 
@@ -37,32 +38,33 @@ in every-event on the pitch_.
 
 ## 1.3. Apply Classical Science Mindset to aFootball
 Let us apply science mindset to the **Universe of the game of Football** conceived as a 3D infinite disk projected on a **2D 
-unbounded landscape with no things, no events and _no agents**; just a *universe of eternal nothingness and stasis*. No things 
+unbounded landscape with no things, no events and _no agents**. Just a _universe of eternal nothingness and stasis_. No things 
 and no events means _no relations_ therefore, _no space-time_. To anneal, edify the unbounded landscape [Rovelli]. 
 
 Physical science, the dominant classical mindset, establishes the **background structure of the world** by conceiving 
 "_observables_"
-- **time** as _**flow**_ and its mechanics rules are the immutable laws of _motion, velocities and accelerations_ (or evolutive
-changes) that are described by _functions_ or differential equations of a _real variable_, called _time_. 
-- An **horizon of ordered events or actions** or _generator of space-transformations on things_, where *horizon* means a 
+- **time** as _**flow**_ and its mechanics rules are the immutable laws of _motion, velocities and accelerations_ (or 
+evolutive changes) that are described by _functions_ or differential equations of a _real variable_, called _time_. 
+- An **horizon of ordered events or actions** or _generator of space-transformations on things_, where _horizon_ means a 
 _general distributed ledger of events on things caused by agents in the container_, and
 - **space** as a _container framework of things and agents_ [Newton].
 
 "_states_"
-- The **state of the world** with n degrees of freedom needs 2n _imaginary variables_ called _coordinates of **phase space**_ 
-to be described by a Hamiltonian theory. Its dynamics is described by a Hamiltonian function referenced by those coordinates of
-phase space; and its Hamilton equation describe **changes or differences of the reference coordinates of phase space in time**.
+- The **state of the world** with n degrees of freedom needs 2n _imaginary variables_ called _coordinates_ of **phase space** 
+to be described by a Hamiltonian theory. Its dynamics is described by a Hamiltonian function referenced by those coordinates
+of phase space; and its Hamilton equation describe **changes or differences of the reference coordinates of phase space in
+time**.
 
 and, a "metrics"
-- A **clock** that measures _observable time_ is assumed has an _independent variable_ in the evolution of the world.
+- A **clock** that measures _observable time_ is assumed as an _independent variable_ in the evolution of the world.
 
-In summary, **Universe has a framework of the world** that is a 4 dimentional continuum gives us the intuition of **flowing 
+In summary, **Universe has a framework of the world**, a 4 dimentional continuum, that gives us the intuition of **flowing 
 time** and that **everything, everywhere flow** or changes.
 
 Physical science mutated with special relativity - simultaneity of events - but much more with general relativity where
 emerged several notions of **time**. First, the _coordinate time_ as a _field variable_. Since, all functions depend on phase 
 space and time coordinates **f(q,t)**. Time keeps playing its clasical role. But, in Einstein equations - a second order 
-evolution equations in t are about velocity- clocks measures along their worldline,not t. Relativistic time t has no direct
+evolution equations in t are about velocity - clocks measures along their worldline, not t. Relativistic time t has no direct
 physical interpretation; it is just an arbitrary label. It is a consequence of the **invariance of Einstein equations under
 changes of phase-space coordinate systems**. Therefore, solutions of Einstein equations factored away time and do not depend
 on time [Rovelli].
@@ -81,34 +83,34 @@ that apply to subsystems and scale them up to the universe as a whole.
 
 We need a theory of dynamics without an observer, or a measuring instrument outside the system because the universe has a 
 **perimeter** [^1], an expanding one. Therefore, **there is only interior and no exterior** [Smolin]. The fundamental **monad
-- Gon -** represents the universe based on his unique view of the whole universe from the interior. Reality must be build out
-of viewpoints, each one a partial perspective on a dynamically evolving universe. **A universe as seen from the inside**.
+- Gon -** represents the football universe based on his unique view of the whole universe from the interior. Reality must be
+build out of viewpoints, each one a partial perspective on a dynamically evolving universe. **A universe as seen from the
+inside for footballers**.
 
 Let us describe the 'structure of the world' as a 'view' based on a theory about **processes**, about the sequences and causal 
 relations among things that happen.
 
 - We need a **pace** the imaginary way of describing relationships [Leibniz],[Smolin].
-- A **relational framework [The Monadology - Leibniz]**.
+- A **relational framework** [The Monadology - Leibniz].
 
 ## 1.5. In aFootball Universe there is only interior, not exterior in a Framed Landscape
-In Football universe, the **event** are the things that happen at a single place and time; at each event there’s some physical 
-quantity that’s measurable. The _event_ has relations with the rest of the football universe, and that set of relations 
-constitutes our _view_ of the football universe. To have complete paralellism, **football needs to be played in a framed 
-landscape**.
+In aFootball universe, the **event** are the things that happen at a single place and relation; at each event there’s some
+physical quantity that’s measurable. The _event_ has relations with the rest of the football universe, and that set of
+relations constitutes our _view_ of the football universe. To have complete paralellism, **football needs to be played in a
+framed landscape**.
 
 ![](/images/aFICS_1logo.jpg "Figure 1.1. Universe with only interior")
 
-Its classical view is the language game of journalists, espectators, fans and now in 21st century those with the language of 
-sport analytics where their observations and states about a football match - inside- are ruled by an absolute time with a
+The classical view is the language game of journalists, espectators, fans and now in 21st century of those with the language
+of sport analytics where their observations and states about a football match - inside- are ruled by an absolute time with a
 duration 90 + x minutes and the dynamics of the football game is described by the external observators. In this context,
 without them, no football game happened.
 
-In other side, the professional **footballers** have always seen their Football Universe through the multiplicity of views of
-themselves as the sole actors on the pitch and their observation and states of the game are build from inside. They all know
-that the universe of football have no outside and they have their own 'language game'.
+In other side, the professional **footballers** have always seen and live their Football Universe through the multiplicity of
+views of themselves as the sole actors on the pitch and their observation and states of the game are build from inside. They
+all know that the universe of football has no outside and they have their own 'language game'.
 
-I will intent to take the universe of Football to study as footballers pro use to. A new machine learning approach that I must
-keep in my mind because using the classical way is a cultural temptation. The idea is to try to reformulate football in terms
-of these _views from the inside_, what it looks like from inside the aPitch that is the _perimeter_ and the _patched interior_
-of the aFootball Universe.
-
+I will intent to take the universe of Football - aFootball - to study as footballers pro use to. A new machine learning
+approach that I must keep in my mind because using the classical way is a cultural temptation. The idea is to try to 
+reformulate football in terms of these _views from the inside_, what it looks like from inside the aPitch that is the 
+_perimeter_ and the _patched interior_ of the aFootball Universe.
