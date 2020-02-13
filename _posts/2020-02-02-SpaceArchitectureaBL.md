@@ -12,7 +12,7 @@ Gon is on control of the ball in an arbitrary alpha point and is free to go thro
 sequence of intentional skill actions on his body and on the ball conducting it around with a final destination to an omega 
 point where he can end up the effective final action to score a goal.
 
-    - The set of _things_ is a tuple: {goals,ball}
+    - The set of _things_ is a triple: {goals,ball}
     - The set of _agents_ is a singleton: {Gon}
     - The set of _events_ is: {stasis, transf0, transf1, ..., transfn} = {Ball's positional-stasis, Gon's positional-change,
     Ball-positional-change, ..., goal}
@@ -37,37 +37,34 @@ ball or on-ball control. But, Gon now knows that he has to do an huge effort bec
 happen on only himself_. He **needs team mates to do it one and again and again** in order to have simultaneity and 
 sequentiality of events and that the action be distributed between all agent in the boundade landscape. Now on, Gon knows that
 he is constrained to be in the on-ball state and that most of the time he will be in the off-ball state. That he must
-concentrate on how to move and when he must be focus to get control of the ball and decide which is the best action to decide
-[^1].
+concentrate on **how and where to move** and when he must be focus to get control of the ball and decide **how to play** or
+which is the best action to decide [^1].
 
 '''python
-
 from IPython.display import YouTubeVideo
-
 YouTubeVideo('jymI1Q_XiEU')
-       
 '''
 
 ![](/images/Gon1inUL-v1.mp4 "Figure 4.1. Animation: Gon on the Bounded Landscape - Visit aNT-aFICS channel in YouTube")
 
 ## 4.2. Architecture of Space of the Bounded Landscape
 ### 4.2.1. The Patched Bounded Landscape
-In aFootball our perspective of the game is in spatial-temporal terms. This view yields us to state that _there is an
+In aFootball our perspective of the game is in spatial-temporal terms. This view yields us to state that there is an
 **architecture of the football game** in the bounded landscape. This architecture of aFICS in the bounded landscape is all
-about **creating space guided by affordances** and **coming into space at the right time**. 
+about **creating space guided by affordances** and **coming into space in coherence with his actions**. 
 
 Therefore, a main idea of strategy to play football in the bounded playground is about **organizing space**. A spatial
 practice in geolocalization, as in aFICS for football, to be analysed would be in terms of:
-- the static framed bounded landscape or the **aBLandscape** and,
+- the static framed bounded landscape or the **aPBLandscape** and,
 - the teams' dynamics as **Football Flow**
 
-Gon needs _a model of the bounded landscape_ that guides his decision making in any point in the environment when he is off-
-ball or on-ball control. But, Gon now knows that he has to do an huge effort because _all that space-time is created 
+Gon needs _a model of the patched bounded landscape_ that guides his decision making in any point in the environment when he
+is off-ball or on-ball control. But, Gon now knows that he has to do an huge effort because _all that space-time is created 
 sequentially but all happen on only himself_.
 
 This model must take into account all spatial reference that Gon has acquiered from exploring the bounded landscape. 
 - Gon knows the difference in scale about the **near by and the far away**
-- Gon knows the difference between the **inner area and the outter area**
+- Gon knows the difference between the ** core area, the inner area and the outter area**
 - Gon knows which directions of movement of the ball and of his body are in **sidewayness or counter-sydewayness**.
 
 Let us analyze the framed bounded landscape aBLandscape as the common reference for spatial practice of football.
@@ -76,25 +73,26 @@ Let us analyze the framed bounded landscape aBLandscape as the common reference 
 
 ### 4.2.2. Spatial Relations of Patches
 
-**Patches** are _circles, semicircular sectors and circunferences subspaces_. They exhibit spatial relationships between
-subspaces and their concatenation as set of subspaces constitute the **spatial organization of the bounded landscape** in the
-aFootball Universe whose **inside** is bounded by a **perimeter** and the *perimeter* is conformed by a **lateral** and
-**counter-lateral** arcs and the *inside* by an **outter** and an **inner** subspaces as shown in Figures 4.3. and 4.4.
+**Patches** are _circles, semicircular sectors and circunferences subspaces_. They exhibit spatial relationships, like n-
+adjecency -  between subspaces and their concatenation as set of subspaces constitute the **spatial organization of the
+patched bounded landscape aPBLandscape** in the aFootball Universe whose **inside** is bounded by a **perimeter** and the
+*perimeter* is conformed by a **lateral** and **counter-lateral** arcs and the *inside* by an **outter**, an **inner** and 
+a **core** subspaces as shown in Figures 4.3. and 4.4.
 
-The bounded landscape is organizaed in two halves, **own half** and **opponent half**, each one asociated to a goal object
-Each half is sub-organized into nine **patches**. In total, The bounded landscape is a perimeter of the proto-aFootball field.
-There are an **inside** ajust and inside. When the ball goes trhough the perimeter we use two code words to identify in which
-**perimeter subline** the game is re-assumed. {00} for **contralateral subline clsl** reposition and {10} for **lateral
-subline lsl** reposition. There are eighteen patches with id_code in the range (01..09,11,..,19). The **inner subspace** 
-contains the patches subset {06,07,08,09,16,17,18,19}. The **outter subspace** contains  the patches subset
-{01,02,03,04,05,11,12,13,14,15}. Table 4.1. summarizes the set of spatial relations between patches in the organization of the
-bounded landscape.
+The aPBLandscape is organizaed in two halves, **own half** and **opponent half**, each one asociated to a goal object
+Each half is sub-organized into nine **patches**. In total, The bounded landscape has a perimeter of the proto-aFootball
+field. There is an **inside**. When the ball goes trhough the perimeter we use two code words to identify in which
+**perimeter sublane** the game is re-assumed. {18} for **contralateral sublane clsl** reposition and {19} for **lateral
+sublane lsl** reposition. There are eighteen patches with id_code in the range (00..08,09,..,17). The **inner subspace** 
+contains the patches subset {05,06,07,08,14,15,16,17}. The **outter subspace** contains  the patches subset
+{00,01,02,03,04,9,10,11,12,13}. Table 4.1. summarizes the set of spatial relations between patches in the organization of the
+patched bounded landscape.
 
 ![](/images/aBlandscape_whole_aFootball.png "Figure 4.3. Components of aFootball Space in PB_Landscape")
 
 ![](/images/Circos_aBlandscape_neighborhood.png "Figure 4.4. Neighborhood Spatial Relations in aFootball PB_Landscape")
 
-## Table 4.1.Spatial Relations in Organized Bounded Landscape
+### Table 4.1.Spatial Relations in Organized Patched Bounded Landscape
 
 |pid|wholeU| HF|subspace| 0-neighbor  |     1-neighbors   |        2-neighbors      |   3-neighbors  |4-neighbor|5-ne|
 |---|------|---|--------|-------------|-------------------|-------------------------|----------------|----------|----|
@@ -125,9 +123,9 @@ bounded landscape.
 Alternative views of the organization of the patched bounded landscape are shown in Figure 4.5. for 1-neighborhoods and in 
 Figure 4.6. for team halves.
 
-![](/images/aFootball_1Neighborhood.png "Figure 4.5. 1-Neighbors Spatial Relations in aFootball PB_Landscape")
+![](/images/aFootball_1Neighborhood.png "Figure 4.5. Adjacency Meso Subspaces {Box, Perimeter, Inner, Outter} PB_Landscape")
 
-![](/images/aFootball_team_half.png "Figure 4.6. Team Halves Spatial Relations in aFootball PB_Landscape")
+![](/images/aFootball_team_half.png "Figure 4.6. Adjacency Meso Subspaces {Own, Them, Both} Team Halves in PB_Landscape")
 
 ## 4.3. Space Architecture for aFootball on PB-Landscape
 
@@ -138,8 +136,8 @@ of a shape that contains all outter patches. It is the **convex hull**, a geomet
 architecture as *complexity of the landscape*. An invitation to move and play the ball in this convex hull that currently 
 separates inner and outter subspaces.
 
-All these relational organizations of space and the Figure 4.7. that shows the shortest path patch relationships constitute
-the **architecture of space** of the patched, bounded landscape.
+All these relational organizations of space into subspaces and the Figure 4.7. that shows the shortest path patch 
+relationships constitute the **architecture of space** of the patched, bounded landscape PB_Landscape.
 
 ![](/images/aFootball_KSpace_Architecture.png "Figure 4.7. Architecture of Space of PB_Landscape for aFootball")
 
