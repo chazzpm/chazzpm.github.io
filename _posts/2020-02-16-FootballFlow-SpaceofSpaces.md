@@ -88,7 +88,7 @@ Today, one main problem of the football analytical community ask how to value th
 into account its control importance for the expected goal possibility. Figure 5.6. shown an intrinsic score goal value of each
 patch in function of its degree or number of adjacent patches and distance to the center of the opponent goal.
 
-![](/images/inaPFootballMeshStructureScoreGoalImportance.png "Figure 5.6. Flow aPLandscape as a Mesh Structure of Scored Goal 
+![](/images/inaFootballMeshStructureScoreGoalImportance.png "Figure 5.6. Flow aPLandscape as a Mesh Structure of Scored Goal 
 Importance Patched Zones")
 
 
