@@ -1,4 +1,4 @@
-# 5. Space of Spaces' Affordances or All Possible aFootball Flow in PB_Landscape - IN CONSTRUCTION
+# 5. Space of Spaces' Affordances or All Possible aFootball Flow in aPLandscape - IN CONSTRUCTION
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
   - " ...after all, on the pitch what we see are plays, not data" - Clement Lencled
@@ -53,22 +53,40 @@ idea of an empty patched landscape without perimeter and **just constitued for i
 adjacency relationships between patches, included 18 spatial-adjecency self-relations of the patches themselves. 
 The aPLandscape is modeled as the network graph PL en Figure 5.1. 
 
-![](/images/interior_aPLandscape_Neighborhood.png "Figure 5.1. Organization of aFootball Interior Space in aPLandscape")
+![](/images/interior_aPLandscape_Neighborhood.png "Figure 5.1. aFootball Interior Space in aPLandscape Graph")
 
 
 ## 5.3. Network Properties of Space Architecture of aPLandscape
+The organization of space into meso subspaces sets reveals the existence of a terrain **hierarchy** of affordances in the
+aPLandscape that invites to responds with plays and tasks propers of an **organic aFootball strategy**. One in which a **core-
+modulus** is a positional set up in order to plays in the inner subspace and with a larger **membrane-modulus** positional set
+up. One possisioned in a kind of convex closure of a shape that contains all outter patches. It is the **convex hull**, a 
+geometric concept that emerges from the space architecture as a kind of *complexity of the landscape*. An invitation to move 
+and play the ball in this convex hull that currently separates inner and outter subspaces and, with a subsumed core modulus.
 
-![](/images/inaFootball_Space_Architecture.png "Figure 5.2. Architecture of aFootball Inside Space in a Patched Landscape")
+![](/images/inaFootball_Space_Architecture.png "Figure 5.2. Space Architecture of the Interior Subspace in aPLandscape")
 
+### 5.3.1 Organization of Space in Meso Subspaces Sets
+Other organization of the interior subscape in aPLandscape identifies an adjacency mesh between patches in which emerge {own-
+box, inner, outter, opponent box} meso subspaces whose structure is clearly identificable.
 
 ![](/images/inaFootball_1Neighborhood.png "Figure 5.3. aFootball Adjacency Between Patches Create Meso Subspaces ")
 
+Another organization of the interior subspace in aPLandscape identifies other adjacency mesh between patches of meso subspaces
+{Own, Them, Both} that divides the landscape in own field and their field and the complete field can be seen as a both teams
+subspace.
 
 ![](/images/inaFootball_team_half.png "Figure 5.4. aFootball Adjacency Between Half-Landscape Patches Create Meso Subspaces")
 
+Another adjacency shells meso subspaces {Lateral,Box,CounterLateral,Own,Them} relational organization is possible as shown in
+Figure 5.5. All these relational organizations of interior space but specially Figure 5.5. that shows the shortest path patch
+relationships constitute the **space architecture** of the aPLandscape. It is the logo for "aFICS street football".
 
 ![](/images/inaFootball_KSpace_Architecture.png "Figure 5.5. aFootball Adjacency Between aPLandscape Meso Subspaces")
 
+Today, one main problem of the football analytical community ask how to value the distint zones of a football field taking
+into account its control importance for the expected goal possibility. Figure 5.6. shown an intrinsic score goal value of each
+patch in function of its degree or number of adjacent patches and distance to the center of the opponent goal.
 
 ![](/images/inaPFootballMeshStructureScoreGoalImportance.png "Figure 5.6. Flow aPLandscape as a Mesh Structure of Scored Goal 
 Importance Patched Zones")
