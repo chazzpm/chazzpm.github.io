@@ -10,14 +10,14 @@
 
 ## 5.1. Affordances, Landscape Fitness and aFICS Literacy
 
-Gon is learning to explore and exploit the landscape. He is instructed to perceive the environment in behavioral terms. There
-the **set of things** (goals, patch-zones, the ball) **provides oportunities for agency**, or **affordances** in order to 
-answer the great question: **What is to play football?**  that only depends of his own aFICS skills and his football action 
-capabilities. 
+Gon is learning to explore and exploit the PB_landscape. He is instructed to perceive the environment in behavioral terms.
+The **set of things** (goals, patch-zones, the ball) **provides oportunities for agency to move or play**, or **affordances**
+in order to answer the great question: **What is to play football?**  that only depends of his own aFICS skills and his
+football action capabilities. 
 
-Affordances are properties of the coupled dynamical systems Gon-aPLandscape (player-patched landscape), scaled to his action
-capabilities (strength, speed, reaction times, height, weight, body dimensions) and, affordances are perceived by Gon as he
-learn to establish a **Gon-Landscape fit**. 
+Affordances are properties of the coupled dynamical systems Gon-PB_Landscape, scaled to his action capabilities (strength,
+speed, reaction times, height, weight, body dimensions) and, affordances are perceived by Gon as he learn to establish a
+**Gon-PB_Landscape fit**. 
 
 Academia Emeritense knows that its first cognitive task in Gon's aFICS footbal education is help him to acquiere the idea of
 perceive the patched landscape, and later the pitch, in relation to its functionality. Its meaning is in the affordances that
