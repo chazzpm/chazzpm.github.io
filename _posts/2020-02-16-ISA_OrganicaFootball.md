@@ -53,7 +53,7 @@ idea of an empty patched landscape without perimeter and **just constitued for i
 adjacency relationships between patches, included 18 spatial-adjecency self-relations of the patches themselves. 
 The aPLandscape is modeled as the network graph PL en Figure 5.1. 
 
-![](/images/interior_aPLandscape_Neighborhood.png "Figure 5.1. aFootball Interior Space in aPLandscape Graph")
+![](/images/interior_aPLandscape_neighborhood.png "Figure 5.1. aFootball Interior Space in aPLandscape Graph")
 
 ## 5.3. Affordance of Organic aFootball: Core-Convex_Hull Subspace Control
 The organization of space into meso subspaces sets reveals the existence of a terrain **hierarchy** of affordances in the
