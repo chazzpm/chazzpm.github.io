@@ -132,10 +132,12 @@ Notation − e(V)
 BL-Density: the number of possible or potential edges, over the number of actual edges or connections" %}
 
 {% include alert.html text="
-BL-triangular regular map BL-Number of triangles in which each patched zone participates in length-1 interactions") 
+BL-triangular regular map BL-Number of triangles in which each patched zone participates in length-1 interactions 
 t = nx.triangles(BL)
 
-BL-Clustering coefficient of each patched zone") c=nx.clustering(BL) BL-CC Cluster coefficient of a patch indicates how many of possible triangles beteen patches it realizes. CC reflects the adjacency between patches. The higher CC, the higher is its capability for synergestic play between team mates occupying those patches.
+BL-Clustering coefficient of each patched zone c=nx.clustering(BL) BL-CC Cluster coefficient of a patch indicates how many of
+possible triangles beteen patches it realizes. CC reflects the adjacency between patches. The higher CC, the higher is its
+capability for synergestic play between team mates occupying those patches.
 
 BL-Average cluster coefficient of the aPitch ac=nx.average_clustering(BL)
 
