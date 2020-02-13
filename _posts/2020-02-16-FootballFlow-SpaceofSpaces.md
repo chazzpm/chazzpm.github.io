@@ -1,4 +1,4 @@
-# 5. Space of Spaces' Affordances or All Possible aFootball Flow in aPLandscape - IN CONSTRUCTION
+# 5. Space of Spaces' Affordances or All Possible aFootball Flow in PB_Landscape - IN CONSTRUCTION
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
   - " ...after all, on the pitch what we see are plays, not data" - Clement Lencled
@@ -44,7 +44,7 @@ skills improvement.
 
 Let me help any player an aid that expand his vision of the invisible that Clement Lengled does not consider.
 
-## 5.1. Graph Model of the Interior of the Patched Landscape
+## 5.2. Graph Model of the Interior of the Patched Landscape
 
 Let us move from the bounded landscape model of the aFootball Universe with a perimeter and an interior space to a more strict
 idea of the empty patched landscape without perimeter and just constitued for interior space. This landscape aPLandscape has 
@@ -55,7 +55,7 @@ modeled as a network graph PL en Figure 5.1.
 ![](/images/interior_aPLandscape_neighborhood.png "Figure 5.1. Organization of aFootball Inside Space in a Patched Landscape")
 
 
-## 5.2. Network Properties of Space Architecture of aPLandscape
+## 5.3. Network Properties of Space Architecture of aPLandscape
 
 ![](/images/inaFootball_Space_Architecture.png "Figure 5.2. Architecture of aFootball Inside Space in a Patched Landscape")
 
@@ -75,43 +75,43 @@ Importance Patched Zones")
 
 ![](/images/DegreeHistogramPatchesinaPLandscape.png "Figure 5.7. Degree Histogram of Patches in aPLandscape")
 
-## The Space of Spaces of aPLandscape
+## 5.4. The Space of Spaces of aPLandscape
 
 ![](/images/inAllpossibleaFootballFlowin5lanesaPLandscape.png "Figure 5.8. Map of all possible Football Flow in a 5 lane 
 aPLandscape")
 
-## Affordances of the Space of Spaces to Build g-motions in a Levy Flight
+## 5.5. Affordances of the Space of Spaces to Build g-motions in a Levy Flight
 
-### Affordances of 0-length ball possession interactions
+### 5.5.1. Affordances of 0-length ball possession interactions
 
 ![](/images/inaPLandscape5lanes_pl0_interconnectivity.png "Figure 5.9. Map of all possible 0-length interactions in a 5 lane 
 aPLandscape")
 
-### Affordances of 1-length ball possession interactions
+### 5.5.2. Affordances of 1-length ball possession interactions
 
 
 ![](/images/inaPLandscape5lanes_pl1_interconnectivity.png "Figure 5.10. Map of all possible 1-length interactions in a 5 lane 
 aPLandscape")
 
-### Affordances of 2-length ball possession interactions
+### 5.5.3. Affordances of 2-length ball possession interactions
 
 
 ![](/images/inaPLandscape5lanes_pl2_interconnectivity.png "Figure 5.11. Map of all possible 2-length interactions in a 5 lane 
 aPLandscape")
 
-### Affordances of 3-length ball possession interactions
+### 5.5.4. Affordances of 3-length ball possession interactions
 
 
 ![](/images/inaPLandscape5lanes_pl3_interconnectivity.png "Figure 5.12. Map of all possible 3-length interactions in a 5 lane 
 aPLandscape")
 
-### Affordances of 4-length ball possession interactions
+### 5.5.5. Affordances of 4-length ball possession interactions
 
 
 ![](/images/inaPLandscape5lanes_pl4_interconnectivity.png "Figure 5.13. Map of all possible 4-length interactions in a 5 lane 
 aPLandscape")
 
-### Affordances of 5-length ball possession interactions
+### 5.5.6. Affordances of 5-length ball possession interactions
 
 ![](/images/inaPLandscape5lanes_pl5_interconnectivity.png "Figure 5.14. Map of all possible 5-length interactions in a 5 lane 
 aPLandscape")
