@@ -53,7 +53,7 @@ idea of an empty patched landscape without perimeter and **just constitued for i
 adjacency relationships between patches, included 18 spatial-adjecency self-relations of the patches themselves. 
 The aPLandscape is modeled as the network graph PL en Figure 5.1. 
 
-![](/images/interior_aPLandscape_neighborhood.png "Figure 5.1. Organization of aFootball Interior Space in aPLandscape")
+![](/images/interior_aPLandscape_Neighborhood.png "Figure 5.1. Organization of aFootball Interior Space in aPLandscape")
 
 
 ## 5.3. Network Properties of Space Architecture of aPLandscape
