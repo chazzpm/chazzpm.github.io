@@ -114,13 +114,12 @@ included in the interior of the aPLandscape.
 | diameter      |  5                                                            | 
 | eccentricity  | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]|
 | center        | [8, 17]                                                       |
-| periphery     | [0, 3, 4, 9, 12, 13]                                          |
+| periphery     | [0, 1, 3, 2, 4, 9, 10, 12, 11, 13]                                          |
 | density       | 0.35947712418300654                                           |
 
 
-{% include info.html text="Network Metric for Space Architecture of aPBlandscape" 
-d(u,v)-ShortestPath: If there are multiple paths connecting two nodes u,v, then the _shortest path_ is considered as the
-distance between the two nodes d(u,v)
+{% include info.html text="d(u,v)-ShortestPath: If there are multiple paths connecting two nodes u,v, then the _shortest path_
+is considered as the distance between the two nodes d(u,v)
 apl(u,v) average shortest path length: The mean shortest path length - geodesic distance of the graph -
 e(PL) Eccentricity: The maximum distance between a node to all other nodes is considered as the eccentricity of node.
 r(PL) Radius: The minimum eccentricity from all the nodes is considered as the **radius** of the graph
@@ -130,11 +129,9 @@ PL-center: The set of all central points of PL is called the centre of the graph
 then ‘V’ is the central point of the Graph
 PL-circunsference: The number of edges in the longest cycle of PL is called as the circumference of PL.
 Notation − e(V)
-BL-Density: the number of possible or potential edges, over the number of actual edges or connections.
+BL-Density: the number of possible or potential edges, over the number of actual edges or connections" %}
 
-%)
-
-{% include
+{% include alert.html text="
 BL-triangular regular map BL-Number of triangles in which each patched zone participates in length-1 interactions") 
 t = nx.triangles(BL)
 
@@ -142,13 +139,7 @@ BL-Clustering coefficient of each patched zone") c=nx.clustering(BL) BL-CC Clust
 
 BL-Average cluster coefficient of the aPitch ac=nx.average_clustering(BL)
 
-BL-Generalized degree of each patched zone nx.generalized_degree(BL)
-
-
-
-
-%}
-
+BL-Generalized degree of each patched zone nx.generalized_degree(BL)" %}
 
 ### 5.4.1 Organization of Space in Meso Subspaces Sets
 Other organization of the interior subscape in aPLandscape identifies an adjacency mesh between patches in which emerge {own-
