@@ -16,14 +16,14 @@ on a preminence of the ideas of _observable of relations_ and _state of relation
 perspective of the world in order to have an idea about all possible world that can happens in the **relational Footbal 
 Universe** or **aFootball**[^1].
 
-This relational football is already present in the middle of football data science departments and enterprises like StatsBomb,
-Opta, Wyscout, etc. Their dataframes are events driven and columns pairs are relations between relevant observables inside the 
-pitch. Figure 2.1 shows a dataframe of all the events in the range (2526..2537) of the effective possession phase 152, that 
-corresponds to the 98th possession brake 'PB'. Phase possession of 'Barcelona' starts with from a throw in 'play pattern id' 4 
-at xy-location (13.9,1.0) in the minute 68. The sequence of events ends up in event 2637 at xy-location (63.9,36.7). This 
-manner to describe football has adopted the physical-mathematical model of observables and states relations that marks time as 
-an event-driven variable, that adopts the manner footballers experience their football universe on the pitch. I am 
-mathematical modeling such an experience, that is all.
+This relational football is already present, unconsciously, in the middle of football data science departments and enterprises
+like StatsBomb, Opta, Wyscout, BarcaInnoHub, etc. Their dataframes are events driven and columns pairs are relations between
+relevant observables inside the pitch. Figure 2.1 shows a dataframe of all the events in the range (2526..2537) of the
+effective possession phase 152 of 12 events, that corresponds to the 98th possession brake 'PB'. Phase possession of
+'Barcelona' starts with from a throw in 'play pattern id' 4 at xy-location (13.9,1.0) in the minute 68. The sequence of events
+ends up in event 2637 at xy-location (63.9,36.7). This manner to describe football has adopted the physical-mathematical model
+of observables and states relations that marks time as an event-driven variable, that adopts the manner footballers experience
+their football universe on the pitch. I am mathematical modeling such an experience, that is all.
 
 ![](/images/LevyFlightEffdf.png "Figure 2.1. Dataframe of a Levy Flight in a Match")
 
@@ -40,7 +40,7 @@ Each player maximize the rate of exploration of adjacent possibles as fast as th
 If in the '_actual_' there are two events, let us explore their 'adjacent possible' 1-step neighborhood away from the
 'actual'. And sooner than later we can identify n-step neighborhood where they start to diverge. If n is smaller than m, these
 two events views are more distinguishable from one another in n than in m. Therefore, we most expect with the latest mindset 
-of science that football dynamics _maximizes '_variety_'. Two players associated with these two events do not need to be near
+of science that football dynamics _maximizes 'variety'_. Two players associated with these two events do not need to be near
 to have very similar views because they are in a closed space. So they could be happen far away and not necesarily near by.
 So, synergy can  create 'entanglement' of their _views_ and **intelligent and synergestic decisions** can be simultaneously 
 adopted.
@@ -61,7 +61,7 @@ rival player who guess his action and intercepts the ball re-gaining possession.
 ### 2.1.2. Space of Space of Any Possible Football Flow
 
 Then, disturb the system - with a football action like receiving or intercepting the ball being passed - and repeat the 
-analysis all over again. At each new disturbance, a new football play - motion - γ is found. 
+analysis all over again. At each new disturbance, a new football play - motion γ - is found. 
 
 At the end, The _space of sequences of football motions or **trajectories** in the unbounded landscape is limited_. It is just 
 a 2D subspace of the space of spaces:the infinite dimensional football space of all football motions. Only a **2D space Γ of γ
@@ -69,7 +69,7 @@ curves - _trajectories- ** can be realized in the unbounded landscape.
 
 Bingo. If we fix the place of the goal archeries, and patch the unbounded landscape; we get a **bounded landscape** and we can 
 know about all **possible football flow dynamics** that can happen in the bounded landscape. ! We can compute - the all 
-possible football flow dynamics - without any player !
+possible football flow dynamics - without any player. ! We have foresee all aFootball plays.
 
 In a small perturbation, we can coordinatize a football motion γ by - a rotation - two real numbers A >= 0 and 0 ≤ φ < 2π, and 
 (1) is given by
@@ -90,7 +90,7 @@ When a team re-gain possession during a match, let me say at alpha α-point rela
 the adjacent possible of a sequence of intelligent, cognitive and synergestic event pipeline of football flow dynamics towards 
 the rival goal. Such a sequence is a *protopian-trajectory* of incremental progress of '_expected goal_ xG' accomplishing xG 
 football motion by football motion in the sequence that in case of end in an **omega event** with a pass to the net of the 
-rival goal we call it a **Levy flight**, an actual football flow dynamics from alpha α-point to omega point where a teammate 
+rival goal we call it a **Levy flight**, an actual football flow dynamics from alpha α-point to omega w-point where a teammate 
 player scores a goal.
 
 The most important _relativistic observable_ will be the scored minus conceded goals or '_goal difference_' of each team and
