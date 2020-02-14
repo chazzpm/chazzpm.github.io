@@ -77,6 +77,11 @@ the average shortest path length 2.0454545454545454
 There are 1132 possible Gon's moves|passes of the ball from the centroid of each patch to the centroid of other patch, stasis
 included in the interior of the aPLandscape.
 
+{% include info.html text="d(u,v)-_ShortestPath_ If there are multiple paths connecting two nodes u,v, then the _shortest
+path_ is considered as the distance between the two nodes d(u,v)"%}
+{% include alert.html text="apl(u,v) _average shortest path length_ The mean shortest path length - geodesic distance of the
+graph -"%}
+
 ### Table 5.1. Number of Paths of i-adjacency length in the interior of aPLandscape
 
 |length |#paths|
@@ -111,6 +116,17 @@ included in the interior of the aPLandscape.
 |16|({16: 0, 6: 1, 11: 1, 13: 1, 14: 1, 17: 1, 1: 2, 3: 2, 5: 2, 8: 2, 9: 2, 10: 2, 15: 2, 0: 3, 2: 3, 7: 3, 12: 3, 4: 4} | 
 |17|({17: 0, 8: 1, 14: 1, 15: 1, 16: 1, 5: 2, 6: 2, 7: 2, 9: 2, 10: 2, 11: 2, 12: 2, 13: 2, 0: 3, 1: 3, 2: 3, 3: 3, 4: 3} | 
 
+{% include info.html text="e(PL) _Eccentricity_ The maximum distance between a node to all other nodes is considered as the
+eccentricity of node"%}
+{% include alert.html text="r(PL) _Radius_ The minimum eccentricity from all the nodes"%}
+{% include info.html text="d(PL) _Diameter_ The maximum eccentricity from all the nodes or its longest shortest path length"%}
+{% include alert.html text="_Central Point_ If the eccentricity is equal to the radius of PL, then it is the central point of
+the graph"%}
+{% include info.html text="PL-_center_ The set of all central points of PL"%}
+{% include alert.html text="PL-_circunsference_ The number of edges in the longest cycle of PL"%}
+{% include info.html text="PL-_Density_ the number of possible or potential edges, over the number of actual edges or 
+connections"%}
+
 ### Table 5.3. Set of Network Properties of PL Graph Model of the Interior of aPLandscape
 
 | property      |                                                               |
@@ -121,6 +137,9 @@ included in the interior of the aPLandscape.
 | center        | [8, 17]                                                       |
 | periphery     | [0, 1, 3, 2, 4, 9, 10, 12, 11, 13]                                          |
 | density       | 0.35947712418300654                                           |
+
+{% include alert.html text="PL-betweenness centrality accepts a bunch of nodes and computes the contribution of those nodes to
+the betweenness centrality of the whole network"%}
 
 ### Table 5.4. Betweenness Centrality Contribution of each Patch
 
@@ -133,21 +152,6 @@ included in the interior of the aPLandscape.
 |  12  |  0.04527  |  13  |  0.04527  |  14  |  0.14973  |
 |  15  |  0.15762  |  16  |  0.15762  |  17  |  0.06900  |
 
-{% include info.html text="d(u,v)-_ShortestPath_ If there are multiple paths connecting two nodes u,v, then the _shortest
-path_ is considered as the distance between the two nodes d(u,v)"%}
-{% include alert.html text="apl(u,v) _average shortest path length_ The mean shortest path length - geodesic distance of the
-graph -"%}
-{% include info.html text="e(PL) _Eccentricity_ The maximum distance between a node to all other nodes is considered as the
-eccentricity of node"%}
-{% include alert.html text="r(PL) _Radius_ The minimum eccentricity from all the nodes"%}
-{% include info.html text="d(PL) _Diameter_ The maximum eccentricity from all the nodes or its longest shortest path length"%}
-{% include alert.html text="_Central Point_ If the eccentricity is equal to the radius of PL, then it is the central point of
-the graph"%}
-{% include info.html text="PL-_center_ The set of all central points of PL"%}
-{% include alert.html text="PL-_circunsference_ The number of edges in the longest cycle of PL"%}
-{% include info.html text="PL-_Density_ the number of possible or potential edges, over the number of actual edges or 
-connections"%}
-
 {% include alert.html text="PL-_triangular regular map PL_ Number of triangles in which each patched zone participates in 
 length-1 interactions"%}
 {% include info.html text="PL-_Clustering coefficient_ of each patched zone PL-CC Cluster coefficient of a patch indicates how
@@ -155,8 +159,6 @@ many of possible triangles beteen patches it realizes. CC reflects the adjacency
 its capability for synergestic play between team mates occupying those patches"%}
 {% include alert.html text="PL-_Average cluster coefficient_ of the aPLandscape"%}
 {% include info.html text="PL-_Generalized degree of each patch"%}
-{% include alert.html text="PL-betweenness centrality accepts a bunch of nodes and computes the contribution of those nodes to
-the betweenness centrality of the whole network"%}
 
 ### 5.4.1 Organization of Space in Meso Subspaces Sets
 Other organization of the interior subscape in aPLandscape identifies an adjacency mesh between patches in which emerge {own-
