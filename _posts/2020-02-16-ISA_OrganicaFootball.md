@@ -122,6 +122,14 @@ included in the interior of the aPLandscape.
 | periphery     | [0, 1, 3, 2, 4, 9, 10, 12, 11, 13]                                          |
 | density       | 0.35947712418300654                                           |
 
+### Table 5.4. Between Centrality Contributoion of each Patch
+| node |-----------| node |-----------| node |-----------|
+|   0  |  0.01425  |   1  |  0.05561  |   2  |  0.05561  |
+|   3  |  0.04527  |   4  |  0.04527  |   5  |  0.14973  |
+|   6  |  0.15762  |   7  |  0.15762  |   8  |  0.06900  |
+|   9  |  0.01425  |  10  |  0.05561  |  11  |  0.05561  |
+|  12  |  0.04527  |  13  |  0.04527  |  14  |  0.14973  |
+|  15  |  0.15762  |  16  |  0.15762  |  17  |  0.06900  |
 
 {% include info.html text="d(u,v)-_ShortestPath_ If there are multiple paths connecting two nodes u,v, then the _shortest
 path_ is considered as the distance between the two nodes d(u,v)"%}
@@ -140,12 +148,13 @@ connections"%}
 
 {% include alert.html text="PL-_triangular regular map PL_ Number of triangles in which each patched zone participates in 
 length-1 interactions"%}
- 
 {% include info.html text="PL-_Clustering coefficient_ of each patched zone PL-CC Cluster coefficient of a patch indicates how
 many of possible triangles beteen patches it realizes. CC reflects the adjacency between patches. The higher CC, the higher is
 its capability for synergestic play between team mates occupying those patches"%}
 {% include alert.html text="PL-_Average cluster coefficient_ of the aPLandscape"%}
 {% include info.html text="PL-_Generalized degree of each patch"%}
+{% include alert.html text="PL-betweenness centrality accepts a bunch of nodes and computes the contribution of those nodes to
+the betweenness centrality of the whole network"%}
 
 ### 5.4.1 Organization of Space in Meso Subspaces Sets
 Other organization of the interior subscape in aPLandscape identifies an adjacency mesh between patches in which emerge {own-
@@ -159,20 +168,15 @@ subspace.
 
 ![](/images/inaFootball_team_half.png "Figure 5.5. aFootball Adjacency Between Half-Landscape Patches Create Meso Subspaces")
 
-Another adjacency shells meso subspaces {Lateral,Box,CounterLateral,Own,Them} relational organization is possible as shown in
-Figure 5.6. All these relational organizations of interior space but specially Figure 5.6. that shows the shortest path patch
-relationships constitute the **space architecture** of the aPLandscape. It is the logo for "aFICS street football".
-
-![](/images/inaFootball_KSpace_Architecture.png "Figure 5.6. aFootball Adjacency Between aPLandscape Meso Subspaces")
 
 ### 5.4.2. Value of Control Patch Subspaces 
 Today, one main problem of the football analytical community ask how to value the distint zones of a football field taking
-into account its control importance for the expected goal possibility. Figure 5.7. shown an intrinsic score goal value of each
+into account its control importance for the expected goal possibility. Figure 5.6. shown an intrinsic score goal value of each
 patch in function of its degree or number of adjacent patches and distance to the center of the opponent goal.
 
-![](/images/inaFootballMeshStructureScoreGoalImportance.png "Figure 5.7. Flow aPLandscape as a Mesh Structure of Scored Goal 
+![](/images/inaFootballMeshStructureScoreGoalImportance.png "Figure 5.6. Flow aPLandscape as a Mesh Structure of Scored Goal 
 Importance Patched Zones")
 
 
-![](/images/DegreeHistogramPatchesinaPLandscape.png "Figure 5.8. Degree Histogram of Patches in aPLandscape")
+![](/images/DegreeHistogramPatchesinaPLandscape.png "Figure 5.7. Degree Histogram of Patches in aPLandscape")
 
