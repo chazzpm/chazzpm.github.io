@@ -57,14 +57,14 @@ The aPLandscape is shown in Figure 5.1. and modeled as the network graph PL in F
 
 ![](/images/interior_aPLandscape_neighborhood.png "Figure 5.2. aFootball Interior Space in aPLandscape Graph")
 
-
 ## 5.3. Affordance of Organic aFootball: Core-Convex_Hull Subspace Control
 The organization of space into meso subspaces sets reveals the existence of a terrain **hierarchy** of affordances in the
-aPLandscape that invites to responds with plays and tasks propers of an **organic aFootball strategy**. One in which a **core-
-modulus** is a positional set up in order to plays in the inner subspace and with a larger **membrane-modulus** positional set
-up. One possisioned in a kind of convex closure of a shape that contains all outter patches. It is the **convex hull**, a 
-geometric concept that emerges from the space architecture as a kind of *complexity of the landscape*. An invitation to move 
-and play the ball in this convex hull that currently separates inner and outter subspaces and, with a subsumed core modulus.
+aPLandscape that invites to responds with plays and tasks propers of an **organic aFootball style and strategy**. One in which
+a **core-modulus** is a positional set up in order to plays in the inner subspace and with a larger **membrane-modulus** 
+positional set up. One possisioned in a kind of convex closure of a shape that contains all outter patches. It is the **convex
+hull**, a geometric concept that emerges from the space architecture as a kind of *complexity of the landscape*. An invitation
+to move and play the ball in this convex hull that currently separates inner and outter subspaces and, with a subsumed core
+modulus.
 
 ![](/images/inaFootball_Space_Architecture.png "Figure 5.3. Space Architecture of the Interior Subspace in aPLandscape")
 
@@ -123,36 +123,29 @@ included in the interior of the aPLandscape.
 | density       | 0.35947712418300654                                           |
 
 
-{% include info.html text="
-d(u,v)-**ShortestPath** If there are multiple paths connecting two nodes u,v, then the _shortest path_
-is considered as the distance between the two nodes d(u,v)
+{% include info.html text="d(u,v)-_ShortestPath_ If there are multiple paths connecting two nodes u,v, then the _shortest
+path_ is considered as the distance between the two nodes d(u,v)"%}
+{% include alert.html text="apl(u,v) _average shortest path length_ The mean shortest path length - geodesic distance of the
+graph -"%}
+{% include info.html text="e(PL) _Eccentricity_ The maximum distance between a node to all other nodes is considered as the
+eccentricity of node"%}
+{% include alert.html text="r(PL) _Radius_ The minimum eccentricity from all the nodes"%}
+{% include info.html text="d(PL) _Diameter_ The maximum eccentricity from all the nodes or its longest shortest path length"%}
+{% include alert.html text="_Central Point_ If the eccentricity is equal to the radius of PL, then it is the central point of
+the graph"%}
+{% include info.html text="PL-_center_ The set of all central points of PL"%}
+{% include alert.html text="PL-_circunsference_ The number of edges in the longest cycle of PL"%}
+{% include info.html text="PL-_Density_ the number of possible or potential edges, over the number of actual edges or 
+connections"%}
 
-apl(u,v) **average shortest path length** The mean shortest path length - geodesic distance of the graph -
-
-e(PL) **Eccentricity** The maximum distance between a node to all other nodes is considered as the eccentricity of node
-
-r(PL) **Radius** The minimum eccentricity from all the nodes is considered as the **radius** of the graph
-
-d(PL) **Diameter** The maximum eccentricity from all the nodes or its longest shortest path length
-
-**Central Point** If the eccentricity is equal to the radius of PL, then it is the central point of the graph
-
-PL-**center** The set of all central points of PL is called the centre of the graph.
-
-PL-**circunsference** The number of edges in the longest cycle of PL is called as the circumference of PL.
-
-BL-**Density** the number of possible or potential edges, over the number of actual edges or connections" %}
-
-{% include alert.html text="
-BL-**triangular regular map PL** Number of triangles in which each patched zone participates in length-1 interactions 
-
-PL-**Clustering coefficient** of each patched zone PL-CC Cluster coefficient of a patch indicates how many of
-possible triangles beteen patches it realizes. CC reflects the adjacency between patches. The higher CC, the higher is its
-capability for synergestic play between team mates occupying those patches.
-
-PL-**Average cluster coefficient** of the aPLandscape 
-
-PL-**Generalized degree of each patch** " %}
+{% include alert.html text="PL-_triangular regular map PL_ Number of triangles in which each patched zone participates in 
+length-1 interactions"%}
+ 
+{% include info.html text="PL-_Clustering coefficient_ of each patched zone PL-CC Cluster coefficient of a patch indicates how
+many of possible triangles beteen patches it realizes. CC reflects the adjacency between patches. The higher CC, the higher is
+its capability for synergestic play between team mates occupying those patches"%}
+{% include alert.html text="PL-_Average cluster coefficient_ of the aPLandscape"%}
+{% include info.html text="PL-_Generalized degree of each patch"%}
 
 ### 5.4.1 Organization of Space in Meso Subspaces Sets
 Other organization of the interior subscape in aPLandscape identifies an adjacency mesh between patches in which emerge {own-
