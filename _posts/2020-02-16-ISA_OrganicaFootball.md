@@ -122,8 +122,10 @@ included in the interior of the aPLandscape.
 | periphery     | [0, 1, 3, 2, 4, 9, 10, 12, 11, 13]                                          |
 | density       | 0.35947712418300654                                           |
 
-### Table 5.4. Between Centrality Contributoion of each Patch
-| node |-----------| node |-----------| node |-----------|
+### Table 5.4. Betweenness Centrality Contribution of each Patch
+
+| node |  contrib  | node |  contrib  | node |  contrib  |
+|------|-----------|------|-----------|------|-----------|
 |   0  |  0.01425  |   1  |  0.05561  |   2  |  0.05561  |
 |   3  |  0.04527  |   4  |  0.04527  |   5  |  0.14973  |
 |   6  |  0.15762  |   7  |  0.15762  |   8  |  0.06900  |
