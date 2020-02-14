@@ -75,6 +75,7 @@ There are 1132 possible Gon's moves|passes of the ball from the centroid of each
 included in the interior of the aPLandscape.
 
 ### Table 5.1. Number of Paths of i-adjacency length in the interior of aPLandscape
+
 |length |#paths|
 |-------|------|
 |   0   |  18  |
@@ -85,9 +86,10 @@ included in the interior of the aPLandscape.
 |   5   |   6  |
 
 ### Table 5.2. i-adjacency length of all possible single source patch-to-patch interactions in the interior of aPLandscape
+
 |pz|                                                 (target_pz:length, )                                                 |
 |--|----------------------------------------------------------------------------------------------------------------------|
-| 0| ({0: 0, 1: 1, 2: 1, 5: 1, 3: 2, 6: 2, 4: 2, 7: 2, 8: 2, 13: 3, 16: 3, 12: 3, 15: 3, 17: 3, 11: 4, 14: 4, 10: 4, 9: 5}| 
+| 0|({0: 0, 1: 1, 2: 1, 5: 1, 3: 2, 6: 2, 4: 2, 7: 2, 8: 2, 13: 3, 16: 3, 12: 3, 15: 3, 17: 3, 11: 4, 14: 4, 10: 4, 9: 5} | 
 | 1|({1: 0, 0: 1, 3: 1, 5: 1, 6: 1, 2: 2, 13: 2, 7: 2, 8: 2, 16: 2, 4: 3, 11: 3, 15: 3, 17: 3, 14: 3, 12: 4, 9: 4, 10: 4} | 
 | 2|({2: 0, 0: 1, 4: 1, 5: 1, 7: 1, 1: 2, 12: 2, 6: 2, 8: 2, 15: 2, 3: 3, 10: 3, 16: 3, 17: 3, 14: 3, 13: 4, 9: 4, 11: 4} | 
 | 3|({3: 0, 1: 1, 6: 1, 13: 1, 0: 2, 5: 2, 8: 2, 16: 2, 11: 2, 2: 3, 7: 3, 17: 3, 14: 3, 9: 3, 4: 4, 15: 4, 10: 4, 12: 5} | 
@@ -118,30 +120,36 @@ included in the interior of the aPLandscape.
 | density       | 0.35947712418300654                                           |
 
 
-{% include info.html text="d(u,v)-ShortestPath: If there are multiple paths connecting two nodes u,v, then the _shortest path_
+{% include info.html text="
+d(u,v)-**ShortestPath** If there are multiple paths connecting two nodes u,v, then the _shortest path_
 is considered as the distance between the two nodes d(u,v)
-apl(u,v) average shortest path length: The mean shortest path length - geodesic distance of the graph -
-e(PL) Eccentricity: The maximum distance between a node to all other nodes is considered as the eccentricity of node.
-r(PL) Radius: The minimum eccentricity from all the nodes is considered as the **radius** of the graph
-d(PL) Diameter: The maximum eccentricity from all the nodes or its longest shortest path length
-Central Point: If the eccentricity is equal to the radius of PL, then it is the central point of the graph
-PL-center: The set of all central points of PL is called the centre of the graph.
-then ‘V’ is the central point of the Graph
-PL-circunsference: The number of edges in the longest cycle of PL is called as the circumference of PL.
-Notation − e(V)
-BL-Density: the number of possible or potential edges, over the number of actual edges or connections" %}
+
+apl(u,v) **average shortest path length** The mean shortest path length - geodesic distance of the graph -
+
+e(PL) **Eccentricity** The maximum distance between a node to all other nodes is considered as the eccentricity of node
+
+r(PL) **Radius** The minimum eccentricity from all the nodes is considered as the **radius** of the graph
+
+d(PL) **Diameter** The maximum eccentricity from all the nodes or its longest shortest path length
+
+**Central Point** If the eccentricity is equal to the radius of PL, then it is the central point of the graph
+
+PL-**center** The set of all central points of PL is called the centre of the graph.
+
+PL-**circunsference** The number of edges in the longest cycle of PL is called as the circumference of PL.
+
+BL-**Density** the number of possible or potential edges, over the number of actual edges or connections" %}
 
 {% include alert.html text="
-BL-triangular regular map BL-Number of triangles in which each patched zone participates in length-1 interactions 
-t = nx.triangles(BL)
+BL-**triangular regular map PL** Number of triangles in which each patched zone participates in length-1 interactions 
 
-BL-Clustering coefficient of each patched zone c=nx.clustering(BL) BL-CC Cluster coefficient of a patch indicates how many of
+PL-**Clustering coefficient** of each patched zone PL-CC Cluster coefficient of a patch indicates how many of
 possible triangles beteen patches it realizes. CC reflects the adjacency between patches. The higher CC, the higher is its
 capability for synergestic play between team mates occupying those patches.
 
-BL-Average cluster coefficient of the aPitch ac=nx.average_clustering(BL)
+PL-**Average cluster coefficient** of the aPLandscape 
 
-BL-Generalized degree of each patched zone nx.generalized_degree(BL)" %}
+PL-**Generalized degree of each patch** " %}
 
 ### 5.4.1 Organization of Space in Meso Subspaces Sets
 Other organization of the interior subscape in aPLandscape identifies an adjacency mesh between patches in which emerge {own-
