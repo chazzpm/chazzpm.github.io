@@ -51,9 +51,12 @@ Let us move from the bounded landscape model of the aFootball Universe with a pe
 idea of an empty patched landscape without perimeter and **just constitued for interior space**. This landscape called
 **aPLandscape** has eighteen patch-zones {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17} and fifty five bidirectional spatial-
 adjacency relationships between patches, included 18 spatial-adjecency self-relations of the patches themselves. 
-The aPLandscape is modeled as the network graph PL en Figure 5.1. 
+The aPLandscape is shown in Figure 5.1. and modeled as the network graph PL in Figure 5.2. 
 
-![](/images/interior_aPLandscape_neighborhood.png "Figure 5.1. aFootball Interior Space in aPLandscape Graph")
+![](/images/aPLandscape.png "Figure 5.1. Interior Space in aPLandscape")
+
+![](/images/interior_aPLandscape_neighborhood.png "Figure 5.2. aFootball Interior Space in aPLandscape Graph")
+
 
 ## 5.3. Affordance of Organic aFootball: Core-Convex_Hull Subspace Control
 The organization of space into meso subspaces sets reveals the existence of a terrain **hierarchy** of affordances in the
@@ -63,7 +66,7 @@ up. One possisioned in a kind of convex closure of a shape that contains all out
 geometric concept that emerges from the space architecture as a kind of *complexity of the landscape*. An invitation to move 
 and play the ball in this convex hull that currently separates inner and outter subspaces and, with a subsumed core modulus.
 
-![](/images/inaFootball_Space_Architecture.png "Figure 5.2. Space Architecture of the Interior Subspace in aPLandscape")
+![](/images/inaFootball_Space_Architecture.png "Figure 5.3. Space Architecture of the Interior Subspace in aPLandscape")
 
 ## 5.4. Network Properties of Space Architecture of aPLandscape
 
@@ -155,28 +158,28 @@ PL-**Generalized degree of each patch** " %}
 Other organization of the interior subscape in aPLandscape identifies an adjacency mesh between patches in which emerge {own-
 box, inner, outter, opponent box} meso subspaces whose structure is clearly identificable.
 
-![](/images/inaFootball_1Neighborhood.png "Figure 5.3. aFootball Adjacency Between Patches Create Meso Subspaces ")
+![](/images/inaFootball_1Neighborhood.png "Figure 5.4. aFootball Adjacency Between Patches Create Meso Subspaces ")
 
 Another organization of the interior subspace in aPLandscape identifies other adjacency mesh between patches of meso subspaces
 {Own, Them, Both} that divides the landscape in own field and their field and the complete field can be seen as a both teams
 subspace.
 
-![](/images/inaFootball_team_half.png "Figure 5.4. aFootball Adjacency Between Half-Landscape Patches Create Meso Subspaces")
+![](/images/inaFootball_team_half.png "Figure 5.5. aFootball Adjacency Between Half-Landscape Patches Create Meso Subspaces")
 
 Another adjacency shells meso subspaces {Lateral,Box,CounterLateral,Own,Them} relational organization is possible as shown in
-Figure 5.5. All these relational organizations of interior space but specially Figure 5.5. that shows the shortest path patch
+Figure 5.6. All these relational organizations of interior space but specially Figure 5.6. that shows the shortest path patch
 relationships constitute the **space architecture** of the aPLandscape. It is the logo for "aFICS street football".
 
-![](/images/inaFootball_KSpace_Architecture.png "Figure 5.5. aFootball Adjacency Between aPLandscape Meso Subspaces")
+![](/images/inaFootball_KSpace_Architecture.png "Figure 5.6. aFootball Adjacency Between aPLandscape Meso Subspaces")
 
 ### 5.4.2. Value of Control Patch Subspaces 
 Today, one main problem of the football analytical community ask how to value the distint zones of a football field taking
-into account its control importance for the expected goal possibility. Figure 5.6. shown an intrinsic score goal value of each
+into account its control importance for the expected goal possibility. Figure 5.7. shown an intrinsic score goal value of each
 patch in function of its degree or number of adjacent patches and distance to the center of the opponent goal.
 
-![](/images/inaFootballMeshStructureScoreGoalImportance.png "Figure 5.6. Flow aPLandscape as a Mesh Structure of Scored Goal 
+![](/images/inaFootballMeshStructureScoreGoalImportance.png "Figure 5.7. Flow aPLandscape as a Mesh Structure of Scored Goal 
 Importance Patched Zones")
 
 
-![](/images/DegreeHistogramPatchesinaPLandscape.png "Figure 5.7. Degree Histogram of Patches in aPLandscape")
+![](/images/DegreeHistogramPatchesinaPLandscape.png "Figure 5.8. Degree Histogram of Patches in aPLandscape")
 
