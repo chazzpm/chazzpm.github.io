@@ -1,4 +1,4 @@
-# 5. Interior Space Architecture in aPLandscape for Organic aFootball- IN CONSTRUCTION
+# 5. Interior Space Architecture in aPLandscape for Organic aFootball
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
   - " ...after all, on the pitch what we see are plays, not data" - Clement Lencled
