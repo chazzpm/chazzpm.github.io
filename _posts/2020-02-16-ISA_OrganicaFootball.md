@@ -72,10 +72,23 @@ modulus.
 
 The network properties of PL graph, the relational model of the aPLandscape's interior, shows 18 nodes representing patches
 and  324 interactions of i-adjacency length, where i in {0,1,2,3,4,5} range. The total length of those interactions is 714 and
-the average shortest path length 2.0454545454545454
+an average shortest path length 2.2037037
 
 There are 1132 possible Gon's moves|passes of the ball from the centroid of each patch to the centroid of other patch, stasis
-included in the interior of the aPLandscape.
+included in the interior of the aPLandscape. To use these abundant affordances as opportunities to play the football team must
+be centered in **possitional football** style.
+
+The PL graph has **small-world** network properties: a combination of high local clustering of connections between
+topologically neighboring patches (178-out-of-324) that is associated with _high topological efficiency of ball flow_ and
+short topological path lengths between any pair of patches (apl = 2.20). This is the reason to play in the aPLandscape a
+**possessional football**
+
+The _high efficiency of ball flow_ in the aPLandscape can be achieved by using the relatively medium connection density (~36%
+of maximum - diameter=5 - inter-patch connectivity) that means must intermix local short ball translation with often global
+patch connectivity offered by 4-length paths or once-in-a-while with 5-length passes. Therefore, this style of _trajectory
+creation_ must remember the ideas of progress to the opponent goal patch and the use of contralateral traslations in the end-
+up subphase that ends in the omega-point. One point to re-mark about the aPLandscape is the variable decreasing value of the
+parallel cords when approaching a goal thing.
 
 {% include info.html text="d(u,v)-_ShortestPath_ If there are multiple paths connecting two nodes u,v, then the _shortest
 path_ is considered as the distance between the two nodes d(u,v)"%}
@@ -131,15 +144,17 @@ connections"%}
 
 | property      |                                                               |
 |---------------|---------------------------------------------------------------|
+| av_path_length|  2.2037037                                                    |
 | radius        |  3                                                            | 
 | diameter      |  5                                                            | 
 | eccentricity  | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]|
 | center        | [8, 17]                                                       |
-| periphery     | [0, 1, 3, 2, 4, 9, 10, 12, 11, 13]                                          |
+| periphery     | [0, 3, 4, 9, 12, 13]                                          |
 | density       | 0.35947712418300654                                           |
 
-{% include alert.html text="PL-betweenness centrality accepts a bunch of nodes and computes the contribution of those nodes to
-the betweenness centrality of the whole network"%}
+{% include alert.html text="PL-betweenness centrality is a value metric of a node that is relative to the number of shortest
+paths passing through the node. A high betweenness centrality means that the node is passed in many shortest paths and is
+therefore important for the flow in the network."%}
 
 ### Table 5.4. Betweenness Centrality Contribution of each Patch
 
@@ -151,14 +166,6 @@ the betweenness centrality of the whole network"%}
 |   9  |  0.01425  |  10  |  0.05561  |  11  |  0.05561  |
 |  12  |  0.04527  |  13  |  0.04527  |  14  |  0.14973  |
 |  15  |  0.15762  |  16  |  0.15762  |  17  |  0.06900  |
-
-{% include alert.html text="PL-_triangular regular map PL_ Number of triangles in which each patched zone participates in 
-length-1 interactions"%}
-{% include info.html text="PL-_Clustering coefficient_ of each patched zone PL-CC Cluster coefficient of a patch indicates how
-many of possible triangles beteen patches it realizes. CC reflects the adjacency between patches. The higher CC, the higher is
-its capability for synergestic play between team mates occupying those patches"%}
-{% include alert.html text="PL-_Average cluster coefficient_ of the aPLandscape"%}
-{% include info.html text="PL-_Generalized degree of each patch"%}
 
 ### 5.4.1 Organization of Space in Meso Subspaces Sets
 Other organization of the interior subscape in aPLandscape identifies an adjacency mesh between patches in which emerge {own-
