@@ -156,38 +156,48 @@ connections"%}
 paths passing through the node. A high betweenness centrality means that the node is passed in many shortest paths and is
 therefore important for the flow in the network."%}
 
-### Table 5.4. Betweenness Centrality Contribution of each Patch
+A network with a **rich club** property is identified if the set of nodes in the centre core [8,17] or inner [5,6,7,14,15,16]
+subspaces have high degree and are densely intra-connected. The set of nodes in the core-centre have low betwenness centrality
+in the same order of peripheral nodes. But, the set of nodes in the inner-centre have high betweenness centrality contribution
+and degrees (8,7,7) greater than of the set of nodes in the periphery of PL, as shown in Figure 5.4. Therefore, we claim the 
+aPLandscape graph exhibit a **rich club property associated to its most important set of inner-centre patches**. This set of
+patches is the persistent objective of space-control during all the match duration. 
 
-| node |  contrib  | node |  contrib  | node |  contrib  |
-|------|-----------|------|-----------|------|-----------|
-|   0  |  0.01425  |   1  |  0.05561  |   2  |  0.05561  |
-|   3  |  0.04527  |   4  |  0.04527  |   5  |  0.14973  |
-|   6  |  0.15762  |   7  |  0.15762  |   8  |  0.06900  |
-|   9  |  0.01425  |  10  |  0.05561  |  11  |  0.05561  |
-|  12  |  0.04527  |  13  |  0.04527  |  14  |  0.14973  |
-|  15  |  0.15762  |  16  |  0.15762  |  17  |  0.06900  |
+### Table 5.4. Betweenness Centrality Contribution of each Patch
+ 
+| node |bc_contrib |degree| node |bc_contrib |degree| node |bc_contrib |degree|
+|------|-----------|------|-----------|------|------|------|-----------|------|
+|   0  |  0.01425  |  5   |   1  |  0.05561  |  6   |   2  |  0.05561  |   6  |
+|   3  |  0.04527  |  5   |   4  |  0.04527  |  5   |   5  |  0.14973  |   8  |
+|   6  |  0.15762  |  7   |   7  |  0.15762  |  7   |   8  |  0.06900  |   6  |
+|   9  |  0.01425  |  5   |  10  |  0.05561  |  6   |  11  |  0.05561  |   6  |
+|  12  |  0.04527  |  5   |  13  |  0.04527  |  5   |  14  |  0.14973  |   8  |
+|  15  |  0.15762  |  7   |  16  |  0.15762  |  7   |  17  |  0.06900  |   6  |
+
+![](/images/DegreeHistogramPatchesinaPLandscape.png "Figure 5.4. Degree Histogram of Patches in aPLandscape")
 
 ### 5.4.1 Organization of Space in Meso Subspaces Sets
 Other organization of the interior subscape in aPLandscape identifies an adjacency mesh between patches in which emerge {own-
 box, inner, outter, opponent box} meso subspaces whose structure is clearly identificable.
 
-![](/images/inaFootball_1Neighborhood.png "Figure 5.4. aFootball Adjacency Between Patches Create Meso Subspaces ")
+![](/images/inaFootball_1Neighborhood.png "Figure 5.5. aFootball Adjacency Between Patches Create Meso Subspaces ")
 
 Another organization of the interior subspace in aPLandscape identifies other adjacency mesh between patches of meso subspaces
 {Own, Them, Both} that divides the landscape in own field and their field and the complete field can be seen as a both teams
 subspace.
 
-![](/images/inaFootball_team_half.png "Figure 5.5. aFootball Adjacency Between Half-Landscape Patches Create Meso Subspaces")
+![](/images/inaFootball_team_half.png "Figure 5.6. aFootball Adjacency Between Half-Landscape Patches Create Meso Subspaces")
 
 
 ### 5.4.2. Value of Control Patch Subspaces 
 Today, one main problem of the football analytical community ask how to value the distint zones of a football field taking
-into account its control importance for the expected goal possibility. Figure 5.6. shown an intrinsic score goal value of each
+into account its control importance for the expected goal possibility. Figure 5.7. shown an intrinsic score goal value of each
 patch in function of its degree or number of adjacent patches and distance to the center of the opponent goal.
 
-![](/images/inaFootballMeshStructureScoreGoalImportance.png "Figure 5.6. Flow aPLandscape as a Mesh Structure of Scored Goal 
+![](/images/inaFootballMeshStructureScoreGoalImportance.png "Figure 5.7. Flow in aPLandscape as a Mesh Structure of Scored
+Goal 
 Importance Patched Zones")
 
 
-![](/images/DegreeHistogramPatchesinaPLandscape.png "Figure 5.7. Degree Histogram of Patches in aPLandscape")
+
 
