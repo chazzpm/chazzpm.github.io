@@ -33,8 +33,8 @@ always present, due to
 All of them must be used and exploited by Gon as opportunities for his agency in the PB_Landscape and his actions will be
 observed by the head coach HC as a _metric_ of his basic **aFICS literacy**.
 
-In this perspective, Gon involves understanding of his whole body - embodied - with affordances offered by the PB_landscape
-- embedded - will determine his agency or task performance in the ground play. aFICS literacy is the _metric_ used during his
+In this perspective, Gon involves understanding of his whole body - embodied - with affordances offered by the - embedded -
+PB_landscape will determine his agency or task performance in the ground play. aFICS literacy is the _metric_ used during his
 aFICS **synergon development process** until he left Academia Emeritense FC. Literacy must be understood by our talents as
 '*being educated*' in our aFICS vision in the language game in the community.
 
