@@ -1,7 +1,7 @@
 # 5. Interior Space Architecture in aPLandscape for Organic aFootball
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
 
-  - " ...after all, on the pitch what we see are plays, not data" - Clement Lencled
+  - " ...after all, on the pitch what we see are plays, not data" - Clement Lengled
   - " There is no exterior, just interior in the closed aFICS Football Universe and it is full of affordances" - aFICS Vision
   - " The main affordance of interior space architecture invites to play in an **organic aFootball style**"  - aFICS Vision
 
@@ -149,7 +149,7 @@ connections"%}
 | diameter      |  5                                                            | 
 | eccentricity  | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]|
 | center        | [8, 17]                                                       |
-| periphery     | [0, 3, 4, 9, 12, 13]                                          |
+| periphery     | [0, 3, 4, 9, 12, 13] [^1]                                         |
 | density       | 0.35947712418300654                                           |
 
 {% include alert.html text="PL-betweenness centrality is a value metric of a node that is relative to the number of shortest
@@ -189,15 +189,30 @@ subspace.
 ![](/images/inaFootball_team_half.png "Figure 5.6. aFootball Adjacency Between Half-Landscape Patches Create Meso Subspaces")
 
 
-### 5.4.2. Value of Control Patch Subspaces 
+### 5.4.2. Value of Patch Subspaces Control
 Today, one main problem of the football analytical community ask how to value the distint zones of a football field taking
 into account its control importance for the expected goal possibility. Figure 5.7. shown an intrinsic score goal value of each
 patch in function of its degree or number of adjacent patches and distance to the center of the opponent goal.
 
 ![](/images/inaFootballMeshStructureScoreGoalImportance.png "Figure 5.7. Flow in aPLandscape as a Mesh Structure of Scored
-Goal 
-Importance Patched Zones")
+Goal Importance Patched Zones")
 
+This information capture the importance of patches as team and players affordances for global and local 'aPLandscape control'.
+[BarcaInnoHub] estimates that current tracking systems operate at a rate of 25Hz and the event's match dynamics generate an
+average of 2700 frames by half times. With our importance weight of the inner patches {5,6,7,14,15,16,8,17} subset patches'
+centroids are reference points to explore as potential affordances of open space to be controlled for **core synergons**  and 
+the 'convex hull' frontier between inner an outter subsets structures for **membrane synergons**. The collective and
+individual effort of team and player has to be _keep on-ball control, progress, inside the opponent half aPLandscape, to the
+opponent goal and try to end-up the trajectory structure construction as an effective Levy flight with a final ball action
+that scores a goal_, and viceversa. In off-ball control, the motor task with respect to the value of patches subspaces is the
+inverse: Try to _regain ball control, stop the progress of the opponents in our own half aPLandscape, the farest of our goal
+the better, and break or at least abort the risk of a conceded goal_.
 
+So, **ball-control** and **patch subspaces-control** are the key factors of our possitional relations as a synergestic team
+during the match in order to evaluate our **motor and strategic task efficiency**. At the end, this efficiency has to 
+correlate with the real one **goal difference efficiency**. **Efficiency** has to be the ratio between the number of own Levy 
+flight built and intervals of simultaneous ball-control and opponent-subspace-control. So, the ratio between the number of 
+opponent Levy flights built and the their interval of simultaneous ball-control and own-subspace-control.
 
-
+[^1]: Note that for some reason, Networkx's build in function _periphery_ did not identify the patches subset {1,2,10,11} as
+members of the 'periphery' set. 
