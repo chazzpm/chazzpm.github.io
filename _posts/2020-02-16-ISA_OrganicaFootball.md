@@ -214,5 +214,4 @@ correlate with the real one **goal difference efficiency**. **Efficiency** has t
 flight built and intervals of simultaneous ball-control and opponent-subspace-control. So, the ratio between the number of 
 opponent Levy flights built and the their interval of simultaneous ball-control and own-subspace-control.
 
-[^1]: Note that for some reason, Networkx's build in function _periphery_ did not identify the patches subset {1,2,10,11} as
-members of the 'periphery' set. 
+[^1]: Networkx's build in function _periphery_ did not identify patches subset {1,2,10,11} as members of the 'periphery' set. 
