@@ -149,7 +149,7 @@ connections"%}
 | diameter      |  5                                                            | 
 | eccentricity  | [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]|
 | center        | [8, 17]                                                       |
-| periphery     | [0, 3, 4, 9, 12, 13] [^1]                                         |
+| periphery     | [0, 3, 4, 9, 12, 13]                                          |
 | density       | 0.35947712418300654                                           |
 
 {% include alert.html text="PL-betweenness centrality is a value metric of a node that is relative to the number of shortest
@@ -213,5 +213,3 @@ during the match in order to evaluate our **motor and strategic task efficiency*
 correlate with the real one **goal difference efficiency**. **Efficiency** has to be the ratio between the number of own Levy 
 flight built and intervals of simultaneous ball-control and opponent-subspace-control. So, the ratio between the number of 
 opponent Levy flights built and the their interval of simultaneous ball-control and own-subspace-control.
-
-[^1]: Networkx's build in function _periphery_ did not identify patches subset {1,2,10,11} as members of the 'periphery' set. 
