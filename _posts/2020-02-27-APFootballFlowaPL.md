@@ -4,7 +4,8 @@ Charles R Paez Monzon - 2020 - aNatureTechnologies
 
 " A Space of Spaces contains all possible football flow encoded as affordances in the aFootball Universe" - aFICS Vision
 
-TOC {:toc}
+6. TOC
+{:toc}
 
 ## 6.1. Affordances of the Space of Spaces to Build g-motions in a Levy Flight
 
@@ -38,7 +39,7 @@ interactions in the range of i-length interactions determined by the diameter 5 
 ![](/images/inAllpossibleaFootballFlowin3lanesaPLandscape.png "Figure 6.1. APIN Graph of All Possible Ball Location
 Transformation on the aPLandscape")
 
-### 6.2.1. Affordances of 0-length ball possession interactions
+### 6.2.1. Affordances of 0-length ball-location interactions
 Graph:       ff_pl0
 Number of nodes: 18
 Number of edges: 18
@@ -56,7 +57,7 @@ node degree in pl0 nodes
 [(0, 2), (1, 2), (2, 2), (3, 2), (4, 2), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2)]
 Triadic closure:  0
 
-#### Table 6.1. Allposs 0-length interaction codes
+#### Table 6.1. Allposs 0-length ball-action codes
 |sp|fp| 0_nb_ip_fp|
 |--|--|-----------|
 | 0| 0|  0_0_0000 |
@@ -81,7 +82,7 @@ Triadic closure:  0
 ![](/images/inaPLandscape3lanes_pl0_interconnectivity.png "Figure 6.2. 0-length ball interactions in the APIN Graph that
 models aPLandscape")
 
-### 6.2.2. Affordances of 1-length ball possession interactions
+### 6.2.2. Affordances of 1-length ball-location interactions
 Name: 
 Type: Graph
 Number of nodes: 18
@@ -103,7 +104,7 @@ All possible 1 length passes in an aPLandscape
 number of nodes: 18
 number of edges: 37
 
-All possible 1-length interaction codes: 1_nb_ip_fp
+All possible 1-length ball-action codes: 1_nb_ip_fp
 |sp|fp| 1_nb_ip_fp|
 |--|--|-----------|
 | 0| 1| '1_3_0001'|
@@ -147,25 +148,25 @@ All possible 1-length interaction codes: 1_nb_ip_fp
 ![](/images/inaPLandscape3lanes_pl1_interconnectivity.png "Figure 6.3. 1-length ball interactions in the APIN Graph that 
 models aPLandscape")
 
-### 6.2.3. Affordances of 2-length ball possession interactions
+### 6.2.3. Affordances of 2-length ball-location interactions
 
 
 ![](/images/inaPLandscape3lanes_pl2_interconnectivity.png "Figure 6.4. 2-length ball interactions in the APIN Graph that
 models aPLandscape")
 
-### 6.2.4. Affordances of 3-length ball possession interactions
+### 6.2.4. Affordances of 3-length ball-location interactions
 
 
 ![](/images/inaPLandscape3lanes_pl3_interconnectivity.png "Figure 6.5. 3-length ball interactions in the APIN Graph that
 models aPLandscape")
 
-### 6.2.5. Affordances of 4-length ball possession interactions
+### 6.2.5. Affordances of 4-length ball-location interactions
 
 
 ![](/images/inaPLandscape3lanes_pl4_interconnectivity.png "Figure 6.6. 4-length ball interactions in the APIN Graph that
 models aPLandscape")
 
-### 6.2.6. Affordances of 5-length ball possession interactions
+### 6.2.6. Affordances of 5-length ball-location interactions
 
 
 ![](/images/inaPLandscape3lanes_pl5_interconnectivity.png "Figure 6.7. 5-length ball interactions in the APIN Graph that
