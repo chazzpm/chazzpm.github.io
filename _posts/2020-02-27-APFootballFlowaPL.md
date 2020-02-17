@@ -35,7 +35,8 @@ the fastest and the easiest on the aPLandscape.
 The possible **football flow ff** graph will be decomposed in an atlas of football flow subgraphs of universal length-i 
 interactions in the range of i-length interactions determined by the diameter 5 of the PL graph.
 
-![](/images/*.png "Figure 6.1. APIN Graph of All Possible Ball Location Transformation on the aPLandscape")
+![](/images/inAllpossibleaFootballFlowin3lanesaPLandscape.png "Figure 6.1. APIN Graph of All Possible Ball Location
+Transformation on the aPLandscape")
 
 ### 6.2.1. Affordances of 0-length ball possession interactions
 Graph:       ff_pl0
@@ -77,7 +78,8 @@ Triadic closure:  0
 |16|16|  0_16_1616|
 |17|17|  0_17_1717|
 
-![](/images/inaPLandscape3lanes_pl0_interconnectivity.png "Figure 6.2. 0-length ball interactions in the APIN Graph that models aPLandscape")
+![](/images/inaPLandscape3lanes_pl0_interconnectivity.png "Figure 6.2. 0-length ball interactions in the APIN Graph that
+models aPLandscape")
 
 ### 6.2.2. Affordances of 1-length ball possession interactions
 Name: 
@@ -142,24 +144,29 @@ All possible 1-length interaction codes: 1_nb_ip_fp
 |15|17|'1_72_1517'|
 |16|17|'1_73_1617'|
 
-![](/images/inaPLandscape3lanes_pl1_interconnectivity.png "Figure 6.3. 1-length ball interactions in the APIN Graph that models aPLandscape")
+![](/images/inaPLandscape3lanes_pl1_interconnectivity.png "Figure 6.3. 1-length ball interactions in the APIN Graph that 
+models aPLandscape")
 
 ### 6.2.3. Affordances of 2-length ball possession interactions
 
 
-![](/images/inaPLandscape3lanes_pl2_interconnectivity.png "Figure 6.4. 2-length ball interactions in the APIN Graph that models aPLandscape")
+![](/images/inaPLandscape3lanes_pl2_interconnectivity.png "Figure 6.4. 2-length ball interactions in the APIN Graph that
+models aPLandscape")
 
 ### 6.2.4. Affordances of 3-length ball possession interactions
 
 
-![](/images/inaPLandscape3lanes_pl3_interconnectivity.png "Figure 6.5. 3-length ball interactions in the APIN Graph that models aPLandscape")
+![](/images/inaPLandscape3lanes_pl3_interconnectivity.png "Figure 6.5. 3-length ball interactions in the APIN Graph that
+models aPLandscape")
 
 ### 6.2.5. Affordances of 4-length ball possession interactions
 
 
-![](/images/inaPLandscape3lanes_pl4_interconnectivity.png "Figure 6.6. 4-length ball interactions in the APIN Graph that models aPLandscape")
+![](/images/inaPLandscape3lanes_pl4_interconnectivity.png "Figure 6.6. 4-length ball interactions in the APIN Graph that
+models aPLandscape")
 
 ### 6.2.6. Affordances of 5-length ball possession interactions
 
 
-![](/images/inaPLandscape3lanes_pl5_interconnectivity.png "Figure 6.7. 5-length ball interactions in the APIN Graph that models aPLandscape")
+![](/images/inaPLandscape3lanes_pl5_interconnectivity.png "Figure 6.7. 5-length ball interactions in the APIN Graph that
+models aPLandscape")
