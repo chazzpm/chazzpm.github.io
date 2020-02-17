@@ -57,7 +57,7 @@ node degree in pl0 nodes
 [(0, 2), (1, 2), (2, 2), (3, 2), (4, 2), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2)]
 Triadic closure:  0
 
-#### Table 6.1. Allposs 0-length ball-action codes
+#### Table 6.1. All possible 0-length ball-action codes
 |sp|fp| 0_nb_ip_fp|
 |--|--|-----------|
 | 0| 0|  0_0_0000 |
@@ -104,7 +104,7 @@ All possible 1 length passes in an aPLandscape
 number of nodes: 18
 number of edges: 37
 
-All possible 1-length ball-action codes: 1_nb_ip_fp
+#### Table 6.2. All possible 1-length ball-action codes
 |sp|fp| 1_nb_ip_fp|
 |--|--|-----------|
 | 0| 1| '1_3_0001'|
@@ -149,25 +149,95 @@ All possible 1-length ball-action codes: 1_nb_ip_fp
 models aPLandscape")
 
 ### 6.2.3. Affordances of 2-length ball-location interactions
+Type: Graph
+Number of nodes: 18
+Number of edges: 52
+Average degree:   5.7778
+pl2 density:  0.33986928104575165
+True
+pl2_center:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+pl2_radius:  3
+pl2 largest_component diameter:  3
+pl2 largest_component eccentricity: {0: 3, 1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7: 3, 8: 3, 9: 3, 10: 3, 11: 3, 12: 3, 13: 3, 14: 3, 15: 3, 16: 3, 17: 3}
+pl2 largest_component periphery: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+Triadic closure:  0.27692307692307694
 
+#### Table 6.3. All possible 2-length ball-action codes
+|sp| fp| 2_nb_ip_fp |
+|--|---|------------|
+| 0|  3|'2_15_0003' |
+| 0|  6|'2_30_0006' |
+| 0|  4|'2_20_0004' |
+| 0|  7|'2_37_0007' |
+| 0|  8|'2_44_0008' |
+| 1|  2|'2_10_0102' |
+| 1| 13|'2_72_0113' |
+| 1|  7|'2_39_0107' |
+| 1|  8|'2_45_0108' |
+| 1| 16|'2_89_0116' |
+| 2| 12|'2_67_0212' |
+| 2|  6|'2_32_0206' |
+| 2|  8|'2_46_0208' |
+| 2| 15|'2_82_0215' |
+| 3|  5|'2_25_0305' |
+| 3|  8|'2_47_0308' |
+| 3| 16|'2_90_0316' |
+| 3| 11|'2_63_0311' |
+| 4|  5|'2_26_0405' |
+| 4|  8|'2_49_0408' |
+| 4| 15|'2_83_0415' |
+| 4| 10|'2_58_0410' |
+| 5| 16|'2_91_0516' |
+| 5| 15|'2_84_0515' |
+| 5| 17|'2_96_0517' |
+| 6| 13|'2_73_0613' |
+| 6|  7|'2_40_0607' |
+| 6| 17| '2_97_0617'|
+| 6| 11|'2_66_0611' |
+| 6| 14|'2_80_0614' |
+| 7| 12|'2_68_0712' |
+| 7| 17|'2_98_0717' |
+| 7| 10|'2_61_0710' |
+| 7| 14|'2_79_0714' |
+| 8| 16|'2_92_0816' |
+| 8| 15|'2_85_0815' |
+| 8| 14|'2_81_0814' |
+| 9| 12|'2_69_0912' |
+| 9| 15|'2_86_0915' |
+| 9| 13|'2_74_0913' |
+| 9| 16|'2_93_0916' |
+| 9| 17|'2_99_0917' |
+|10| 11|'2_62_1011' |
+|10| 16|'2_94_1016' |
+|10| 17|'2_100_1017'|
+|11| 15|'2_87_1115' |
+|11| 17|'2_101_1117'|
+|12| 14|'2_77_1214' |
+|12| 17|'2_102_1217'|
+|13| 14|'2_78_1314' |
+|13| 17|'2_103_1317'|
+|15| 16|'2_95_1516' |
 
 ![](/images/inaPLandscape3lanes_pl2_interconnectivity.png "Figure 6.4. 2-length ball interactions in the APIN Graph that
 models aPLandscape")
 
 ### 6.2.4. Affordances of 3-length ball-location interactions
 
+#### Table 6.4. All possible 3-length ball-action codes
 
 ![](/images/inaPLandscape3lanes_pl3_interconnectivity.png "Figure 6.5. 3-length ball interactions in the APIN Graph that
 models aPLandscape")
 
 ### 6.2.5. Affordances of 4-length ball-location interactions
 
+#### Table 6.5. All possible 4-length ball-action codes
 
 ![](/images/inaPLandscape3lanes_pl4_interconnectivity.png "Figure 6.6. 4-length ball interactions in the APIN Graph that
 models aPLandscape")
 
 ### 6.2.6. Affordances of 5-length ball-location interactions
 
+#### Table 6.6. All possible 5-length ball-action codes
 
 ![](/images/inaPLandscape3lanes_pl5_interconnectivity.png "Figure 6.7. 5-length ball interactions in the APIN Graph that
 models aPLandscape")
