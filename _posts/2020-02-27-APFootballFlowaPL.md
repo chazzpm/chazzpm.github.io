@@ -40,16 +40,14 @@ interactions in the range of i-length interactions determined by the diameter 5 
 Transformation on the aPLandscape")
 
 ### 6.2.1. Affordances of 0-length ball-location interactions
-#### Table 6.1.a. Network Properties of 0-length ff_pl0 Subgraph
-|   ff_pl0 Unconnected Subgraph             |      pli - largest component                 |
+#### Table 6.1.a. Network Properties of 0-length ff_pl0 Subgraph and The Largest Component
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter|   periphery   | 
 |-----|--------|-------|----------|---------|--------------|--------|--------|-------------|
 | pl0 |   18   |   18  |  2.0000  | 0.241830|   infinite   |infinite|infinite|  infinite   |
 
-
 node degree in pl0 nodes
 [(0, 2), (1, 2), (2, 2), (3, 2), (4, 2), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2)]
-Triadic closure:  0
+
 
 #### Table 6.1.b All possible 0-length ball-action codes
 |sp|fp| 0_nb_ip_fp|sp|fp| 0_nb_ip_fp|sp|fp| 0_nb_ip_fp|
@@ -65,8 +63,7 @@ Triadic closure:  0
 models aPLandscape")
 
 ### 6.2.2. Affordances of 1-length ball-location interactions
-#### Table 6.2.a. Network Properties of 1-length ff_pl1 Subgraph
-|      ff_pl1 Connected Subgraph            |      pli - largest component                 |
+#### Table 6.2.a. Network Properties of 1-length ff_pl1 Subgraph and The Largest Component
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter|   periphery   | 
 |-----|--------|-------|----------|---------|--------------|------|--------|---------------|
 | pl1 |   18   |   37  |  4.1111  | 0.241830|    [8,17]    |   3  |   5    |[0,3,4,9,12,13]|
@@ -76,8 +73,6 @@ pl1 largest_component:
     betweenness_centrality: {0: 0.014254385964912283, 1: 0.05561301873221378, 2: 0.05561301873221378, 3: 0.04526984238671544, 4: 0.04526984238671544, 5: 0.1497345748506739, 6: 0.1576209072145605, 7: 0.1576209072145605, 8: 0.0690035025174344, 9: 0.014254385964912282, 10: 0.05561301873221378, 11: 0.055613018732213776, 12: 0.045269842386715456, 13: 0.045269842386715456, 14: 0.14973457485067396, 15: 0.15762090721456043, 16: 0.15762090721456046, 17: 0.0690035025174344}
     closeness_centrality:  {0: 0.37777777777777777, 1: 0.4146341463414634, 2: 0.4146341463414634, 3: 0.37777777777777777, 4: 0.37777777777777777, 5: 0.4857142857142857, 6: 0.4857142857142857, 7: 0.4857142857142857, 8: 0.4857142857142857, 9: 0.37777777777777777, 10: 0.4146341463414634, 11: 0.4146341463414634, 12: 0.37777777777777777, 13: 0.37777777777777777, 14: 0.4857142857142857, 15: 0.4857142857142857, 16: 0.4857142857142857, 17: 0.4857142857142857}
     eccentricity: {0: 5, 1: 4, 2: 4, 3: 5, 4: 5, 5: 4, 6: 4, 7: 4, 8: 3, 9: 5, 10: 4, 11: 4, 12: 5, 13: 5, 14: 4, 15: 4, 16: 4, 17: 3}
-
-Triadic closure:  0.3870967741935484
 
 #### Table 6.2.b. All possible 1-length ball-action codes
 |sp|fp| 1_nb_ip_fp|sp|fp| 1_nb_ip_fp|sp|fp| 1_nb_ip_fp|
@@ -96,22 +91,16 @@ Triadic closure:  0.3870967741935484
 |14|15|'1_63_1415'|14|16|'1_68_1416'|14|17|'1_71_1417'|
 |15|17|'1_72_1517'|16|17|'1_73_1617'|  |  |           |
 
-
 ![](/images/inaPLandscape3lanes_pl1_interconnectivity.png "Figure 6.3. 1-length ball interactions in the APIN Graph that 
 models aPLandscape")
 
 ### 6.2.3. Affordances of 2-length ball-location interactions
-#### Table 6.3.a. Network Properties of 2-length ff_pl2 Subgraph
-|               Subgraph                    |      pli - largest component                |
+#### Table 6.3.a. Network Properties of 2-length ff_pl2 Subgraph and The Largest Component
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
 | pl2 |   18   |   52  |  5.7778  | 0.339869|  all nodes   |   3  |   3    |  all nodes   |
 
-True
-
 pl2 largest_component eccentricity: {0: 3, 1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7: 3, 8: 3, 9: 3, 10: 3, 11: 3, 12: 3, 13: 3, 14: 3, 15: 3, 16: 3, 17: 3}
-
-Triadic closure:  0.27692307692307694
 
 #### Table 6.3.b. All possible 2-length ball-action codes
 |sp|fp|2_nb_ip_fp|sp|fp|2_nb_ip_fp|sp|fp| 2_nb_ip_fp|
@@ -139,17 +128,14 @@ Triadic closure:  0.27692307692307694
 models aPLandscape")
 
 ### 6.2.4. Affordances of 3-length ball-location interactions
-#### Table 6.4.a. Network Properties of 3-length ff_pl3 Subgraph
-|               Subgraph                    |      pli - largest component                |
+#### Table 6.4.a. Network Properties of 3-length ff_pl3 Subgraph and The Largest Component
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
 | pl3 |   18   |   43  |  4.7778  | 0.281045|   all nodes  |   3  |    3   |  all nodes   |
 
-True
 pl3 largest component:
     eccentricity:  {0: 3, 1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7: 3, 8: 3, 9: 3, 10: 3, 11: 3, 12: 3, 13: 3, 14: 3, 15: 3, 16: 3, 17: 3}
-    periphery:  [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
-Triadic closure:  0.21951219512195122
+
 #### Table 6.4.b. All possible 3-length ball-action codes
 
 |sp|fp| 3_nb_ip_fp|sp|fp| 3_nb_ip_fp|sp|fp| 3_nb_ip_fp|
@@ -161,7 +147,7 @@ Triadic closure:  0.21951219512195122
 | 2|16| 3_78_0216 | 2|17| 3_83_0217 | 2|14| 3_70_0214 |
 | 3| 7| 3_34_0307 | 3|17| 3_84_0317 | 3|14| 3_69_0314 |
 | 3| 9| 3_45_0309 | 4| 6| 3_30_0406 | 4|17| 3_85_0417 |
-| 4|14| 3_68_0414 | 4| 9, 3_43_0409 | 5|13| 3_64_0513 |
+| 4|14| 3_68_0414 | 4| 9| 3_43_0409 | 5|13| 3_64_0513 |
 | 5|12| 3_59_0512 | 5|11| 3_57_0511 | 5|14| 3_71_0514 |
 | 5|10| 3_52_0510 | 6|15| 3_75_0615 | 6| 9| 3_46_0609 |
 | 6|10| 3_50_0610 | 7|16| 3_79_0716 | 7| 9| 3_44_0709 |
@@ -174,15 +160,13 @@ Triadic closure:  0.21951219512195122
 models aPLandscape")
 
 ### 6.2.5. Affordances of 4-length ball-location interactions
-#### Table 6.5.a. Network Properties of 4-length ff_pl4 Subgraph
-|               Subgraph                    |      pli - largest component            |
+#### Table 6.5.a. Network Properties of 4-length ff_pl4 Subgraph and The Largest Component
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
 | pl4 |   18   |   18  |  2.0000  | 0.117647|[0,1,2,9,10,11]   4  |    6   |[6,7,15,16]
 
 pl4 largest_component:
     eccentricity: {0: 4, 1: 4, 2: 4, 3: 5, 4: 5, 5: 5, 6: 6, 7: 6, 9: 4, 10: 4, 11: 4, 12: 5, 13: 5, 14: 5, 15: 6, 16: 6}
-Triadic closure:  0
 
 #### Table 6.5.b. All possible 4-length ball-action codes
 
@@ -199,20 +183,34 @@ Triadic closure:  0
 models aPLandscape")
 
 ### 6.2.6. Affordances of 5-length ball-location interactions
-#### Table 6.6.a. Network Properties of 5-length ff_pl5 Subgraph
-|               Subgraph                    |      pli - largest component            |
+#### Table 6.6.a. Network Properties of 5-length ff_pl5 Subgraph and The Largest Component
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
 | pl5 |   18   |   3   |  0.3333  | 0.019607|              |      |   1    |          |
 
-
-Triadic closure:  0
 #### Table 6.6.b. All possible 5-length ball-action codes
-
 |sp|fp| 1_nb_ip_fp|sp|fp| 5_nb_ip_fp|sp|fp| 5_nb_ip_fp|
 |--|--|-----------|--|--|-----------|--|--|-----------|
 | 0| 9|  5_3_0009 | 3|12|  5_4_0312 | 4|13|  5_5_0413 |
 
-
 ![](/images/inaPLandscape3lanes_pl5_interconnectivity.png "Figure 6.7. 5-length ball interactions in the APIN Graph that
 models aPLandscape")
+
+## 6.3. Global Affordances of the APIN Graph of All Possible Football Flow on the aPLandscape
+#### Table 6.7.a. Network Properties of i-length ff Graph and The Largest Component
+| pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
+|-----|--------|-------|----------|---------|--------------|------|--------|----------|
+|  ff |   18   |  171  | 19.0000  |1.117647 |  all nodes   |   1  |   1    | all nodes|
+
+The most relevant network property of the entire connected APIN graph is **its uniformity**. Any patch in the aPLandscape
+exhibits:
+- **the same eigenvalue centrality 0.235702**
+- **the same betweenness centrality 0.0**
+- **the same closeness centrality 1.0**
+- **the same eccentricty 1** and,
+
+The APIN graph exhibits **a triadic clousure of 1.0**
+#### Table 6.7.b. Triadic Closure Network Property APIN and its i-length pli SubGraphs 
+| TC-pl0 | TC-pl1 | TC-pl2 | TC-pl3 | TC-pl4 | TC-pl5  | TC-APIN | 
+|--------|--------|--------|--------|--------|---------|---------|
+|    0   |0.387096|0.276923|0.219512|   0.0  |   0.0   |   1.0   |
