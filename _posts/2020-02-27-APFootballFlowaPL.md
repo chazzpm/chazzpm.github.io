@@ -1,4 +1,4 @@
-# 6. The Space of Spaces Affordances or All Possible aFootball Possible in aPLandscape IN CONSTRUCTION
+# 6. The Space of Spaces Affordances or All Possible aFootball Possible on aPLandscape IN CONSTRUCTION
 
 Charles R Paez Monzon - 2020 - aNatureTechnologies
 
@@ -7,7 +7,7 @@ Charles R Paez Monzon - 2020 - aNatureTechnologies
 6. TOC
 {:toc}
 
-## 6.1. Affordances of the Space of Spaces to Build g-motions in a Levy Flight
+## 6.1. Affordances of the Space of Spaces to Build $\g$-motions in a Levy Flight
 
 We choose human perception and cognition scale to model complexity in the aFootball Universe and this determine the level of 
 description of g-motion of ball-actions. **Ball-actions** are seen as _transformations on the ball location_ en reference to 
@@ -17,7 +17,7 @@ sequences on the aPLandscape. Therefore, "reduce disorder" means accept to handl
 
 One first assumption about is realize that
 - "any arbitrary ball location is associated with 1-out-of-18 patches in the aPLandscape"
-- "any ball-action is described as a ball location trandformation from the point (xi,yi) to a point (xj,yj). Therefore, it
+- "any ball-action is described as a ball location transformation from the point (xi,yi) to a point (xj,yj). Therefore, it
 can be modeled as a patch-i to patch-j location transformation. Still we are dealing with a huge number of all possible
 location transformations.
 - "Any point (xi,yi) in patch-i can be modeled as been the centroid (xci,yci) of patch-i and any point (xj,yj) con be assumed
@@ -39,9 +39,18 @@ interactions in the range of i-length interactions determined by the diameter 5 
 ![](/images/inAllpossibleaFootballFlowin3lanesaPLandscape.png "Figure 6.1. APIN Graph of All Possible Ball Location
 Transformation on the aPLandscape")
 
+{% include info.html text="Centrality metric is computed to assign a score to each node. Let PL = (p, r) be a graph with a set
+of patches P and a set of relations R. **Degree centrality** is defined as the number of edges incident upon a node.
+**Closeness centrality** is the inverse of farness, i.e. the sum of the shortest distances between a node and all the other
+nodes. **Betweenness centrality** quantifies the numberof times a node acts as a bridge along the shortest path between two
+other nodes. **Eigenvector centrality** measures the centrality of a node as a function of the centralities of its
+neighbors."%}
+
 ### 6.2.1. Affordances of 0-length ball-location interactions
-#### Table 6.1.a. Network Properties of 0-length ff_pl0 Subgraph and The Largest Component
-| pli | #nodes |#edges | avdegree | density |    center    |radius|diameter|   periphery   | 
+
+Subgraph pl0 is unconnected with 18 nodes isolated. 
+#### Table 6.1.a. Network Properties of 0-length ff_pl0 Subgraph
+| pli | #nodes |#edges | avdegree | density |    center    | radius |diameter|  periphery  | 
 |-----|--------|-------|----------|---------|--------------|--------|--------|-------------|
 | pl0 |   18   |   18  |  2.0000  | 0.241830|   infinite   |infinite|infinite|  infinite   |
 
@@ -63,7 +72,8 @@ node degree in pl0 nodes
 models aPLandscape")
 
 ### 6.2.2. Affordances of 1-length ball-location interactions
-#### Table 6.2.a. Network Properties of 1-length ff_pl1 Subgraph and The Largest Component
+Subgraph pl1 is connected with none isolated nodes. 
+#### Table 6.2.a. Network Properties of 1-length ff_pl1 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter|   periphery   | 
 |-----|--------|-------|----------|---------|--------------|------|--------|---------------|
 | pl1 |   18   |   37  |  4.1111  | 0.241830|    [8,17]    |   3  |   5    |[0,3,4,9,12,13]|
@@ -95,7 +105,7 @@ pl1 largest_component:
 models aPLandscape")
 
 ### 6.2.3. Affordances of 2-length ball-location interactions
-#### Table 6.3.a. Network Properties of 2-length ff_pl2 Subgraph and The Largest Component
+#### Table 6.3.a. Network Properties of 2-length ff_pl2 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
 | pl2 |   18   |   52  |  5.7778  | 0.339869|  all nodes   |   3  |   3    |  all nodes   |
@@ -128,7 +138,7 @@ pl2 largest_component eccentricity: {0: 3, 1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7
 models aPLandscape")
 
 ### 6.2.4. Affordances of 3-length ball-location interactions
-#### Table 6.4.a. Network Properties of 3-length ff_pl3 Subgraph and The Largest Component
+#### Table 6.4.a. Network Properties of 3-length ff_pl3 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
 | pl3 |   18   |   43  |  4.7778  | 0.281045|   all nodes  |   3  |    3   |  all nodes   |
@@ -160,7 +170,7 @@ pl3 largest component:
 models aPLandscape")
 
 ### 6.2.5. Affordances of 4-length ball-location interactions
-#### Table 6.5.a. Network Properties of 4-length ff_pl4 Subgraph and The Largest Component
+#### Table 6.5.a. Network Properties of 4-length ff_pl4 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
 | pl4 |   18   |   18  |  2.0000  | 0.117647|[0,1,2,9,10,11]   4  |    6   |[6,7,15,16]
@@ -183,7 +193,7 @@ pl4 largest_component:
 models aPLandscape")
 
 ### 6.2.6. Affordances of 5-length ball-location interactions
-#### Table 6.6.a. Network Properties of 5-length ff_pl5 Subgraph and The Largest Component
+#### Table 6.6.a. Network Properties of 5-length ff_pl5 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
 | pl5 |   18   |   3   |  0.3333  | 0.019607|              |      |   1    |          |
@@ -196,7 +206,7 @@ models aPLandscape")
 ![](/images/inaPLandscape3lanes_pl5_interconnectivity.png "Figure 6.7. 5-length ball interactions in the APIN Graph that
 models aPLandscape")
 
-## 6.3. Global Affordances of the APIN Graph of All Possible Football Flow on the aPLandscape
+## 6.3. Global Affordances of APIN Graph of All Possible Football Flow on aPLandscape
 #### Table 6.7.a. Network Properties of i-length ff Graph and The Largest Component
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
