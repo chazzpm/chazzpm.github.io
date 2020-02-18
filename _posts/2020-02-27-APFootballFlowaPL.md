@@ -7,7 +7,7 @@ Charles R Paez Monzon - 2020 - aNatureTechnologies
 6. TOC
 {:toc}
 
-## 6.1. Affordances of the Space of Spaces to Build $\g$-motions in a Levy Flight
+## 6.1. Affordances of the Space of Spaces to Build Trajectories
 
 We choose human perception and cognition scale to model complexity in the aFootball Universe and this determine the level of 
 description of g-motion of ball-actions. **Ball-actions** are seen as _transformations on the ball location_ en reference to 
@@ -40,10 +40,13 @@ interactions in the range of i-length interactions determined by the diameter 5 
 Transformation on the aPLandscape")
 
 {% include info.html text="Centrality metric is computed to assign a score to each node. Let PL = (p, r) be a graph with a set
-of patch nodes P and a set of edge relations R. **Degree centrality** is defined as the number of edges incident upon a node.
-**Closeness centrality** is the inverse of farness, i.e. the sum of the shortest distances between a node and all the other
-nodes. **Betweenness centrality** quantifies the numberof times a node acts as a bridge along the shortest path between two
-other nodes. **Eigenvector centrality** measures the centrality of a node as a function of the centralities of its
+of patch nodes P and a set of edge relations R.
+Degree centrality is defined as the number of edges incident upon a node.
+Closeness centrality is the inverse of farness, i.e. the sum of the shortest distances between a node and all the other
+nodes. 
+Betweenness centrality quantifies the numberof times a node acts as a bridge along the shortest path between two
+other nodes.
+Eigenvector centrality measures the centrality of a node as a function of the centralities of its
 neighbors."%}
 
 ### 6.2.1. Affordances of 0-length ball-location interactions
