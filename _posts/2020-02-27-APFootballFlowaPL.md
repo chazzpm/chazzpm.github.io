@@ -51,7 +51,8 @@ neighbors."%}
 
 ### 6.2.1. Affordances of 0-length ball-location interactions
 
-Subgraph pl0 is unconnected with 18 isolated nodes. 
+Subgraph pl0 is unconnected with 18 isolated nodes.
+
 #### Table 6.1.a. Network Properties of 0-length ff_pl0 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    | radius |diameter|  periphery  | 
 |-----|--------|-------|----------|---------|--------------|--------|--------|-------------|
@@ -59,7 +60,6 @@ Subgraph pl0 is unconnected with 18 isolated nodes.
 
 node degree in pl0 nodes
 [(0, 2), (1, 2), (2, 2), (3, 2), (4, 2), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2)]
-
 
 #### Table 6.1.b All possible 0-length ball-action codes
 |sp|fp| 0_nb_ip_fp|sp|fp| 0_nb_ip_fp|sp|fp| 0_nb_ip_fp|
@@ -75,7 +75,8 @@ node degree in pl0 nodes
 models aPLandscape")
 
 ### 6.2.2. Affordances of 1-length ball-location interactions
-Subgraph pl1 is connected with none isolated nodes. 
+Subgraph pl1 is connected with none isolated nodes.
+
 #### Table 6.2.a. Network Properties of 1-length ff_pl1 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter|   periphery   | 
 |-----|--------|-------|----------|---------|--------------|------|--------|---------------|
@@ -108,7 +109,8 @@ pl1 largest_component:
 models aPLandscape")
 
 ### 6.2.3. Affordances of 2-length ball-location interactions
-Subgraph pl2 is connected with none isolated nodes. 
+Subgraph pl2 is connected with none isolated nodes.
+
 #### Table 6.3.a. Network Properties of 2-length ff_pl2 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
@@ -142,7 +144,8 @@ pl2 largest_component eccentricity: {0: 3, 1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7
 models aPLandscape")
 
 ### 6.2.4. Affordances of 3-length ball-location interactions
-Subgraph pl3 is connected with none isolated nodes. 
+Subgraph pl3 is connected with none isolated nodes.
+
 #### Table 6.4.a. Network Properties of 3-length ff_pl3 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
@@ -175,7 +178,8 @@ pl3 largest component:
 models aPLandscape")
 
 ### 6.2.5. Affordances of 4-length ball-location interactions
-Subgraph pl4 is connected with none isolated nodes. 
+Subgraph pl4 is connected with none isolated nodes.
+
 #### Table 6.5.a. Network Properties of 4-length ff_pl4 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
@@ -199,7 +203,8 @@ pl4 largest_component:
 models aPLandscape")
 
 ### 6.2.6. Affordances of 5-length ball-location interactions
-Subgraph pl5 is low connected with twelve isolated nodes. 
+Subgraph pl5 is low connected with twelve isolated nodes.
+
 #### Table 6.6.a. Network Properties of 5-length ff_pl5 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
