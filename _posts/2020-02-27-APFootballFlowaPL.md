@@ -40,7 +40,7 @@ interactions in the range of i-length interactions determined by the diameter 5 
 Transformation on the aPLandscape")
 
 {% include info.html text="Centrality metric is computed to assign a score to each node. Let PL = (p, r) be a graph with a set
-of patches P and a set of relations R. **Degree centrality** is defined as the number of edges incident upon a node.
+of patch nodes P and a set of edge relations R. **Degree centrality** is defined as the number of edges incident upon a node.
 **Closeness centrality** is the inverse of farness, i.e. the sum of the shortest distances between a node and all the other
 nodes. **Betweenness centrality** quantifies the numberof times a node acts as a bridge along the shortest path between two
 other nodes. **Eigenvector centrality** measures the centrality of a node as a function of the centralities of its
@@ -48,7 +48,7 @@ neighbors."%}
 
 ### 6.2.1. Affordances of 0-length ball-location interactions
 
-Subgraph pl0 is unconnected with 18 nodes isolated. 
+Subgraph pl0 is unconnected with 18 isolated nodes. 
 #### Table 6.1.a. Network Properties of 0-length ff_pl0 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    | radius |diameter|  periphery  | 
 |-----|--------|-------|----------|---------|--------------|--------|--------|-------------|
@@ -105,6 +105,7 @@ pl1 largest_component:
 models aPLandscape")
 
 ### 6.2.3. Affordances of 2-length ball-location interactions
+Subgraph pl2 is connected with none isolated nodes. 
 #### Table 6.3.a. Network Properties of 2-length ff_pl2 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
@@ -138,6 +139,7 @@ pl2 largest_component eccentricity: {0: 3, 1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7
 models aPLandscape")
 
 ### 6.2.4. Affordances of 3-length ball-location interactions
+Subgraph pl3 is connected with none isolated nodes. 
 #### Table 6.4.a. Network Properties of 3-length ff_pl3 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
@@ -170,6 +172,7 @@ pl3 largest component:
 models aPLandscape")
 
 ### 6.2.5. Affordances of 4-length ball-location interactions
+Subgraph pl4 is connected with none isolated nodes. 
 #### Table 6.5.a. Network Properties of 4-length ff_pl4 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
@@ -193,6 +196,7 @@ pl4 largest_component:
 models aPLandscape")
 
 ### 6.2.6. Affordances of 5-length ball-location interactions
+Subgraph pl5 is low connected with twelve isolated nodes. 
 #### Table 6.6.a. Network Properties of 5-length ff_pl5 Subgraph
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
