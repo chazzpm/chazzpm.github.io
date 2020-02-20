@@ -57,14 +57,13 @@ defined in this way depends both on the number of neighbors |P(i)| and the quali
 Subgraph pl0 is unconnected with 18 isolated nodes.
 
 #### Table 6.1.a. Network Properties of 0-length ff_pl0 Subgraph
+
 | pli | #nodes |#edges | avdegree | density |    center    | radius |diameter|  periphery  | 
 |-----|--------|-------|----------|---------|--------------|--------|--------|-------------|
 | pl0 |   18   |   18  |  2.0000  | 0.241830|   infinite   |infinite|infinite|  infinite   |
 
-node degree in pl0 nodes
-[(0, 2), (1, 2), (2, 2), (3, 2), (4, 2), (5, 2), (6, 2), (7, 2), (8, 2), (9, 2), (10, 2), (11, 2), (12, 2), (13, 2), (14, 2), (15, 2), (16, 2), (17, 2)]
-
 #### Table 6.1.b All possible 0-length ball-action codes
+
 |sp|fp| 0_nb_ip_fp|sp|fp| 0_nb_ip_fp|sp|fp| 0_nb_ip_fp|
 |--|--|-----------|--|--|-----------|--|--|-----------|
 | 0| 0|  0_0_0000 | 1| 1|  0_1_0101 | 2| 2|  0_2_0202 |
@@ -81,6 +80,7 @@ models aPLandscape")
 Subgraph pl1 is connected with none isolated nodes.
 
 #### Table 6.2.a. Network Properties of 1-length ff_pl1 Subgraph
+
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter|   periphery   | 
 |-----|--------|-------|----------|---------|--------------|------|--------|---------------|
 | pl1 |   18   |   37  |  4.1111  | 0.241830|    [8,17]    |   3  |   5    |[0,3,4,9,12,13]|
@@ -88,6 +88,7 @@ Subgraph pl1 is connected with none isolated nodes.
 ![](/images/inaPLpl1_centrality.png "Figure 6.3. 1-length ball interactions Centrality Measures of [9..17]-Patches")
 
 #### Table 6.2.b. All possible 1-length ball-action codes
+
 |sp|fp| 1_nb_ip_fp|sp|fp| 1_nb_ip_fp|sp|fp| 1_nb_ip_fp|
 |--|--|-----------|--|--|-----------|--|--|-----------|
 | 0| 1| '1_3_0001'| 0| 2| '1_7_0002'| 0| 5|'1_17_0005'|
@@ -111,11 +112,13 @@ models aPLandscape")
 Subgraph pl2 is connected with none isolated nodes.
 
 #### Table 6.3.a. Network Properties of 2-length ff_pl2 Subgraph
+
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
 | pl2 |   18   |   52  |  5.7778  | 0.339869|  all nodes   |   3  |   3    |  all nodes   |
 
 #### Table 6.3.b. All possible 2-length ball-action codes
+
 |sp|fp|2_nb_ip_fp|sp|fp|2_nb_ip_fp|sp|fp| 2_nb_ip_fp|
 |--|--|----------|--|--|----------|--|--|-----------|
 | 0| 3| 2_15_0003| 0| 6| 2_30_0006| 0|  4| 2_20_0004|
@@ -144,6 +147,7 @@ models aPLandscape")
 Subgraph pl3 is connected with none isolated nodes.
 
 #### Table 6.4.a. Network Properties of 3-length ff_pl3 Subgraph
+
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
 | pl3 |   18   |   43  |  4.7778  | 0.281045|   all nodes  |   3  |    3   |  all nodes   |
@@ -177,6 +181,7 @@ models aPLandscape")
 Subgraph pl4 is connected with none isolated nodes.
 
 #### Table 6.5.a. Network Properties of 4-length ff_pl4 Subgraph
+
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
 | pl4 |   18   |   18  |  2.0000  | 0.117647|[0,1,2,9,10,11]   4  |    6   |[6,7,15,16]
@@ -200,11 +205,13 @@ models aPLandscape")
 Subgraph pl5 is low connected with twelve isolated nodes.
 
 #### Table 6.6.a. Network Properties of 5-length ff_pl5 Subgraph
+
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
 | pl5 |   18   |   3   |  0.3333  | 0.019607|              |      |   1    |          |
 
 #### Table 6.6.b. All possible 5-length ball-action codes
+
 |sp|fp| 1_nb_ip_fp|sp|fp| 5_nb_ip_fp|sp|fp| 5_nb_ip_fp|
 |--|--|-----------|--|--|-----------|--|--|-----------|
 | 0| 9|  5_3_0009 | 3|12|  5_4_0312 | 4|13|  5_5_0413 |
@@ -214,6 +221,7 @@ models aPLandscape")
 
 ## 6.3. Global Affordances of APIN Graph of All Possible Football Flow on aPLandscape
 #### Table 6.7.a. Network Properties of i-length ff Graph and The Largest Component
+
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
 |  ff |   18   |  171  | 19.0000  |1.117647 |  all nodes   |   1  |   1    | all nodes|
@@ -241,7 +249,8 @@ Other important phenomenon for football flow fluity is the 'triad' concept. If t
 a patch in common - 1-length neighbor-, then there is an increased likelihood that they will interact with themselves at some
 point in the future. This property con be measured by a **local clusteriong coefficient cc**.
  
-#### Table 6.7.b. Triadic Closure Network Property APIN and its i-length pli SubGraphs 
+#### Table 6.7.b. Triadic Closure Network Property APIN and its i-length pli SubGraphs
+
 | TC-pl0 | TC-pl1 | TC-pl2 | TC-pl3 | TC-pl4 | TC-pl5  | TC-APIN | 
 |--------|--------|--------|--------|--------|---------|---------|
 |    0   |0.387096|0.276923|0.219512|   0.0  |   0.0   |   1.0   |
