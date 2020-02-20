@@ -30,8 +30,8 @@ exploitation of the environment to play football.
 
 ## 6.2. APIN Graph as Model of the Space of Spaces on the aPLandscape
 Now, we are ready to generate **all possible football flow of a ball on the aPLandscape**, without the presence of any player,
-any team, any head coaches. Just the **affordances or possible dynamics of football flow in the openness** where the ball moves
-the fastest and the easiest on the aPLandscape.
+any team, any head coaches. Just the **affordances or possible dynamics of football flow in the openness** where the ball
+moves the fastest and the easiest on the aPLandscape.
 
 The possible **football flow ff** graph will be decomposed in an atlas of football flow subgraphs of universal length-i 
 interactions in the range of i-length interactions determined by the diameter 5 of the PL graph.
@@ -237,10 +237,10 @@ exhibits:
 of the degree to which nodes in a graph tend to cluster together.%}
 
 The APIN graph exhibits **a triadic clousure of 1.0** that means each patch in the aPLandscape exhibits the tendency to
-cluster with any other patch in the aPLandscape. Therefore, from any patch we can interact with any other without preferences.
-but when whe study in detail the set of 1, 2 and 3-length interaction these tendency ar constrained by neighborhood. This is a
-**tactical** ball-actions of use 0-, 1-, 2- and, 3-length interactions while 4- and 5-length interactions are **strategic** 
-ball movements for football flow.
+cluster with any other patch and form triangles in the aPLandscape. Therefore, from any patch we can interact with any other
+without preferences, but when whe study in detail the set of 1, 2 and 3-length interaction these tendency ar constrained by
+neighborhood. This is a **tactical** ball-actions of use 0-, 1-, 2- and, 3-length interactions while 4- and 5-length 
+interactions are **strategic** ball movements for football flow.
 
 There is a phenomenon known as **the strength of weak ties**, 4-length and 5-length interactions in our aPLandscape, that
 explain the strategic use of those interactions to superdiffuse the ball flow to the opponent goal's patch.
