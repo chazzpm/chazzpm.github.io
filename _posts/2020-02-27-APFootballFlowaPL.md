@@ -42,12 +42,15 @@ Transformation on the aPLandscape")
 {% include info.html text="Centrality metric is computed to assign a score to each node. Let PL = (p, r) be a graph with a set
 of patch nodes P and a set of edge relations R.
 Degree centrality is defined as the number of edges incident upon a node.
+Farness/Peripherality of a patch v is defined as the sum of its distances to all other patches
 Closeness centrality is the inverse of farness, i.e. the sum of the shortest distances between a node and all the other
-nodes. 
-Betweenness centrality quantifies the numberof times a node acts as a bridge along the shortest path between two
-other nodes.
-Eigenvector centrality measures the centrality of a node as a function of the centralities of its
-neighbors."%}
+nodes. Closeness can be regarded as a measure of how long it will take to translate the ball from patch v to all other patches
+sequentially (with 1-length g-motions).
+Betweenness centrality quantifies the number of times a patch acts as a bridge along the shortest path between two
+other patches. We can see it as a measure for quantifying the aPLandscape-control of a patch on the football flow between
+other patches in the aPLandscape
+Eigenvector centrality measures the centrality of a node as a function of the centralities of its neighbors. The measure
+defined in this way depends both on the number of neighbors |P(i)| and the quality of its connections pj, j ∈ P(i)."%}
 
 ### 6.2.1. Affordances of 0-length ball-location interactions
 
@@ -82,11 +85,7 @@ Subgraph pl1 is connected with none isolated nodes.
 |-----|--------|-------|----------|---------|--------------|------|--------|---------------|
 | pl1 |   18   |   37  |  4.1111  | 0.241830|    [8,17]    |   3  |   5    |[0,3,4,9,12,13]|
 
-pl1 largest_component: 
-    eigenvector_centrality:  {0: 0.17221810801534532, 1: 0.21264060609600385, 2: 0.21264060609600385, 3: 0.1470561983341441, 4: 0.1470561983341441, 5: 0.32685158747502996, 6: 0.2825459585239474, 7: 0.2825459585239474, 8: 0.264880010611411, 9: 0.17221810801534532, 10: 0.21264060609600385, 11: 0.21264060609600385, 12: 0.1470561983341441, 13: 0.1470561983341441, 14: 0.32685158747502996, 15: 0.2825459585239475, 16: 0.2825459585239475, 17: 0.264880010611411}
-    betweenness_centrality: {0: 0.014254385964912283, 1: 0.05561301873221378, 2: 0.05561301873221378, 3: 0.04526984238671544, 4: 0.04526984238671544, 5: 0.1497345748506739, 6: 0.1576209072145605, 7: 0.1576209072145605, 8: 0.0690035025174344, 9: 0.014254385964912282, 10: 0.05561301873221378, 11: 0.055613018732213776, 12: 0.045269842386715456, 13: 0.045269842386715456, 14: 0.14973457485067396, 15: 0.15762090721456043, 16: 0.15762090721456046, 17: 0.0690035025174344}
-    closeness_centrality:  {0: 0.37777777777777777, 1: 0.4146341463414634, 2: 0.4146341463414634, 3: 0.37777777777777777, 4: 0.37777777777777777, 5: 0.4857142857142857, 6: 0.4857142857142857, 7: 0.4857142857142857, 8: 0.4857142857142857, 9: 0.37777777777777777, 10: 0.4146341463414634, 11: 0.4146341463414634, 12: 0.37777777777777777, 13: 0.37777777777777777, 14: 0.4857142857142857, 15: 0.4857142857142857, 16: 0.4857142857142857, 17: 0.4857142857142857}
-    eccentricity: {0: 5, 1: 4, 2: 4, 3: 5, 4: 5, 5: 4, 6: 4, 7: 4, 8: 3, 9: 5, 10: 4, 11: 4, 12: 5, 13: 5, 14: 4, 15: 4, 16: 4, 17: 3}
+![](/images/inaPLpl1_centrality.png "Figure 6.3. 1-length ball interactions Centrality Measures of [9..17]-Patches")
 
 #### Table 6.2.b. All possible 1-length ball-action codes
 |sp|fp| 1_nb_ip_fp|sp|fp| 1_nb_ip_fp|sp|fp| 1_nb_ip_fp|
@@ -105,7 +104,7 @@ pl1 largest_component:
 |14|15|'1_63_1415'|14|16|'1_68_1416'|14|17|'1_71_1417'|
 |15|17|'1_72_1517'|16|17|'1_73_1617'|  |  |           |
 
-![](/images/inaPLandscape3lanes_pl1_interconnectivity.png "Figure 6.3. 1-length ball interactions in the APIN Graph that 
+![](/images/inaPLandscape3lanes_pl1_interconnectivity.png "Figure 6.4. 1-length ball interactions in the APIN Graph that 
 models aPLandscape")
 
 ### 6.2.3. Affordances of 2-length ball-location interactions
@@ -115,8 +114,6 @@ Subgraph pl2 is connected with none isolated nodes.
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery    | 
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
 | pl2 |   18   |   52  |  5.7778  | 0.339869|  all nodes   |   3  |   3    |  all nodes   |
-
-pl2 largest_component eccentricity: {0: 3, 1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7: 3, 8: 3, 9: 3, 10: 3, 11: 3, 12: 3, 13: 3, 14: 3, 15: 3, 16: 3, 17: 3}
 
 #### Table 6.3.b. All possible 2-length ball-action codes
 |sp|fp|2_nb_ip_fp|sp|fp|2_nb_ip_fp|sp|fp| 2_nb_ip_fp|
@@ -140,7 +137,7 @@ pl2 largest_component eccentricity: {0: 3, 1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7
 |12|17|2_102_1217|13|14| 2_78_1314|13| 17|2_103_1317|
 |15|16| 2_95_1516|  |  |          |  |   |          |
 
-![](/images/inaPLandscape3lanes_pl2_interconnectivity.png "Figure 6.4. 2-length ball interactions in the APIN Graph that
+![](/images/inaPLandscape3lanes_pl2_interconnectivity.png "Figure 6.5. 2-length ball interactions in the APIN Graph that
 models aPLandscape")
 
 ### 6.2.4. Affordances of 3-length ball-location interactions
@@ -151,8 +148,7 @@ Subgraph pl3 is connected with none isolated nodes.
 |-----|--------|-------|----------|---------|--------------|------|--------|--------------|
 | pl3 |   18   |   43  |  4.7778  | 0.281045|   all nodes  |   3  |    3   |  all nodes   |
 
-pl3 largest component:
-    eccentricity:  {0: 3, 1: 3, 2: 3, 3: 3, 4: 3, 5: 3, 6: 3, 7: 3, 8: 3, 9: 3, 10: 3, 11: 3, 12: 3, 13: 3, 14: 3, 15: 3, 16: 3, 17: 3}
+![](/images/inaPLpl3_centrality.png "Figure 6.6. 3-length ball interactions Centrality Measures of [9..17]-Patches")
 
 #### Table 6.4.b. All possible 3-length ball-action codes
 
@@ -174,7 +170,7 @@ pl3 largest component:
 |10|13| 3_66_1013 |11|12| 3_61_1112 |12|16| 3_80_1216 |
 |13|15| 3_76_1315 |  |  |           |  |  |           |
 
-![](/images/inaPLandscape3lanes_pl3_interconnectivity.png "Figure 6.5. 3-length ball interactions in the APIN Graph that
+![](/images/inaPLandscape3lanes_pl3_interconnectivity.png "Figure 6.7. 3-length ball interactions in the APIN Graph that
 models aPLandscape")
 
 ### 6.2.5. Affordances of 4-length ball-location interactions
@@ -185,8 +181,6 @@ Subgraph pl4 is connected with none isolated nodes.
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
 | pl4 |   18   |   18  |  2.0000  | 0.117647|[0,1,2,9,10,11]   4  |    6   |[6,7,15,16]
 
-pl4 largest_component:
-    eccentricity: {0: 4, 1: 4, 2: 4, 3: 5, 4: 5, 5: 5, 6: 6, 7: 6, 9: 4, 10: 4, 11: 4, 12: 5, 13: 5, 14: 5, 15: 6, 16: 6}
 
 #### Table 6.5.b. All possible 4-length ball-action codes
 
@@ -199,7 +193,7 @@ pl4 largest_component:
 | 4|16| 4_35_0416 | 4|11| 4_24_0411 | 5| 9| 4_19_0509 |
 | 6|12| 4_28_0612 | 7|13| 4_31_0713 |12|13| 4_32_1213 |
 
-![](/images/inaPLandscape3lanes_pl4_interconnectivity.png "Figure 6.6. 4-length ball interactions in the APIN Graph that
+![](/images/inaPLandscape3lanes_pl4_interconnectivity.png "Figure 6.8. 4-length ball interactions in the APIN Graph that
 models aPLandscape")
 
 ### 6.2.6. Affordances of 5-length ball-location interactions
@@ -215,7 +209,7 @@ Subgraph pl5 is low connected with twelve isolated nodes.
 |--|--|-----------|--|--|-----------|--|--|-----------|
 | 0| 9|  5_3_0009 | 3|12|  5_4_0312 | 4|13|  5_5_0413 |
 
-![](/images/inaPLandscape3lanes_pl5_interconnectivity.png "Figure 6.7. 5-length ball interactions in the APIN Graph that
+![](/images/inaPLandscape3lanes_pl5_interconnectivity.png "Figure 6.9. 5-length ball interactions in the APIN Graph that
 models aPLandscape")
 
 ## 6.3. Global Affordances of APIN Graph of All Possible Football Flow on aPLandscape
