@@ -10,7 +10,7 @@ Charles R Paez Monzon - 2020 - aNatureTechnologies
 ## 6.1. Affordances of the Space of Spaces to Build Trajectories
 
 We choose human perception and cognition scale to model complexity in the aFootball Universe and this determine the level of 
-description of g-motion of ball-actions. **Ball-actions** are seen as _transformations on the ball location_ en reference to 
+description of γ-motion of ball-actions. **Ball-actions** are seen as _transformations on the ball location_ en reference to 
 the patch zonification of the aPLandscape. Our purpose is to handle uncertainty about huge number of possible ball location 
 sequences on the aPLandscape. Therefore, "reduce disorder" means accept to handle with coherence a universal co-existence of 
 **order and disorder**. This coherent complexity is kept along multiple-scales within human behavior perception and cognition. 
@@ -45,7 +45,7 @@ Degree centrality is defined as the number of edges incident upon a node.
 Farness/Peripherality of a patch v is defined as the sum of its distances to all other patches
 Closeness centrality is the inverse of farness, i.e. the sum of the shortest distances between a node and all the other
 nodes. Closeness can be regarded as a measure of how long it will take to translate the ball from patch v to all other patches
-sequentially (with 1-length g-motions).
+sequentially (with 1-length γ-motions).
 Betweenness centrality quantifies the number of times a patch acts as a bridge along the shortest path between two
 other patches. We can see it as a measure for quantifying the aPLandscape-control of a patch on the football flow between
 other patches in the aPLandscape
