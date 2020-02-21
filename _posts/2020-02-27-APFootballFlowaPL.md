@@ -234,20 +234,20 @@ exhibits:
 - **the same eccentricty 1** and,
 
 {% include alert.html text="Triadic closure is a measure of the tendency of edges in a graph to form triangles. It's a measure
-of the degree to which nodes in a graph tend to cluster together.%}
+of the degree to which nodes in a graph tend to cluster together."%}
 
 The APIN graph exhibits **a triadic clousure of 1.0** that means each patch in the aPLandscape exhibits the tendency to
 cluster with any other patch and form triangles in the aPLandscape. Therefore, from any patch we can interact with any other
-without preferences, but when whe study in detail the set of 1, 2 and 3-length interaction these tendency ar constrained by
+without preferences, but when whe study in detail the set of 1, 2 and 3-length interaction these tendency are constrained by
 neighborhood. This is a **tactical** ball-actions of use 0-, 1-, 2- and, 3-length interactions while 4- and 5-length 
 interactions are **strategic** ball movements for football flow.
 
 There is a phenomenon known as **the strength of weak ties**, 4-length and 5-length interactions in our aPLandscape, that
 explain the strategic use of those interactions to superdiffuse the ball flow to the opponent goal's patch.
 
-Other important phenomenon for football flow fluity is the 'triad' concept. If two patches in the aPLandscape -PL graph- have
-a patch in common - 1-length neighbor-, then there is an increased likelihood that they will interact with themselves at some
-point in the future. This property con be measured by a **local clusteriong coefficient cc**.
+Other important phenomenon for **football flow fluity** is the 'triad' concept. If two patches in the aPLandscape -PL graph-
+have a patch in common - 1-length neighbor-, then there is an increased likelihood that they will interact with themselves at
+some point in the future. This property con be measured by a **local clusteriong coefficient cc**.
  
 #### Table 6.7.b. Triadic Closure Network Property APIN and its i-length pli SubGraphs
 
