@@ -88,7 +88,7 @@ that increase the distance between patches in our half landscape and edges in th
 |-----|--------|-------|----------|---------|--------------|------|--------|---------------|
 | pl1 |   18   |   37  |  4.1111  | 0.241830|    [8,17]    |   3  |   5    |[0,3,4,9,12,13]|
 
-![](/images/inaPLpl1_centrality.png "Figure 6.3. 1-length ball interactions Centrality Measures of [9..17]-Patches")
+![](/images/inaPLpl1_centrality.png "Figure 6.3. 1-length ball interactions Centrality Measures of [9..17]-Patches [K Brown]")
 
 #### Table 6.2.b. All possible 1-length ball-action codes
 
