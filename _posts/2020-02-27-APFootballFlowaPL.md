@@ -220,11 +220,11 @@ Subgraph pl5 is low connected with twelve isolated nodes.
 models aPLandscape")
 
 ## 6.3. Global Affordances of APIN Graph of All Possible Football Flow on aPLandscape
-#### Table 6.7.a. Network Properties of i-length ff Graph and The Largest Component
+#### Table 6.7.a. Network Properties of i-length APIN Graph and The Largest Component
 
 | pli | #nodes |#edges | avdegree | density |    center    |radius|diameter| periphery| 
 |-----|--------|-------|----------|---------|--------------|------|--------|----------|
-|  ff |   18   |  171  | 19.0000  |1.117647 |  all nodes   |   1  |   1    | all nodes|
+| APIN|   18   |  171  | 19.0000  |1.117647 |  all nodes   |   1  |   1    | all nodes|
 
 The most relevant network property of the entire connected APIN graph is **its uniformity**. Any patch in the aPLandscape
 exhibits:
