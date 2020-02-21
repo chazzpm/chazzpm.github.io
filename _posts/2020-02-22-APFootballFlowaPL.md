@@ -1,4 +1,4 @@
-# 6. The Space of Spaces Affordances or All Possible aFootball Flow on aPLandscape IN CONSTRUCTION
+# 6. The Space of Spaces Affordances or All Possible aFootball Flow on aPLandscape
 
 Charles R Paez Monzon - 2020 - aNatureTechnologies
 
@@ -77,7 +77,10 @@ Subgraph pl0 is unconnected with 18 isolated nodes.
 models aPLandscape")
 
 ### 6.2.2. Affordances of 1-length ball-location interactions
-Subgraph pl1 is connected with none isolated nodes.
+Subgraph pl1 is connected with none isolated nodes. The central edge (8, 17), as well (3,13),(6,16),(7,15) and (4,12), is a
+**local bridge of span 3**, since the removal of this edge would increase the distance between 8 and 17 to 3. It is possible
+to think in the existence of obstacles whose effect would be practical as simultaneous removal of two or three central edges
+that increase the distance between patches in our half landscape and edges in the opponent"s half landscape edges.
 
 #### Table 6.2.a. Network Properties of 1-length ff_pl1 Subgraph
 
