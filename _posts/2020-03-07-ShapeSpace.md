@@ -1,10 +1,12 @@
-# 7. Shape-Space Architecture Created by a Minimal Team on the aPLandscape
+# Shape-Space Architecture of the aPLandscape - IN CONSTRUCTION
 **Charles R Paez Monzon** - 2020 - aNatureTechnologies
+
                           - " There are only things and sentients in the world in an horizont
                               in which their relations that are passing over " - Julian Barbour
                               
 7. TOC
 {:toc}
+
 ## 7.1. aFootball aPLandscape is a Shape-Space Architecture
 ### 7.1.1. Shape Space and Shape Space of Shape Spaces in aFootball
 Our aFootball **Universe is a close geometric-dinamical system**. The Universe **has only inside and a perimeter** -the bounded
@@ -37,6 +39,7 @@ data science sport analytics.
 
 The **reality in aFootball** is the **shape of ball-trajectories** using the centroid of each patch as ideal reference of any 
 point in the patch.
+
 ![](/images/WlandscapeaB.png "Figure 7.1.aPLandscape Canvas:The Shortest Path from Patch Centroids to Goal Patch Centroids"
 
 The **difference of shape** is a fundamental concept of **change** that distinguish events based on observable perception and 
@@ -44,9 +47,10 @@ cognition from inside of the closed Universe.  A **metrics for change or differe
 is the **variational principle** that can be used to handle the **evolution of the shape law** that encodes as initial 
 information the view of the relational state of any **alpha point** in phase space any where when Gon goes to on-ball control 
 state - **a break possession symmetry** -  and he - and his team mates - execute a possession phase whose task is build-up, 
-develop and end-up into an **omega point** in any point near by the opponent goal to create an **effective Levy flight** or try
-to score a goal whose outcome will be 1-out-of-m possibilities, where m:{score, miss it up, miss it left|right, kept possession,
-break-possession} and viceversa. If Gon - and its team mates - lost the ball and the breaks possession symmetry set up him - 
-and them - in off-ball relational state where his|their effort is oriented to re-gain possession and save the possibility of a 
-conceded goal.
-![](/images/LevyFlight.png "Figure 7.1. Trajectory from Patch Centroids to Goal Patch Centroids or Levy Flight to Patch-09"
+develop and end-up into an **omega point** in any point near by the opponent goal to create an **effective Levy flight** or
+try to score a goal whose outcome will be 1-out-of-m possibilities, where m:{score, miss it up, miss it left|right, kept
+possession, break-possession} and viceversa. If Gon - and its team mates - lost the ball and the breaks possession symmetry 
+set up him - and them - in off-ball relational state where his|their effort is oriented to re-gain possession and save the
+possibility of a conceded goal.
+
+![](/images/LevyFlight.png "Figure 7.2. Trajectory from Patch Centroids to Goal Patch Centroids or Levy Flight to P-09"
