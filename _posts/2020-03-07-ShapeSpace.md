@@ -40,7 +40,7 @@ data science sport analytics.
 The **reality in aFootball** is the **shape of ball-trajectories** using the centroid of each patch as ideal reference of any 
 point in the patch.
 
-![](/images/WaPLandscapeTHPs.png "Figure 7.1.aPLandscape Canvas:The Shortest Path from Patch Centroids to Goal Patch Centroids"
+![](/images/WaPLandscapeTHPs.png "Figure 7.1.aPLandscape Canvas:The Shortest Path from Patch Centroids to Goal Patch Centroids")
 
 The **difference of shape** is a fundamental concept of **change** that distinguish events based on observable perception and 
 cognition from inside of the closed Universe.  A **metrics for change or difference of shape** will be by *best matching*. It 
@@ -53,7 +53,7 @@ possession, break-possession} and viceversa. If Gon - and its team mates - lost 
 set up him - and them - in off-ball relational state where his|their effort is oriented to re-gain possession and save the
 possibility of a conceded goal.
 
-![](/images/LevyFlight.png "Figure 7.2. Trajectory from Patch Centroids to Goal Patch Centroids or Levy Flight to P-09"
+![](/images/LevyFlight.png "Figure 7.2. Trajectory from Patch Centroids to Goal Patch Centroids or Levy Flight to P-09")
 
 4 0
 effective LF ... goooooal
