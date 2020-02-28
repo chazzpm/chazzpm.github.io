@@ -35,6 +35,45 @@ that can be assimilated as an **invisible, but understood framework of reference
 the conection between our Academia Emeritense's talents, profesional players and head coaches views with those views of proper 
 data science sport analytics.
 
+## 7.2 Wisdom of the Homological Mirror Symmetry between Real and Ideal aFootball on aPLandscape
+At the fronteir of physical science we have reach _a sacred knowledge_ that is present since _antiquity wisdom_: 
+
+- There is _a homological mirror symetry between the real and the ideal world_[Frank Wilzcek].
+
+Applied to football in the mindset of a _patched landscape_ and the _fluid performance_ it can be summarized as:
+
+* _The shape-space-of-relations of the patched landscape tells to the players of a team _how to move_ 
+    - yin:  
+    > "**move the football in the same direction the longest you can**"
+    
+    Executing it, the football can reach the original point where the it started the movement and it is called **periodicity**
+    of the symmetry in **1D real**-line direction, where all numbers are positive if they are squared x<sup>2</sup> >= 0. The 
+    outcome is that the **shape-space over the horizon of ball-events fibrates** with the direction of the ball and all the 
+    framed patched landscape is a _field of fibration lines_.
+    
+    Additionaly, the **set of relevant affordances of the patched landscapeh** invites Gon to change the direction of movement 
+    or break the symmetry.
+    
+* _The fluid performance_ or distribution and movements of Gon and the rest of the players with respect of the ball tells to
+the _shape-space-over-the horizon-of-relations in the framed aPLandscape how to curve_ or _in which new direction the football
+can move on_.
+
+    - yang: 
+    > "**go to an empty space (choose the relevant affordance, an island of order and certainty) in the aPLandscape rounded by
+    closed spaces of uncertainty (to minimize surprise)**"
+    
+    The _new direction_ is a **symmetry break**. 
+    
+    There is a hierarchy of fundamental breaks. **i-direction** is perpendicular to the 1D-real horizontal direction and 
+    mirrors the framed landscape using the midgoals lines as reference.Therefore, *any point (x1,y1)* or coordinate of a point
+    in the framed landscape is a kind of *complex number x1 + y1i and _the square of i_ or i<sup>2</sup> is -1 < 0. The final
+    point (x2,y2) is other complex number x2 + y2i or vector of the symmetry break.
+     
+    The **shape space of shape-spaces** over an all possible ball-event horizon in football is a multidimensional hyperspace 
+    holding all possibles chains of symmetry breaks or trajectories of a complex system and only need information about the
+    _position_ (x1,y1) where the ball is and the _momenta_ or tangent vector directed to (x2,y2) in a system with N degrees of
+    freedom.
+    
 ### 7.1.2. Change as Difference of Shape of Ball-Trajectories
 
 The **reality in aFootball** is the **shape of ball-trajectories** using the centroid of each patch as ideal reference of any 
@@ -55,8 +94,11 @@ possibility of a conceded goal.
 
 ![](/images/LevyFlight.png "Figure 7.2. Trajectory from Patch Centroids to Goal Patch Centroids or Levy Flight to P-09")
 
+
 4 0
-effective LF ... goooooal
-Levy flight:  [0, 0, 6, 17, 8, 7, 11, 2, 9]
-sequence of interaction coded: 
-['0_0_0000', '2_30_0006', '2_97_0617', '1_70_1708', '1_35_0807', '3_55_0711', '4_26_1102', '4_18_0209']
+The sequence of patch centroids of the Levy flight:  [6, 13, 4, 6, 6, 6, 12, 12, 1, 7, 8, 0, 0, 6, 1, 7, 7, 9] is shown in 
+Figure 7.2; but most important is that it can be sintactically represented as a word of gamma-motions or a sequence of
+interactions coded as: 
+['2_73_0613', '5_5_1304', '3_30_0406', '0_6_0606', '0_6_0606', '4_28_0612', '0_12_1212', '4_27_1201', '2_39_0107', '1_35_0708', '2_44_0800', '0_0_0000', '2_30_0006', '1_23_0601', '2_39_0107', '0_7_0707', '3_44_0709']. 
+Therefore, **all possible aFootball that happened in a match can be represented as a sequences of words of gamma-motion 
+interaction codes**. 
